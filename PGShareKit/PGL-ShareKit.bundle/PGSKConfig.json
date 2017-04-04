@@ -1,0 +1,65 @@
+{
+    "version": "1.0",
+    "services": {
+                 "wechat":{
+                     "name":"common_share_weixinFriend",
+                     "appKey":"wx9eb0c14967cc1036",
+                     "appSecret":"2a9b1510924ee1216641afb61e0b80c0",
+                     "sloganImageName":"wx",
+                     "supportedShareTypes":["image", "webpage"]
+                 },
+                 "wechatMoments":{
+                     "name":"common_share_weixinMonent",
+                     "appKey":"wx9eb0c14967cc1036",
+                     "appSecret":"2a9b1510924ee1216641afb61e0b80c0",
+                     "sloganImageName":"pyq",
+                     "supportedShareTypes":["image", "webpage"]
+                 },
+                 "sina":{
+                     "name":"newuser_login_third_sina",
+                     "appKey":"3555837032",
+                     "appSecret":"31926fa05dc1fc58e89ce0f15e8cfa86",
+                     "sloganImageName":"wb",
+                     "redirectURL":"http://hsnkit.com/weibo/callback",
+                     "supportedShareTypes":["image", "webpage"]
+                 },
+                 "qqzone":{
+                     "name":"share_siteview_qzone",
+                     "appKey":"100303003",
+                     "sloganImageName":"qqzone",
+                     "supportedShareTypes":["image", "webpage"]
+                 },
+                 "qq":{
+                     "name":"share_sharemenu_sendtoQQ",
+                     "appKey":"100303003",
+                     "sloganImageName":"qq",
+                     "supportedShareTypes":["image", "webpage"]
+                 },
+                 "twitter":{
+                     "name":"Twitter",
+                     "sloganImageName":"tw",
+                     "supportedShareTypes":["image", "webpage"]
+                 },
+                 "facebook":{
+                    "name":"Facebook",
+                    "sloganImageName":"fb",
+                    "supportedShareTypes":["image", "webpage", "video"]
+                 }
+    },
+    "copyWritingTemplate":{
+        "default":"${title} | ${desc} ${url}",
+        "sina":"${title} | ${desc} ${url} @Camera360",
+        "twitter":"${title} | ${desc} ${url} @Camera360"
+    },
+    "cameraOrder":["wechat", "wechatMoments", "sina", "qq", "qqzone", "twitter"],
+    "SNSOrder":{"default":["facebook", "twitter", "wechat", "wechatMoments", "sina", "qqzone", "qq"],
+        "zh":["wechat", "wechatMoments", "sina", "qqzone", "qq", "facebook", "twitter"]
+    },
+}
+
+
+
+
+
+
+

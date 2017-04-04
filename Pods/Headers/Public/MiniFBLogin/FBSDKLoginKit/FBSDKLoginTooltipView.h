@@ -1,0 +1,1 @@
+../../../../MiniFBLogin/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h

@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "माफ कीजिए, आपके लॉगिन क्रिडेन्शियल्स का समय समाप्त हो चुका है। कृपया फिर से लॉगिन करें।";
+
+/* 408 */
+"408" = "कनेक्शन का प्रयास विफल हो गया। कृपया पुनः प्रयास करें।";
+
+/* 500 */
+"500" = "डेटा लोडिंग त्रुटि। कृपया बाद में पुनः प्रयास करें";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "सेल्फ़ी स्वचालित रूप से सहेजें";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "पल";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "शूट करें";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "WeChat पल";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "WeChat मित्र";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "हमने आपके %@ फ़ोन नंबर पर SMS सत्यापन कोड भेजा है";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "हमने खाता अपग्रेड शुरू कर दिया है, और अब से केवल ईमेल/फ़ोन द्वारा लॉगइन का समर्थन करेंगे। हमारी सदस्य सेवाओं का सामान्य उपयोग सुनिश्चित करने के लिए, कृपया अपना ईमेल/फ़ोन यथाशीघ्र लिंक करें।";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "हमने पहले ही खाता अपग्रेड शुरू कर दिया है, और आगे केवल ईमेल लॉगइन का समर्थन करेंगे। हमारी सदस्य सेवाओं का सामान्य उपयोग सुनिश्चित करने के लिए कृपया अपनी ईमेल यथाशीघ्र बाइंड करें।";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "वेक अप";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "बैकअप के लिए प्रतीक्षा हो रही है";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "व्यूफ़ाइंडर स्क्रीन";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "सत्यापन कोड भेज दिया गया है, कृपया जाँच करें";
+
+/* setting_password_footer */
+"setting_password_footer" = "स्टैंडअलोन या टच आईडी के लिए सहायक के रूप में उपयोग करें";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "अपने फ़ोटो Camera360 क्लाउड में अपलोड करें";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "केवल चार्जिंग के समय अपलोड करें";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "केवल WIFI पर अपलोड करें";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "3G और WIFI पर अपलोड करें";
+
+/* common_migration_alert */
+"common_migration_alert" = "डेटाबेस अपग्रेड हो रहा है";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "%ld मिनट पहले अपडेट किया गया";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "%ld मिनट पहले अपडेट किया गया";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "%ld घंटे पहले अपडेट किया गया";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "%ld घंटा पहले अपडेट किया गया";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "%ld दिन पहले अपडेट किया गया";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "%ld दिन पहले अपडेट किया गया";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "एक साथ 9 फ़ोटो तक";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "\"%@\"की स्थापना रद्द करें?";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "फ़िल्टर हटाने में असमर्थ, आपको कम-से-कम एक फ़िल्टर की ज़रूरत है!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "उन्नत सेटिंग्स में पैटर्न लॉक चालू करें।";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "एल्बम की अनुमति चालू करें";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "टच आईडी बंद है।";
+
+/* setting_touch_id */
+"setting_touch_id" = "टच आईडी";
+
+/* gallery_today */
+"gallery_today" = "आज";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "अपने उत्तर की समय पर प्राप्ति सुनिश्चित करने के लिए, कृपया संदेश पुश अनुमतियाँ खोलें।";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "युक्तियाँ: फ़ोटो सहेजने के लिए वॉल्यूम कुंजी दबाएँ!";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "समय";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "इस हफ़्ते";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "यह ईमेल अन्य Camera360 सदस्य द्वारा पंजीकृत की गई है।";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "आपके द्वारा दर्ज किया पासवर्ड ग़लत है।";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "पासवर्ड 6-20 वर्णों का होना चाहिए।";
+
+/* common_check_network */
+"common_check_network" = "नेटवर्क उपलब्ध नहीं है।कृपया अपनी नेटवर्क सेटिंग्स की जाँच करें।";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "उपयोगकर्ता नाम मोजूद नहीं";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "फ़ीडबैक";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "कैमरा रोल में सिंक करें";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "क्या आप यह पज़ल वाकई छोड़ना चाहते हैं?";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "क्या आप %d फ़ोटो वाकई हटाना चाहते हैं?";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "शक्ति";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "प्रारंभ करें";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "प्रारंभ करें";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "पसंदीदा से फ़िल्टर निकालें?";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "विशेष प्रभावों की स्थापना उपयोग के समय रद्द नहीं की जा सकती";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "SMS सत्यापन कोड %@ को भेजा जाएगा";
+
+/* password_skip */
+"password_skip" = "छोड़ें";
+
+/* imageshow_size */
+"imageshow_size" = "आकार:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "Weibo";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "दूसरी तरह से साइन इन करें";
+
+/* common_share */
+"common_share" = "साझा करें";
+
+/* settings */
+"settings" = "सेटिंग्स";
+
+/* password_set_questions */
+"password_set_questions" = "सुरक्षा प्रश्न सेट करें";
+
+/* newuser_set_password */
+"newuser_set_password" = "पासवर्ड सेट करें";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "Camera360 खाता पासवर्ड सेट करें";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "सेवा की शर्तें";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "%zd फ़ोटो चुनी गईं";
+
+/* selectPhoto */
+"selectPhoto" = "फ़ोटो चुनें";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "सभी चुनें";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "चुनें";
+
+/* scene_template */
+"scene_template" = "दृश्य टेम्प्लेट";
+
+/* saving_photo */
+"saving_photo" = "फ़ोटो सहेजी जा रही है...";
+
+/* common_save */
+"common_save" = "सहेजें";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "घुमाएँ";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "अपना पासवर्ड ईमेल द्वारा पुनः प्राप्त करें";
+
+/* product_restore */
+"product_restore" = "बहाल करें";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "फिर से भेजें";
+
+/* reloading */
+"reloading" = "पुनः लोड करें";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "पंजीकरण का मतलब है कि आप सहमत हैं";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "पंजीकरण करें";
+
+/* newuser_register */
+"newuser_register" = "पंजीकरण करें";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "ताज़ा करना विफल, नेटवर्क सेटिंग्स की जाँच करें।";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "हाल का बैकअप: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "हमारा मूल्यांकन करें";
+
+/* setting_rateus */
+"setting_rateus" = "मूल्यांकन व समीक्षा करें";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "Qzone";
+
+/* password_question_title */
+"password_question_title" = "प्रश्न:";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "पज़ल";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "ताज़ा करने के लिए नीचे खींचें";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "प्रोफ़ाइल चित्र";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "पूर्वावलोकन लोड करना विफल";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "कृपया अपने फ़िंगरप्रिंट की पुष्टि करें";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "कृपया फ़ोटो चुनें।";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "कृपया सुनिश्चित करें कि टच आईडी चालू है।";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "टच आईडी चालू करने के लिए कृपया सेटिंग्स में जाएँ।";
+
+/* newuser_input_email */
+"newuser_input_email" = "कृपया अपना पंजीकृत ईमेल पता दर्ज करें और हम आपको यादृच्छिक पासवर्ड भेज देंगे।";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "कृपया अपना पंजीकृत ईमेल दर्ज करें";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "कृपया अपना फ़ोन नंबर दर्ज करें";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "अपनी ईमेल दर्ज करें";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "कृपया अपना ईमेल पता दर्ज करें";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "सत्यापन कोड";
+
+/* password_answer_title */
+"password_answer_title" = "कृपया उत्तर दर्ज करें";
+
+/* newuser_input_password */
+"newuser_input_password" = "कृपया पासवर्ड दर्ज करें";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "कृपया ईमेल पता दर्ज करें";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "कृपया खाता दर्ज करें";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "चित्र कैमरा रोल में निर्यात हो गए हैं";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "चित्र फ़ॉरमेट ग़लत है, कृपया पुनः अपलोड करें";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "फ़ोटो आयात हो गई है!";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "फ़ोटो पता:";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "फ़ोटो";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "फ़ोन नंबर अमान्य है";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "फ़ोन नंबर";
+
+/* newuser_account */
+"newuser_account" = "निजी जानकारी";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "पैटर्न";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "पैटर्न लॉक बंद है। इसे अभी चालू करें?";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "पैटर्न लॉक";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "पासवर्ड के लिए 6-20 वर्णों की ज़रूरत है";
+
+/* password_different */
+"password_different" = "पासवर्ड मिलान में नहीं है। कृपया पुनः प्रयास करें।";
+
+/* password_wrong */
+"password_wrong" = "पासवर्ड ग़लत है। कृपया पुनः प्रयास करें।";
+
+/* setting_auto_save */
+"setting_auto_save" = "अन्य कैमरा सहेजें मोड";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "अन्य एल्बम";
+
+/* gallery_high_org */
+"gallery_high_org" = "मूल (कोई प्रभाव नहीं)";
+
+/* original */
+"original" = "मूल";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "चालू";
+
+/* common_ok */
+"common_ok" = "ठीक";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "बंद";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "नंबर पहले ही पंजीकृत है,\nलॉगइन करें?";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "नंबर पहले ही पंजीकृत है";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "अब Camera360 के साथ अपना जीवन रिकॉर्ड करें!";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "बाउंड नहीं है";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "नहीं, धन्यवाद!";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "कोई वास्तविक-समय का पूर्वावलोकन नहीं है";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "अभी तक कोई फ़ोटो नहीं है";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "कोई फ़ोटो नहीं है";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "उपनाम";
+
+/* newuser_next */
+"newuser_next" = "अगला";
+
+/* password_next_step */
+"password_next_step" = "अगला";
+
+/* common_network_error */
+"common_network_error" = "नेटवर्क त्रुटि। कृपया बाद में पुनः प्रयास करें।";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "नेटवर्क त्रुटि";
+
+/* gallery_networkError */
+"gallery_networkError" = "नेटवर्क त्रुटि";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "मेरी एल्बम";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "संशोधित करना विफल। कृपया पुनः प्रयास करें।";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "मिरर";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "सदस्य विशेष प्रभावों का आनंद लेते हैं, डाउनलोड करने के लिए लॉगइन करें।";
+
+/* setting_manual */
+"setting_manual" = "मैनुअल";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "हम आपके मूल्यांकन के लिए उत्सुक हैं";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "SMS सत्यापन का उपयोग करके लॉगइन करें";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "लॉगइन मुद्दे हैं?";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "तृतीय पक्ष लॉगिन विफल हुआ";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "लॉगइन खाते";
+
+/* common_login */
+"common_login" = "लॉगइन करें";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "लॉगिंग आउट करने से क्लाउड एल्बम, फ़िल्टर और अन्य सदस्य सेवाएँ अक्षम हो जाएँगी, क्या आप वाकई यह चाहते हैं?";
+
+/* common_loading */
+"common_loading" = "लोड हो रहा है...";
+
+/* loading_message */
+"loading_message" = "लोड हो रहा है...";
+
+/* setting_live_preview */
+"setting_live_preview" = "लाइव पूर्वावलोकन";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "लिंक सफल";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "फ़ोन नंबर लिंक करें";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "ईमेल लिंक करें";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "हमें पसंद करते हैं? हमारा मूल्यांकन करें!";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "शामिल हों";
+
+/* product_invalid */
+"product_invalid" = "अमान्य";
+
+/* setting_intro */
+"setting_intro" = "परिचय वीडियो";
+
+/* store_installing */
+"store_installing" = "व्यस्त";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "इस पृष्ठ से बाहर निकलने से पुनः प्राप्ति समाप्त हो जाएगी, क्या आप वाकई ऐसा चाहते हैं?";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "खाते की सुरक्षा बढ़ाएँ";
+
+/* camera_in_use */
+"camera_in_use" = "उपयोग में";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "कतार में";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "मेरी एल्बम में आयात करें";
+
+/* gallery_import */
+"gallery_import" = "आयात करें";
+
+/* password_question_tips */
+"password_question_tips" = "अगर आप पासवर्ड भूल जाते हैं, तो आप सुरक्षा प्रश्नों से इसे रीसेट कर सकते हैं।";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "मैं Camera360 द्वारा फ़ोटो साझा करता हूँ";
+
+/* setting_home_ui */
+"setting_home_ui" = "होम";
+
+/* galley_high_definition */
+"galley_high_definition" = "HD प्रभाव चित्र";
+
+/* setting_composition */
+"setting_composition" = "ग्रिड";
+
+/* common_got_it */
+"common_got_it" = "समझ गए।";
+
+/* product_free */
+"product_free" = "निःशुल्क";
+
+/* product_unlock_title */
+"product_unlock_title" = "एनीमी स्काई";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "आपके बचपन की कल्पनाओं के माध्यम से यात्रा";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "निःशुल्क";
+
+/* puzzle_frames */
+"puzzle_frames" = "फ़्रेम";
+
+/* newuser_find_password */
+"newuser_find_password" = "पासवर्ड भूल गए";
+
+/* password_forget */
+"password_forget" = "पासवर्ड भूल गए हैं?";
+
+/* newuser_code_input */
+"newuser_code_input" = "सत्यापन कोड भरें";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "सिस्टम एल्बम में फ़ोटो सहेजना विफल";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "हटाना विफल";
+
+/* setting_face_auto */
+"setting_face_auto" = "चेहरा पहचान";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "F";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "चित्र कैमरा रोल को निर्यात करें: सेटिंग्स > गोपनीयता > फ़ोटो > Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "फ़ोटो निर्यात विकल्प";
+
+/* gallery_export */
+"gallery_export" = "निर्यात";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "EV";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "त्रुटि। कृपया पुनः लॉगइन करें।";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "उपयोगकर्ता नाम दर्ज करें";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "फ़ोन नंबर";
+
+/* keys */
+"keys" = "hi";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "ईमेल भेज दिया गया है, कृपया जाँच करें";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "ईमेल पहले ही पंजीकृत है";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "ई-मेल फ़ॉरमेट त्रुटि";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "ई-मेल पहले ही पंजीकृत है,\nलॉगइन करें?";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "ई-मेल";
+
+/* common_email */
+"common_email" = "ईमेल";
+
+/* effects_include_count */
+"effects_include_count" = "प्रभाव शामिल हैं";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "प्रभाव:";
+
+/* effect_install_error */
+"effect_install_error" = "प्रभाव स्थापना विफल";
+
+/* imageshow_edit */
+"imageshow_edit" = "संपादित करें";
+
+/* password_draw_new */
+"password_draw_new" = "नया ग्राफ़िकल पासवर्ड ड्रॉ करें";
+
+/* password_draw_again */
+"password_draw_again" = "ग्राफ़िकल पासवर्ड फिर से ड्रॉ करें";
+
+/* password_draw */
+"password_draw" = "ग्राफ़िकल पासवर्ड ड्रॉ करें";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "डाउनलोड हो रहा है, हटाने में असमर्थ।";
+
+/* gallery_downloading */
+"gallery_downloading" = "डाउनलोड हो रहा है";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "फ़ोटो एल्बम में डाउनलोड करें";
+
+/* gallery_taskList */
+"gallery_taskList" = "फ़ोटो डाउनलोड करें";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "डाउनलोड विफल";
+
+/* common_download */
+"common_download" = "डाउनलोड करें";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "संपन्न!";
+
+/* cloud_download_success */
+"cloud_download_success" = "संपन्न";
+
+/* done */
+"done" = "संपन्न";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "संपन्न";
+
+/* password_succeed */
+"password_succeed" = "संपन्न";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "अक्षम";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "आयाम:";
+
+/* imageshow_device */
+"imageshow_device" = "डिवाइस:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "चयन हटाएँ";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "फ़ोटो हटाएँ";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "%zd फ़ोटो हटाएँ";
+
+/* common_delete */
+"common_delete" = "हटाएँ";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "हटाएँ";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "फ़ोटो डाउनलोड करने के लिए आपके सेवा प्रदाता से डेटा शुल्क लागू हो सकते हैं।";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "मौजूदा खाता";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "क्रॉप करें";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "स्थापना रद्द करने की पुष्टि करें?";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "फ़ोन नंबर की पुष्टि करें";
+
+/* gallery_collage */
+"gallery_collage" = "कोलाज़";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "नेटवर्क अपलोड करें";
+
+/* setting_cloud */
+"setting_cloud" = "क्लाउड एल्बम सेटिंग्स";
+
+/* gallery_cloud */
+"gallery_cloud" = "क्लाउड एल्बम";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "बंद करें";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "नाम बदलें";
+
+/* setting_password_change */
+"setting_password_change" = "एल्बम पासवर्ड बदलें";
+
+/* common_cancel */
+"common_cancel" = "रद्द करें";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "Camera360 उपयोगकर्ता अनुबंध";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "Camera360 की आपके कैमरा रोल तक पहुँच नहीं है। कृपया सेटिंग्स -> गोपनीयता -> फ़ोटो में जाएँ और Camera360 चालू करें।";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "कैमरा सर्विस चालू नहीं है। इसलिए यह फ़ोटो लेने में असमर्थ है।आप सेटिंग्स में कैमरा सर्विस चालू कर सकते हैं।\r\n(सेटिंग्स-> गोपनीयता-> कैमरा-> Camera360 चालू करें में जाएँ)";
+
+/* takingPictures */
+"takingPictures" = "कैमरा";
+
+/* newuser_bind */
+"newuser_bind" = "बाइंड हो रहा है";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "बैकअप पूर्ण है!";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "%zd फ़ोटो का बैकअप हो रहा है";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "बैकअप हो रहा है";
+
+/* common_back */
+"common_back" = "वापस";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "स्वचालित अपलोड";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "स्वचालित बैकअप बंद";
+
+/* setting_auto */
+"setting_auto" = "स्वचालित";
+
+/* password_verify */
+"password_verify" = "प्रमाणीकरण";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "कम-से-कम 2 चित्र";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "क्या आप वाकई %@ हटाना चाहते हैं?";
+
+/* store_installed */
+"store_installed" = "लागू करें";
+
+/* password_answer */
+"password_answer" = "उत्तर:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "उत्तर ग़लत है। कृपया पुनः प्रयास करें।";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "एल्बम एन्क्रिप्शन";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "एल्बम पहुँच त्रुटि";
+
+/* gallery_album */
+"gallery_album" = "एल्बम";
+
+/* gallery_photos */
+"gallery_photos" = "एल्बम";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "सफल बाइंड के बाद, आप अपने फ़ोन नंबर और पासवर्ड का उपयोग करके लॉगइन कर सकते हैं।";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "सफल बाइंड के बाद, आप अपनी ईमेल और पासवर्ड का उपयोग करके लॉगइन कर सकते हैं।";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "खाता नंबर ग़लत है";
+
+/* setting_about */
+"setting_about" = "परिचय";
+
+/* password_too_short */
+"password_too_short" = "कम-से-कम 3 पाइंट जोड़े जाने चाहिए।\nकृपया पुनः प्रयास करें।";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "%zd फ़ोटो डाउनलोड हो रहे हैं";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "%@ संपादन समर्थित नहीं है";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "%@ ग्राहक स्थापित नहीं है, क्या वाकई  तुरंत स्थापित करना चाहते हैं?";
+
+/* effects_include */
+"effects_include" = "सामग्री";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "180s से अधिक समय से निष्क्रिय, हायबरनेट हो रहा है...";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "प्रभाव स्टोर";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "पसंदीदा में प्रभाव जोड़े";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "मूल";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "रात्रि मोड बंद";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "रात्रि मोड चालू";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "रात्रि सेल्फ़ी बंद";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "रात्रि सेल्फ़ी चालू";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "टच कैप्चर बंद";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "टच कैप्चर चालू";
+
+/* camera_scene */
+"camera_scene" = "पोस्टर कैमरा";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "ऑटो EV/फ़ोकस लॉक";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "लाइव पूर्वावलोकन चालू करें ";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "आसान कैम";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "फ़ोटो उत्पन्न करना";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "मौन कैप्चर मोड चालू, फ़ोटो का आकार और गुणवत्ता प्रभावित होगी";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "मौन कैप्चर मोड बंद";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "रद्द करें";
+
+/* homepage_camera */
+"homepage_camera" = "कैमरा";
+
+/* homepage_setting */
+"homepage_setting" = "मैं";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "कृपया अपना पंजीकृत ईमेल पता दर्ज करें और हम आपको यादृच्छिक पासवर्ड भेज देंगे।";
+
+/* newuser_logout */
+"newuser_logout" = "लॉगआउट करें";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "पासवर्ड के लिए 6-20 वर्णों की ज़रूरत है";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "ऐप शुरू करने के बाद आप होम या कैमरा इंटरफ़ेस में प्रवेश करना चुन सकते हैं।";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "कैप्चर इंटरफ़ेस पर प्रभाव देखने के लिए लाइव पूर्वावलोकन चालू करें, लेकिन इससे अंतराल पैदा हो सकता है।";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "सामने के लेंस का उपयोग करते समय चालू करने से फ़ोटो, मिरर छवियों के रूप में सहेजी जाएँगी।";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "मिरर मोड";
+
+/* setting_photo_save */
+"setting_photo_save" = "फ़ोटो सहेजने की सेटिंग्स";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "आप कैप्चर करने के बाद फ़ोटो स्वचालित रूप से सहेजना चुन सकते हैं।";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "अगर बंद किया जाता है, तो आप अपनी सिस्टम एल्बम में फ़ोटो मैनुअल रूप से निर्यात कर सकते हैं।";
+
+/* setting_start_ui */
+"setting_start_ui" = "स्टार्टअप इंटरफ़ेस";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "पोर्ट्रेट";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "गहरा";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "रात";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "बैकलाइट";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "दर्शनीय";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "समूह";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "कम-से-कम एक प्रभाव पैक रखें";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "ऐप सूची";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "सफलतापूर्वक सहेजा गया";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "ऑटो-एक्सपोज़र लॉक";
+
+/* settingView_FQ */
+"settingView_FQ" = "आम प्रश्न";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "अनुपात";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "Multigrid";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "Double Ex";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "उपयोगकर्ता खाते की अवधि समाप्त हो गई है, फ़ोटो बैकअप स्वचालित रूप से पुनः प्राप्त करने के लिए, कृपया अपना पासवर्ड दर्ज करें और लॉग इन करें";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "एल्बम में सहेजा गया";
+
+/* loadPage_skip */
+"loadPage_skip" = "छोड़ें";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "आसान कैमरा";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "सेल्फ़ी कैमरा";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "मेरी एल्बम";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "ऑटो-कंटूर चालू";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "ऑटो-कंटूर बंद";
+
+/* skin */
+"skin" = "स्किन";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "प्राप्त करें";
+
+/* Edit template */
+"Edit template" = "टेम्प्लेट संपादित करें";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "डाउनलोड विफल, कनेक्शन की जाँच करें!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "अपना चेहरा संरेखित करें";
+
+/* video_preview_title */
+"video_preview_title" = "पूर्वावलोकन";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Camera360 फ़नी स्टिकर्स";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "कितना जादुई स्टिकर है, मैं अभिभूत हूँ, आज़माना चाहते हैं?";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "सहेजना विफल, पुनः प्रयास करें";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "वीडियो गोटु सहेजने के लिए: सेटिंग्स -> गोपनीयता -> फ़ोटो -> Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "सहेजें";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "अपलोड हो रहा है...";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "रिकॉर्ड हेतु होल्ड करें";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "माइक्रोफ़ोन सेवा बंद है, ध्वनि रिकॉर्ड नहीं हो सकती। इसे चालू करने के लिए आप सेटिंग्स पर जा सकते हैं। \r\n(सेटिंग्स-गोपनीयता-माइक्रोफ़ोन- Camera360 के लिए माइक चालू करें)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "सहेजा गया";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "जब MultiGrid या Double EX  चालू हो, तो रिकॉर्ड नहीं हो सकता";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "यह देखकर खेद हुआ कि आपका सेलफ़ोन निष्पादन और संगतता की समस्या के कारण \"फ़नी स्टिकर\" का समर्थन नहीं करता";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Camera360 फ़नी स्टिकर्स";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "कितना जादुई स्टिकर है, मैं अभिभूत हूँ, आज़माना चाहते हैं?";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "WeChat";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "पिछला लॉगइन";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "Camera360 अधिसूचनाएँ चालू करें";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "दुनिया भर से उपयोगकर्ताओं से \"पसंद\" कभी न छूटे❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "चालू करना";
+
+/* c_mall */
+"c_mall" = "पाइंट रीडीम";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "गोपनीयता नीति";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "अपना मुँह खोलें";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "अपनी भौं उठाएँ";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "इससे साझा करें";
+
+/* Ccoin */
+"Ccoin" = "C कॉइन";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "अभी प्रारंभ करें";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "%zd %@ सभी नए स्टिकर के कुल सेट शामिल हैं, छोड़ें नहीं!";
+
+/* store_buy_now */
+"store_buy_now" = "अभी ख़रीदें";
+
+/* store_restore_all */
+"store_restore_all" = "बहाल करें";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "ख़रीदे गए सभी स्टिकर गैर-वाईफ़ाई परिवेश में बहाल करें?";
+
+/* sticker_manage */
+"sticker_manage" = "स्टिकर प्रबंधित करें";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "कोई डाउनलोड नहीं है";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "बहाल करने के लिए कोई स्टिकर नहीं है";
+
+/* store_feedback */
+"store_feedback" = "फ़ीडबैक";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "प्रक्रिया हो रही है...";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "Camera360 सर्वोत्तम होता है जब नीचे की पहुँच चालू होती हैं";
+
+/* auth_camera_title */
+"auth_camera_title" = "कैमरा पहुँच";
+
+/* auth_camera_des */
+"auth_camera_des" = "शूट करने के लिए चालू करें";
+
+/* auth_mic_title */
+"auth_mic_title" = "माइक पहुँच";
+
+/* auth_mic_des */
+"auth_mic_des" = "वीडियो के लिए ध्वनि रिकार्ड करें";
+
+/* auth_location_title */
+"auth_location_title" = "स्थान की पहुँच";
+
+/* auth_location_des */
+"auth_location_des" = "स्थान के साथ फ़ोटो";
+
+/* auth_notification_title */
+"auth_notification_title" = "अधिसूचना पहुँच";
+
+/* auth_notification_des */
+"auth_notification_des" = "अनुस्मारक चालू करें";
+
+/* auth_got */
+"auth_got" = "समझ गए";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "अनलॉक करने के लिए साझा करें";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "अब शूटिंग हो रही है";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "वीडियो %zd सेकंड से अधिक हो सकता";
+
+/* video_import_not_support */
+"video_import_not_support" = "वीडियो आयात समर्थित नहीं है";
+
+/* video_import_fail */
+"video_import_fail" = "निर्यात करना विफल";
+
+/* poker_error_tips */
+"poker_error_tips" = "क्षमा करें, कृपया पुनः प्रयास करें";
+
+/* poker_making_tips */
+"poker_making_tips" = "इस फ़िल्टर के लिए नेटवर्क मानचित्रण की आवश्यकता है, इसमें कुछ समय लग सकता है";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "यह फ़िल्टर डबल एक्सपोजर या बहु-ग्रिड का सपोर्ट नहीं करता";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "अधिकतम %tu फ़ोटो चुन सकते हैं";
+
+/* album_select_one_video */
+"album_select_one_video" = "केवल 1 वीडियो चुन सकते हैं";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "केवल इस मोड में फ़ोटो चुन सकते हैं";
+
+/* effect_store_vip */
+"effect_store_vip" = "केवल सदस्यों के लिए";
+
+/* pc_challenge */
+"pc_challenge" = "चुनौती";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "%d दिन शेष";
+
+/* pc_over */
+"pc_over" = "समाप्त";
+
+/* pc_my_works */
+"pc_my_works" = "मेरा काम";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "शेष काम";
+
+/* pc_join */
+"pc_join" = "शामिल हों";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "मतदान करें";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "मतदान";
+
+/* pc_prepare */
+"pc_prepare" = "तैयारी हो रही है";
+
+/* pc_interest_people */
+"pc_interest_people" = "इच्छुक लोग";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "अनुशंसित";
+
+/* pc_publish */
+"pc_publish" = "सबमिट करें";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "कोई अनुयायी नहीं है";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "अकेलापन ख़राब है~";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "स्थान प्राप्त करने में असमर्थ";
+
+/* pc_c_coins */
+"pc_c_coins" = "C कॉइन";
+
+/* pc_experience */
+"pc_experience" = "अनुभव";
+
+/* pc_delete */
+"pc_delete" = "हटाएँ";
+
+/* pc_report */
+"pc_report" = "रिपोर्ट करें";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "हिट्स की संख्या";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "क्रॉस-शहर हिट्स";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "पसंद की संख्या";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "《%@》में %d%% चैलेंजर पराजित किए";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "पुरस्कार प्राप्त करें";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%% उपयोगकर्ता आपके चयन का समर्थन करते हैं";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "चुनौती में जाएँ";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "कृपया और कार्यों के लिए प्रतीक्षा करें";
+
+/* pc_vote_end */
+"pc_vote_end" = "मतदान समाप्त हो गया";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "काम को जितने अधिक वोट मिलेंगे, इसकी रैंकिंग उतनी ही ऊँची होगी और आपको अधिक C सिक्के मिलेंगे";
+
+/* pc_ok */
+"pc_ok" = "ठीक";
+
+/* pc_delete_success */
+"pc_delete_success" = "हटाया गया";
+
+/* pc_reported_success */
+"pc_reported_success" = "सफलतापूर्वक सूचना दी गई";
+
+/* pc_just_now */
+"pc_just_now" = "अभी-अभी";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d मिनट पहले";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d (घंटा) घंटे पहले";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d दिन पहले";
+
+/* pc_months_ago */
+"pc_months_ago" = "%1$d महीना(ने) पहले";
+
+/* pc_years_ago */
+"pc_years_ago" = "%1$d साल पहले";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "प्राप्त करने पर बधाई";
+
+/* pc_share */
+"pc_share" = "साझा करें";
+
+/* pc_start_voting */
+"pc_start_voting" = "वोटिंग शुरू करें";
+
+/* pc_yesterday */
+"pc_yesterday" = "बीता कल";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "चुनौती में शामिल हों";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "कार्य हटा दिया गया है";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "%d रैंक";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "अधिक सामग्री की खोज करने के लिए लॉगइन करें";
+
+/* pc_login */
+"pc_login" = "लॉगइन करें";
+
+/* pc_collection */
+"pc_collection" = "संग्रह";
+
+/* pc_saved */
+"pc_saved" = "सहेजा गया";
+
+/* pc_removed */
+"pc_removed" = "हटाएँ";
+
+/* pc_download_template */
+"pc_download_template" = "टेम्प्लेट डाउनलोड करें";
+
+/* pc_use_template */
+"pc_use_template" = "टेम्प्लेट का उपयोग करें";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "C स्टोर जल्द आ रहा है";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "चुनौती में शामिल हों";
+
+/* pc_participants_num */
+"pc_participants_num" = "%@ प्रतिभागी";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd चैलेंजर्स";
+
+/* pc_hot_task */
+"pc_hot_task" = "हॉट चुनौतियाँ";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "चैलेंजर्स";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "अभी सम्मिलित हों और पुरस्कारों के लिए दावा करें";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》क्या आप तैयार हैं?";
+
+/* pc_challenger */
+"pc_challenger" = "चैलेंजर";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "बंद करें";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "नवीनतम फ़ोटो";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "चयनित %li/%li फ़ोटो";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "डेटा फ़ाइल दूषित है";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "हटाएँ";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "प्रकाशन विफल";
+
+/* pc_follow */
+"pc_follow" = "अनुसरण करें";
+
+/* pc_fans */
+"pc_fans" = "प्रशंसक";
+
+/* pc_followed */
+"pc_followed" = "अनुसरण किया";
+
+/* pc_mutual */
+"pc_mutual" = "आपसी";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "प्रवेश के नियम";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "कुछ नहीं मिला, खोजशब्द बदलें और पुनः प्रयास करें?";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "उन्होंने अभी तक किसी का अनुसरण नहीं किया";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "उन्होंने अभी तक किसी का अनुसरण नहीं किया";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "अभी तक कोई प्रशंसक नहीं, और अधिक इंटरेक्टिव बनें~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "उनके अभी तक कोई प्रशंसक नहीं हैं, उनके पहले प्रशंसक बनें~";
+
+/* pc_contacts */
+"pc_contacts" = "संपर्क";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "संपर्क तक पहुँचना विफल";
+
+/* pc_current_account */
+"pc_current_account" = "चालू खाता";
+
+/* pc_account_setting */
+"pc_account_setting" = "खाता सेटिंग्स";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "बीटा फ़ीडबैक";
+
+/* pc_super_camera */
+"pc_super_camera" = "कैमरा";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "कैमरा";
+
+/* pc_selfie */
+"pc_selfie" = "सेल्फ़ी";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "सेल्फ़ी";
+
+/* pc_enhance */
+"pc_enhance" = "एल्बम";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "AR कैमरा";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "बाइंडिंग के बाद मित्रों की खोज कर सकते हैं";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "फ़ोन नंबर बाउंड हो गया है";
+
+/* pc_reply */
+"pc_reply" = "उत्तर दें";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "संपर्क मित्र - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "बाइंड करना विफल";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "चुनौती कैप्चर करें";
+
+/* pc_comment */
+"pc_comment" = "टिप्पणी";
+
+/* pc_message_comment */
+"pc_message_comment" = "टिप्पणी";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "कुछकहें";
+
+/* pc_send */
+"pc_send" = "Send";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "टिप्पणी हटा दी गई है";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "सामग्री हटा दी गई है";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld पसंद";
+
+/* pc_long_photo */
+"pc_long_photo" = "लंबा";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "पसंद करें";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "सभी %ld टिप्पणियों की जाँच करें";
+
+/* pc_check_detail */
+"pc_check_detail" = "विवरण की जाँच करें";
+
+/* pc_create_relay */
+"pc_create_relay" = "रिले बनाएँ";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "यह टिप्पणी हटाएँ";
+
+/* pc_all_comments */
+"pc_all_comments" = "सभी टिप्पणियाँ";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "उनकी टिप्पणी";
+
+/* pc_details */
+"pc_details" = "विवरण";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "टिप्पणीबहुतलंबीहै, 140शब्दयाकम";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "उत्तर दें %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "नेटवर्क त्रुटि, पुनः प्रयास करें";
+
+/* pc_more */
+"pc_more" = "और अधिक";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "मित्र का नया पल";
+
+/* pc_relay */
+"pc_relay" = "रिले";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "अनुसरण किया गया";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "%ld फ़ोटो पसंद की";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "मित्र के पल";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "अनुशंसित उपयोगकर्ता";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "फ़ोन नंबर बाइंड करें";
+
+/* pc_bound_success */
+"pc_bound_success" = "बाउंड है";
+
+/* pc_recommend */
+"pc_recommend" = "अनुशंसित";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "आपके सभी मित्र यहाँ हैं";
+
+/* pc_tag */
+"pc_tag" = "टैग करें";
+
+/* pc_user */
+"pc_user" = "उपयोगकर्ता";
+
+/* pc_load_more */
+"pc_load_more" = "और लोड करें";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "फिर से लोड करने के लिए स्क्रीन पर टैप करें";
+
+/* pc_join_relay */
+"pc_join_relay" = "रिले में शामिल हों";
+
+/* pc_like */
+"pc_like" = "पसंद करें";
+
+/* pc_say_something */
+"pc_say_something" = "कुछ कहें (140 शब्द में)";
+
+/* pc_post_preview */
+"pc_post_preview" = "पुर्वावलोकन पोस्ट करें";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "जिसने देखा उसे याद दिलाएँ";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "स्थान सेवाएँ चालू करें";
+
+/* pc_shoot */
+"pc_shoot" = "शूट करें";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "शूट करें";
+
+/* pc_short_video */
+"pc_short_video" = "वीडियो";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "140 शब्दों से अधिक नहीं हो सकता";
+
+/* pc_my_messages */
+"pc_my_messages" = "मेरे संदेश";
+
+/* pc_mine */
+"pc_mine" = "मेरा";
+
+/* pc_message_mine */
+"pc_message_mine" = "मेरा";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "मेरा";
+
+/* pc_zan */
+"pc_zan" = "पसंद करें";
+
+/* pc_message_zan */
+"pc_message_zan" = "पसंद करें";
+
+/* pc_new_fans */
+"pc_new_fans" = "नया प्रशंसक";
+
+/* pc_message_fans */
+"pc_message_fans" = "नया प्रशंसक";
+
+/* pc_notification */
+"pc_notification" = "अधिसूचना";
+
+/* pc_message_notification */
+"pc_message_notification" = "अधिसूचनाएँ";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "पोर्ट्रेट, निजी जानकारी निर्धारित करें";
+
+/* pc_add_friend */
+"pc_add_friend" = "मित्र जोड़ें";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ पल";
+
+/* pc_me */
+"pc_me" = "मैं";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "संदेश प्राप्त करें";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "बंद करने के बाद आपको फिर अधिसूचनाएँ नहीं मिलेंगी";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "अधिसूचना सेटिंग्स";
+
+/* pc_creator */
+"pc_creator" = "रचयिता";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X लोग रिले कर रहे हैं";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X लोगों का जवाब दे रहे हैं";
+
+/* pc_newest */
+"pc_newest" = "नवीनतम";
+
+/* pc_hottest */
+"pc_hottest" = "सबसे हॉट";
+
+/* pc_searching */
+"pc_searching" = "खोज हो रही है...";
+
+/* pc_get_reward */
+"pc_get_reward" = "पुरस्कार प्राप्त करें";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "खाता जानकारी";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "Camera360 के बारे में";
+
+/* pc_settings */
+"pc_settings" = "सेटिंग्स";
+
+/* pc_plaza */
+"pc_plaza" = "प्लाज़ा";
+
+/* pc_featured_video */
+"pc_featured_video" = "फ़ीचर्ड वीडियो";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "आसपास के लोग";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "अनुशंसित सामग्री";
+
+/* pc_hot_works */
+"pc_hot_works" = "हॉट कार्य";
+
+/* pc_ad */
+"pc_ad" = "विज्ञापन";
+
+/* pc_hot */
+"pc_hot" = "हॉट";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "फ़ीचर्ड संपादित करें";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "साइन इन / साइन अप";
+
+/* pc_user_center */
+"pc_user_center" = "मैं";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "मेरे C पाइंट";
+
+/* pc_local_album */
+"pc_local_album" = "स्थानीय एल्बम";
+
+/* pc_moments */
+"pc_moments" = "पल";
+
+/* pc_like_home */
+"pc_like_home" = "पसंद करें";
+
+/* pc_follow_home */
+"pc_follow_home" = "अनुसरण करें";
+
+/* pc_fans_home */
+"pc_fans_home" = "प्रशंसक";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "जानकारी संपादित करें";
+
+/* pc_come_from */
+"pc_come_from" = "%@ से";
+
+/* pc_friends */
+"pc_friends" = "मित्र";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "मित्र";
+
+/* pc_homepage */
+"pc_homepage" = "होमपेज";
+
+/* pc_message */
+"pc_message" = "संदेश";
+
+/* pc_share_moments */
+"pc_share_moments" = "पल साझा करें☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "पल साझा करें";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "लोकेशन फिर न दिखाएँ";
+
+/* pc_take_video */
+"pc_take_video" = "वीडियो";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "विस्तृत करें";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "फ़ोल्ड";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "क्षमा करें, आपकी डिवाइस चुनौती में शामिल नहीं हो सकती क्योंकि यह संगत नहीं है";
+
+/* pc_more_video */
+"pc_more_video" = "और अधिक";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "खुद को दुनिया देखने दें";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "और अधिक खोजने के लिए स्लाइड करें";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "और अधिक लोगों को अपने पल दिखाएँ";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "%@ से लोगों के नए अद्यतन हैं";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "%zd पोस्ट";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "%zd पसंद";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "अपनी पसंदीदा पोस्ट पसंद करने के लिए दोहरा टैप करें";
+
+/* intro_title1 */
+"intro_title1" = "पल खोलें";
+
+/* intro_title2 */
+"intro_title2" = "हर खुशी याद आती है";
+
+/* intro_title3 */
+"intro_title3" = "मुझे खोजने की अनुमति दें";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "मास्टर के लिए आवेदन करें";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "मास्टर का परिचय";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "एक मास्टर बनने";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "अनन्य पदक";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "और अधिक";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "अनुशंसित";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "मास्टर का प्रतीक";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "आपकी दुनिया भर में उपयोगकर्ताओं को सिफ़ारिश की जाएगी";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "और अधिक लोगों को अपनी फ़ोटो दिखाएँ";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "यदि आप शर्तों को पूरा करते हैं, तो आपको अधिक आसानी से स्वीकृति मिल जाएगी!";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "शूट करने के लिए मोबाइल कैमरों का इस्तेमाल करना पसंद है, और साझा करना पसंद करते हैं";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "अनन्य रुचियाँ और कोण, जैसे यात्रा रिकॉर्ड करना, या भोजन शूट करना ";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "पहले ही ऑनलाइन स्टार या सनसनी हैं";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "संपर्क";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "अपनी ईमेल दर्ज करें";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "आत्म परिचय";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "विशेषता / रुचियाँ / शौक, आदि।";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "अनुरोध सबमिट करें";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "सबमिट किया गया, कृपया स्वीकृति के लिए प्रतीक्षा करें";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "आपके अनुरोध की समीक्षा हो रही है, कृपया प्रतीक्षा करें!";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "आप पहले ही मास्टर हैं";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "मास्टर";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "दुनिया को मुझे देखने दें";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "मैं %@ से साझा की सिफ़ारिश करता हूँ";
+
+/* pc_task_more */
+"pc_task_more" = "और अधिक";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "फ़ीचर्ड टॉपिक";
+
+/* common_black_title */
+"common_black_title" = "हम्म, यहाँ कुछ भी नहीं";
+
+/* common_loading_title */
+"common_loading_title" = "लोड हो रहा है...";
+
+/* common_noMore_data */
+"common_noMore_data" = "और सामग्री नहीं है...";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "%d को रैंक किया";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "स्थान प्राप्त किया जा रहा है";
+
+/* pc_task_award */
+"pc_task_award" = "नियम और पुरस्कार";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "केवल %zd फ़ोटो चुन सकते हैं";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "पोस्ट (%zd)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "पोस्ट";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "संपर्कों को पहुँच से इंकार किया गया";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "संपर्कों तक पहुँच करें";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "अभी चालू करें>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "सिस्टम [सेटिंग्स]-[गोपनीयता]-[संपर्क] पर टैप करें, Camera360 चालू करें।";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "फ़ोटो मूवी";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "हॉट";
+
+/* intro_enterButton */
+"intro_enterButton" = "अभी प्रारंभ करें";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "स्थान दिखाएँ";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "शामिल हों";
+
+/* intro_sologan */
+"intro_sologan" = "दुनिया को मुझे देखने दें";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "खाता लॉक्ड है, किसी समस्या के लिए ग्राहक सेवा से संपर्क करें";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "बहुत सारी गलत प्रविष्टियाँ हैं, खाता लॉक कर दिया जाएगा, पासवर्ड पुनः प्राप्त करने के लिए बाद में पुनःप्रयास करें";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "पासवर्ड बहुत सरल है, फिर से दर्ज करें";
+
+/* puser_OK */
+"puser_OK" = "ठीक";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "नेटवर्क त्रुटि, पुनः प्रयास करें ";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "नेटवर्क त्रुटि, पुनः प्रयास करें ";
+
+/* puser_ServerError */
+"puser_ServerError" = "नेटवर्क त्रुटि, पुनः प्रयास करें ";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "नेटवर्क त्रुटि, पुनः प्रयास करें ";
+
+/* puser_SystemError */
+"puser_SystemError" = "नेटवर्क त्रुटि, पुनः प्रयास करें ";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "खाता या पासवर्ड ग़लत है, कृपया पुनः दर्ज करें";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "खाता या पासवर्ड ग़लत है, कृपया पुनः दर्ज करें";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "चित्र फ़ॉरमेट ग़लत है, कृपया पुनः अपलोड करें";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "अवतार अपलोड विफल।";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "खाता त्रुटि, कृपया फिर से लॉगइन करें ";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "खाता त्रुटि, कृपया फिर से लॉगइन करें ";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "ई-मेल पहले ही पंजीकृत है,\nलॉगइन करें? ";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "नेटवर्क त्रुटि, पुनः प्रयास करें";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "अनुरोध अकसर हो रहे हैं, बाद में फिर से कोशिश करें";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "नंबर पहले ही पंजीकृत है, लॉगइन करें? ";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "नंबर पहले ही पंजीकृत है, लॉगइन करें? ";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "अनुरोध अकसर हो रहे हैं, बाद में फिर से कोशिश करें";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "सत्यापन कोड की अवधि समाप्त हो गई है, कृपया फिर से प्राप्त करें";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "नंबर अमान्य है";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "कोड ग़लत है, कृपया पुनः दर्ज करें";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "नंबर मौजूद नहीं है, फिर से दर्ज करें";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "ई-मेल पहले ही पंजीकृत है, लॉगइन करें?";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "सत्यापन ईमेल नहीं भेजा गया";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "सत्यापन ईमेल नहीं भेजा गया";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "खाता त्रुटि, कृपया फिर से लॉगइन करें";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "खाता त्रुटि, कृपया फिर से लॉगइन करें";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "पाठ सदेश सत्यापित कर विफल";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "तृतीय पक्ष खाता पहले ही बाउंड है";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "गैर-क़ानूनी शब्द शामिल हैं";
+
+/* puser_PwdError */
+"puser_PwdError" = "पासवर्ड त्रुटि";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "ई-मेल मौजूद नहीं है, फिर से दर्ज करें";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "ई-मेल पहले ही पंजीकृत है, लॉगइन करें?";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "ई-मेल का फ़ॉरमेट ग़लत है।";
+
+/* newuser_gender */
+"newuser_gender" = "लिंग";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "Facebook से साइन इन करें";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "Twitter के साथ साइन इन करें";
+
+/* newuser_area */
+"newuser_area" = "क्षेत्र";
+
+/* newuser_introduction */
+"newuser_introduction" = "परिचय";
+
+/* newuser_male */
+"newuser_male" = "पुरुष";
+
+/* newuser_female */
+"newuser_female" = "स्त्री";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "पता संपादित करें";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "लोकेशन पर नेविगेट करें";
+
+/* newuser_no_location */
+"newuser_no_location" = "आपका स्थान प्राप्त करने में असमर्थ";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "सिस्टम सेटिंग्स में, \"privacy - स्थान सेवाएँ\" खोलें और कैमरा 360 स्थान सेवाओं को अनुमति दें।";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "आपका चित्र और वीडियो पर काम नहीं हो सकता";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "पृष्ठभूमि बदलें";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "अपनी प्रोफ़ाइल पूरी करें, जिससे और ज़्यादा लोग आपमें दिलचस्पी लें ";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "संपर्क देखें की आपके मित्र यहाँ क्या हैं।";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "सफलतापूर्वक संशोधित";
+
+/* newuser_password */
+"newuser_password" = "पासवर्ड";
+
+/* newuser_editintro */
+"newuser_editintro" = "परिचय संपादित करें";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "परिचय दर्ज करें (40 या कम शब्द)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "अवतार बदलें";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "चित्र खींचें, प्रदर्शन रेंज समायोजित करें";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "कवर बदलें";
+
+/* cancle */
+"cancle" = "रद्द करें";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "शहर का पता संपादित करें";
+
+/* newuser_all_city */
+"newuser_all_city" = "सभी";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "प्रांत का पता संपादित करें";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "सत्यापन कोड भेजा गया";
+
+/* newuser_sended */
+"newuser_sended" = "(%zds) भेजा गया";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "WeChat लॉगइन";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "Weibo लॉगइन";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "साइन इन / साइन अप";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "उपनाम भरें (20 या कम शब्द)";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "उपनाम संपादित करें";
+
+/* pc_new_photo */
+"pc_new_photo" = "नवीनतम फ़ोटो";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@ पसंद";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "कोई टिप्पणी नहीं, कुछ प्राप्त करें!";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "नेटवर्क अपवाद, कृपया नेटवर्क की जाँच करें";
+
+/* pgba_select */
+"pgba_select" = "चुनें";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "इस हफ़्ते";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "पिछले हफ़्ते";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "दो सप्ताह पहले";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "%tu चयनित ";
+
+/* pgba_today */
+"pgba_today" = "आज";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "बीता कल";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "चीन";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "दोबारा भेजें";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "बाउंड है";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "देश कोड";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "वर्तमान फ़ोन";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "अधिक रोचक सामग्री ढूँढ़ें";
+
+/* newuser_login_title */
+"newuser_login_title" = "साइन अप करें";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "उपनाम रिक्त नहीं हो सकता";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "लिंग चयनित नहीं है";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "उपनाम पहले ही इस्तेमाल में है, अन्य चुनें";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "उपनाम अमान्य है";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "उपयोगकर्ता खोजें";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "अधिकृत करना विफल";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "यह नंबर पहले ही इस्तेमाल में है";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "डाउनलोड करने के लिए लॉगइन करें";
+
+/* 免费 */
+"免费" = "निःशुल्क";
+
+/* 下载中 */
+"下载中" = "डाउनलोड हो रहा है";
+
+/* 立即使用 */
+"立即使用" = "अभी उपयोग करें";
+
+/* 素材管理 */
+"素材管理" = "सामग्री प्रबंधित करें";
+
+/* 移到最前 */
+"移到最前" = "शीर्ष पर ले जाएँ";
+
+/* 恢复已购 */
+"恢复已购" = "ख़रीद बहाल करें";
+
+/* 管理 */
+"管理" = "प्रबंध करें";
+
+/* 我喜欢 */
+"我喜欢" = "पसंदीदा";
+
+/* 夜景关闭 */
+"夜景关闭" = "रात्रि मोड बंद";
+
+/* 夜景打开 */
+"夜景打开" = "रात्रि मोड चालू";
+
+/* 画幅 */
+"画幅" = "फ़्रेम";
+
+/* 定时 */
+"定时" = "समय किया गया";
+
+/* 夜景 */
+"夜景" = "रात्रि मोड";
+
+/* 网格 */
+"网格" = "ग्रिड";
+
+/* 触屏拍照 */
+"触屏拍照" = "टच कैप्चर";
+
+/* 暗角 */
+"暗角" = "विग्नेट";
+
+/* 虚化 */
+"虚化" = "धुँधला";
+
+/* 静音相机 */
+"静音相机" = "मूक शटर";
+
+/* 设置 */
+"设置" = "सेटिंग्स";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "कोई बहाल की गई सामग्री उपलब्ध नहीं है";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "कोई सामग्री उपलब्ध नहीं है";
+
+/* 分享下载 */
+"分享下载" = "डाउनलोड साझा करें";
+
+/* 解锁 */
+"解锁" = "अनलॉक करें";
+
+/* 补光 */
+"补光" = "भरें";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "नेटवर्क डेटा त्रुटि, बाद में पुनः प्रयास करें";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "त्रुटि, बाद में पुनः प्रयास करें";
+
+/* 恢复 */
+"恢复" = "बहाल करें";
+
+/* 照片自动保存 */
+"照片自动保存" = "फ़ोटो स्वतः सहेजें";
+
+/* 全部照片 */
+"全部照片" = "सभी फ़ोटो";
+
+/* 下载 */
+"下载" = "डाउनलोड करें";
+
+/* 使用 */
+"使用" = "उपयोग करें";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "इस सामग्री का उपयोग संपादन के लिए नहीं किया जा सकता";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "जारी रखने के लिए पँखुड़ी पर टैप करें";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "नई रोमांचक दुनिया खोले जाने की प्रतीक्षा कर रही है";
+
+/* 进入 */
+"进入" = "दर्ज करें";
+
+/* 静音 */
+"静音" = "म्यूट करें";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "आपका सिस्टम संस्करण पुराना हो चुका है, और यह इस फ़ंक्शन का समर्थन नहीं करता";
+
+/* 大小 */
+"大小" = "आकार";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "आप फ़िलहाल वाईफ़ाई पर नहीं हैं, डाउनलोड जारी रखें?";
+
+/* 内含X个素材 */
+"内含X个素材" = "%ld सामग्री शामिल है";
+
+/* 已下载 */
+"已下载" = "डाउनलोड किया गया";
+
+/* 共%ld款 */
+"共%ld款" = "%ld कुल";
+
+/* 下载失败 */
+"下载失败" = "डाउनलोड विफल";
+
+/* 该内容不存在 */
+"该内容不存在" = "सामग्री मौजूद नहीं है";
+
+/* 置顶 */
+"置顶" = "शीर्ष";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "हिस्सा";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "अब Camera360 के साथ अपना जीवन रिकॉर्ड करें!";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "सलाह";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "और जानकारी देखने के लिए स्लाइड करें";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "अनुवाद देखें";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "अनुवाद कर रहा है...";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "अनुवाद छुपाएं";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "पुनः प्रयास करें";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "अपनी प्रोफाइल तसवीर बदलें";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "और जानकारी देखें";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "चयनित कलाकृतियाँ";
+
+/* pc_common_copy */
+"pc_common_copy" = "कॉपी करें";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "जोआपमहसूसकररहेहैं,उसेसाझाकरें";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "भेजा जा रहा है";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "फिरसेभेजें";
+
+/* pc_download */
+"pc_download" = "डाउनलोडकरें";
+
+/* pc_downloading */
+"pc_downloading" = "डाउनलोडहोरहाहै...";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "टिप्पणियाँअबछवियोंऔरइमोजीकासमर्थनकरतीहैं!";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "पाठवर्णनमेंअबइमोजीशामिलहोसकतेहैं!";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "मास्टरउपयोगकर्ता,अनन्यID";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "प्रमाणितउपयोगकर्ता,प्राधिकरणहाइलाइटकरताहै!";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "आधिकारिकप्रमाणन";
+
+/* pc_comment_success */
+"pc_comment_success" = "टिप्पणी सफल";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "टिप्पणी दर्ज करें";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "जारीरखें";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "पसंदीदा से मौजूदा प्रभाव निकालें?";
+
+/* 特效管理 */
+"特效管理" = "प्रभाव प्रबंधन";
+
+/* 本地特效包 */
+"本地特效包" = "स्थानीय प्रभाव पैक";
+
+/* 商店 */
+"商店" = "स्टोर";
+
+/* setting_clearCache */
+"setting_clearCache" = "कैशसाफ़करें";
+
+/* 立即下载 */
+"立即下载" = "अभी डाउनलोड करें";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "उपयोगकर्ताकाउपनामदर्जकरें";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "अधिकतम 1 वीडियो चुनें";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "हाल के संपर्क";
+
+/* pc_my_follows */
+"pc_my_follows" = "मेरे मित्र";
+
+/* pc_at_friends */
+"pc_at_friends" = "@friend";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "स्टिकर का उपयोग करते समय, केवल 4:3 फ़्रेम का समर्थन करता है";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "स्टिकर का उपयोग करते समय, विग्नेट समर्थित नहीं है";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "स्टिकर का उपयोग करते समय, धुँधलापन समर्थित नहीं है";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "स्टिकर का उपयोग करते समय, रात्रि मोड समर्थित नहीं है";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "गतिशील फ़ोटो";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "वीडियो सहेजना विफल, पुनः प्रयास करें";
+
+/* 画质 */
+"画质" = "गुणवत्ता";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "छवि खींचें और वर्ग में क्रॉप करें";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "वीडियो एल्बम में सहेजा गया";
+
+/* 照片动画 */
+"照片动画" = "फ़ोटो एनिमेशन";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "नई कैमरा प्ले शैली, अपनी फ़ोटो जीवंत बनाएँ!";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "वीडियो बनाने के लिए सामग्री जोड़ें";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "अपनी फ़ोटो जीवंत बनाएँ";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "मैंने %@ शूट करने के लिए Camera360 का इस्तेमाल किया है, आओ और देखो!";
+
+/* 一张照片 */
+"一张照片" = "फ़ोटो";
+
+/* 一段短视频 */
+"一段短视频" = "लघु वीडियो";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360, दुनिया मुझे देखे";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "हमारा नया फ़क्शन आज़माएँ, अपनी फ़ोटो जीवंत बनाएँ!";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "फ़ोटो एल्बम में सहेजा गया";
+
+/* 下一步 */
+"下一步" = "अगला";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "सीधे साझा करें; और स्पष्ट गुणवत्ता";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "%zd आइटम हटाएँ";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "%zd वीडियो हटाएँ";
+
+/* 导出视频 */
+"导出视频" = "वीडियो निर्यात करें";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "सिस्टम की सिफ़ारिश का उपयोगक र्ता";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "मास्टर रैंकिंग";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "सम्मानकाप्रतीक";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "वैश्विक सिफ़ारिश";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "अधिकअनुसरणकर्ता";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "स्थान चुनें";
+
+/* pc_location_fail */
+"pc_location_fail" = "स्थान प्राप्त करना विफल";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "स्थान प्राप्त नहीं किया जा सकता";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "Camera360 के लिए स्थान सेवाएँ चालू करें";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "चालू करें";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "स्थान पहुँच प्राप्त करें";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "चालू करना";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "%@ से फ़ोटो साझा करें";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "%@ फ़ोटो संग्रह साझा करें";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "%@ से छोटा वीडियो साझा करें";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "फ़ोटो की संख्या और पिछले 3 दिनों में इंटरेक्टिव स्तर के द्वारा रैंक दें";
+
+/* 删除视频 */
+"删除视频" = "आइटम हटाएँ";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "Magic Skin";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "Movie";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "छोड़ नहीं सकते, मैनुअल सेटिंग्स में जाने की ज़रूरत है";
+
+/* hot_recommond */
+"hot_recommond" = "हॉट";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "अभी अप्लाई करें";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "फ़ीचर्ड";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "चयनित %d तस्वीरें";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "चयनित %d वीडियो";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "चयनित %d आइटम";
+
+/* 制作动态照片 */
+"制作动态照片" = "गतिशील फ़ोटो";
+

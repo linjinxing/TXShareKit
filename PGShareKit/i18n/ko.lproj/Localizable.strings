@@ -1,0 +1,2624 @@
+/* 420 */
+"420" = "죄송합니다, 로그인 정보가 만료되었습니다, 다시 로그인하십시오";
+
+/* 408 */
+"408" = "네트워크 연결 실패. 다시 시도하십시오.";
+
+/* 500 */
+"500" = "데이터 가져오기 오류, 잠시후 다시 시도하십시오";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "셀카 자동 저장";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "모멘트";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "촬영";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "위챗 모멘트";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "위챗 프렌즈";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "SMS 인증코드%@를 귀하의 휴대전화로 전송했습니다.";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "계정이 업그레이드되어, 지금부터 이메일/전화 로그인디 지원됩니다. 귀하의 이메일/휴대폰 번호를 바인딩하시면 즉시 회원 서비스를 이용하실 수 있습니다.";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "계정이 업그레이드되어, 지금부터 이메일/전화 로그인디 지원됩니다. 귀하의 이메일을 바인딩하시면 즉시 회원 서비스를 이용하실 수 있습니다.";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "절전모드 해제";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "백업 대기 중";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "뷰 파인더 화면";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "인증 코드가 전송되었습니다. 확인하시기 바랍니다";
+
+/* setting_password_footer */
+"setting_password_footer" = "단독 사용 혹은 터치 ID 보조용으로 사용합니다.";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "Camera360 클라우드에 사진을 업로드하세요";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "충전시에만 업로드";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "WIFI 환경에서만 업로드";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "3G 및 WIFI 환경에서만 업로드";
+
+/* common_migration_alert */
+"common_migration_alert" = "데이터베이스 업그레이드 중";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "%ld 분 전에 업데이트 ";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "%ld 분 전에 업데이트";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "%ld 시간 전에 업데이트";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "%ld 시간 전에 업데이트";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "%ld 일 전에 업데이트";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "%ld 일 전에 업데이트";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "한번에 최대 9 장까지 선택 가능";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "\"%@\"?(을)를 삭제하시겠습니까?";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "필터 삭제 불가능. 최소 하나는 남겨두셔야 합니다!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "고급 설정에서 패턴 잠금을 설정하십시오";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "앨범 권한을 켜십시오";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "터치 ID가 꺼져 있습니다";
+
+/* setting_touch_id */
+"setting_touch_id" = "터치 ID";
+
+/* gallery_today */
+"gallery_today" = "오늘";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "신속한 회신을 원하시면, 설정에서 푸쉬메시지 권한을 작동해 주십시오.";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "팁 :볼륨 키를 누르면 사진이 저장됩니다!";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "시간 표시";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "이번 주";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "다른 Camera360 계정에 등록된 이메일 주소라서, 바인딩할 수 없습니다.";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "입력한 암호가 올바르지 않습니다";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "암호의 길이는 6-20 자여야합니다.";
+
+/* common_check_network */
+"common_check_network" = "네트워크를 사용할 수 없습니다. 네트워크 설정을 확인하십시오.";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "존재하지 않은 사용자입니다";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "피드백";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "카메라롤에 자동 저장";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "이 퍼즐을 포기하시겠습니까?";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "%d 장의 사진을 삭제하시겠습니까?";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "강도";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "시작";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "시작";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "즐겨찾기에서 필터를 삭제하시겠습니까?";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "사용 중인 특수 효과는 삭제할 수 없습니다";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "SMS 인증 코드가 %@(으)로 전송됩니다.";
+
+/* password_skip */
+"password_skip" = "생략";
+
+/* imageshow_size */
+"imageshow_size" = "크기:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "웨이보";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "다른 방법으로 로그인";
+
+/* common_share */
+"common_share" = "공유";
+
+/* settings */
+"settings" = "설정";
+
+/* password_set_questions */
+"password_set_questions" = "보안 질문 설정";
+
+/* newuser_set_password */
+"newuser_set_password" = "암호 설정";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "Camera360 계정 암호 설정";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "서비스 약관";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "%zd장 선택";
+
+/* selectPhoto */
+"selectPhoto" = "사진 선택";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "전부 선택";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "사진 선택";
+
+/* scene_template */
+"scene_template" = "장면 템플릿";
+
+/* saving_photo */
+"saving_photo" = "사진 저장 중 ...";
+
+/* common_save */
+"common_save" = "저장";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "회전";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "이메일로 비밀번호 찾기";
+
+/* product_restore */
+"product_restore" = "복구";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "재전송";
+
+/* reloading */
+"reloading" = "재로딩";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "등록은 동의를 의미합니다";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "지금 등록";
+
+/* newuser_register */
+"newuser_register" = "등록";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "새로고침 실패. 네트워크 설정을 확인하십시오.";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "최근 백업일자: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "평가";
+
+/* setting_rateus */
+"setting_rateus" = "평가 & 리뷰";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "QQ 존";
+
+/* password_question_title */
+"password_question_title" = "문제:";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "퍼즐";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "아래로 밀면 새로 고침";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "프로필 사진";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "미리보기 로딩 실패";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "지문으로 인증하십시오";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "사진을 선택하십시오.";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "터치 ID가 설정되어 있는지 확인하십시오.";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "터치 ID 설정으로 이동하십시오.";
+
+/* newuser_input_email */
+"newuser_input_email" = "등록된 이메일 주소를 입력하시면 무작위 선정된 암호를 보내 드리겠습니다.";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "등록된 이메일 주소를 입력하십시오";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "전화번호를 입력하십시오";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "이메일을 입력하세요.";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "이메일 주소를 입력하십시오";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "확인 코드";
+
+/* password_answer_title */
+"password_answer_title" = "답을 입력하십시오";
+
+/* newuser_input_password */
+"newuser_input_password" = "암호를 입력하십시오";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "이메일을 입력하십시오";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "계정을 입력하십시오";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "사진을 카메라롤로 내보내기 했습니다";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "그림 형식이 올바르지 않습니다, 다시 업로드 해주십심시오";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "사진 가져오기 성공!";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "사진 촬영장소 :";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "사진";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "전화번호가 잘못되었습니다";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "전화 번호";
+
+/* newuser_account */
+"newuser_account" = "개인정보";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "패턴";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "패턴잠금이 해제되어 있습니다. 지금 작동하시겠습니까?";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "패턴 잠금";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "암호는 6-20개의 문자를 사용해야 합니다";
+
+/* password_different */
+"password_different" = "암호가 일치하지 않습니다. 다시 시도하십시오.";
+
+/* password_wrong */
+"password_wrong" = "암호가 올바르지 않습니다. 다시 시도하십시오.";
+
+/* setting_auto_save */
+"setting_auto_save" = "기타 카메라 절전 모드";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "기타 앨범";
+
+/* gallery_high_org */
+"gallery_high_org" = "원본 (효과 없음)";
+
+/* original */
+"original" = "원본 ";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "켜기";
+
+/* common_ok */
+"common_ok" = "Ok";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "끄기";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "이미 등록된 번호입니다. \n 지금 등록하시겠습니까?";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "이미 등록된 번호입니다. ";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "지금 Camera360으로 나만의 인생을 기록하세요!";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "바인딩되지 않음";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "더 수정해야 합니다!";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "실시간 미리보기를 지원하지 않습니다";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "사진 없음";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "사진 없음";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "닉네임";
+
+/* newuser_next */
+"newuser_next" = "다음 ";
+
+/* password_next_step */
+"password_next_step" = "다음 ";
+
+/* common_network_error */
+"common_network_error" = "네트워크 오류. 나중에 다시 시도하십시오.";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "네트워크 오류";
+
+/* gallery_networkError */
+"gallery_networkError" = "네트워크 오류";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "내 앨범";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "수정 실패. 다시 시도하십시오.";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "거울 ";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "회원 전용 특수효과, 로그인 후 다운로드하십시오";
+
+/* setting_manual */
+"setting_manual" = "수동";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "평가해주세요";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "SMS 인증으로 로그인";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "로그인에 문제가 있습니까?";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "제3자 로그인이 실패되었습니다";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "로그인 계정";
+
+/* common_login */
+"common_login" = "로그인";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "로그아웃 하면 클라우드 앨범, 필터 및 기타 회원 서비스를 사용하실 수 없습니다. 로그아웃 하시겠습니까?";
+
+/* common_loading */
+"common_loading" = "로딩 중 ...";
+
+/* loading_message */
+"loading_message" = "로딩 중 ...";
+
+/* setting_live_preview */
+"setting_live_preview" = "실시간 미리보기";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "바인딩 성공";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "전화 번호 바인딩하기 ";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "이메일 바인딩하기";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "좋아하세요? 평가해주세요!";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "참여하세요";
+
+/* product_invalid */
+"product_invalid" = "무효";
+
+/* setting_intro */
+"setting_intro" = "소개 동영상";
+
+/* store_installing */
+"store_installing" = "설치 중";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "이 페이지를 종료하면 복구가 종료됩니다. 계속하시겠습니까?";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "계정 보안 강화";
+
+/* camera_in_use */
+"camera_in_use" = "사용 중";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "다운로드 대기 중";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "내 앨범에 가져오기";
+
+/* gallery_import */
+"gallery_import" = "가져오기";
+
+/* password_question_tips */
+"password_question_tips" = "암호를 잊어 버린 경우, 보안 질문 확인을 통해 재설정할 수 있습니다.";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "Camera360으로 사진을 공유해요";
+
+/* setting_home_ui */
+"setting_home_ui" = "홈";
+
+/* galley_high_definition */
+"galley_high_definition" = "HD 효과도";
+
+/* setting_composition */
+"setting_composition" = "그리드";
+
+/* common_got_it */
+"common_got_it" = "나도 알아요";
+
+/* product_free */
+"product_free" = "무료";
+
+/* product_unlock_title */
+"product_unlock_title" = "애니 스카이";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "나의 사진을 애니메이션 스타일로 바꾸세요";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "자유";
+
+/* puzzle_frames */
+"puzzle_frames" = "액자";
+
+/* newuser_find_password */
+"newuser_find_password" = "암호 찾기";
+
+/* password_forget */
+"password_forget" = "암호를 잊어버리셨나요?";
+
+/* newuser_code_input */
+"newuser_code_input" = "인증 코드를 입력하세요";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "시스템 앨범에 사진을 저장하지 못했습니다";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "삭제 실패";
+
+/* setting_face_auto */
+"setting_face_auto" = "얼굴 인식";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "F";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "카메라 롤에 사진 내보내기: Settings > Privacy > Photos > Camera360(설정> 개인정보 보호> 사진> Camera360)";
+
+/* gallery_export_title */
+"gallery_export_title" = "사진 내보내기 옵션";
+
+/* gallery_export */
+"gallery_export" = "내보내기";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "EV";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "오류. 나중에 다시 로그인하시기 바랍니다.";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "사용자명을 입력하십시오";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "전화 번호";
+
+/* keys */
+"keys" = "ko";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "이메일이 전송되었습니다. 확인하시기 바랍니다";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "이미 등록된 이메일입니다";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "잘못된 이메일 형식입니다. ";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "이미 등록된 이메일입니다. \n 지금 로그인하시겠습니까?";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "이메일";
+
+/* common_email */
+"common_email" = "이메일";
+
+/* effects_include_count */
+"effects_include_count" = "효과 포함";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "효과:";
+
+/* effect_install_error */
+"effect_install_error" = "효과 설치 실패";
+
+/* imageshow_edit */
+"imageshow_edit" = "편집";
+
+/* password_draw_new */
+"password_draw_new" = "새 그래픽 암호 그리기";
+
+/* password_draw_again */
+"password_draw_again" = "그래픽 암호 다시 그리기";
+
+/* password_draw */
+"password_draw" = "그래픽 암호 그리기";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "다운로드 중에는 삭제가 불가능합니다.";
+
+/* gallery_downloading */
+"gallery_downloading" = "다운로드";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "앨범에 사진 다운로드";
+
+/* gallery_taskList */
+"gallery_taskList" = "사진 다운로드";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "다운로드 실패";
+
+/* common_download */
+"common_download" = "다운로드";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "사진 다운로드 완료!";
+
+/* cloud_download_success */
+"cloud_download_success" = "다운로드 완료";
+
+/* done */
+"done" = "완료";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "보안 질문 설정 완료";
+
+/* password_succeed */
+"password_succeed" = "앨범 암호 설정 완료";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "미사용 중";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "사진 크기:";
+
+/* imageshow_device */
+"imageshow_device" = "기기:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "선택 해제";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "사진 삭제";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "사진 %zd장 삭제";
+
+/* common_delete */
+"common_delete" = "삭제";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "삭제";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "사진 다운로드 시, 데이터 요금이 발생될 수 있습니다.";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "현재 계정";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "자르기";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "삭제하시겠습니까?";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "전화번호 확인";
+
+/* gallery_collage */
+"gallery_collage" = "콜라주";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "업로드 네트워크 환경";
+
+/* setting_cloud */
+"setting_cloud" = "클라우드 앨범 설정";
+
+/* gallery_cloud */
+"gallery_cloud" = "클라우드 앨범";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "닫기";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "이름 변경";
+
+/* setting_password_change */
+"setting_password_change" = "앨범 암호 변경";
+
+/* common_cancel */
+"common_cancel" = "취소";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "Camera360 사용자 계약";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "Camera360이 카메라 롤에 액세스할 수 없습니다. 설정> 개인정보 보호> 사진으로 이동해 Camera360을 설정해주십시오.";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "카메라 서비스가 설정되어 있지 않아 사진을 촬영할 수 없습니다. 기기 설정에서 카메라 서비스를 설정할 수 있습니다. \r\n(설정> 개인정보 보호> 카메라 > Camera360 설정)";
+
+/* takingPictures */
+"takingPictures" = "카메라";
+
+/* newuser_bind */
+"newuser_bind" = "바인딩";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "백업이 완료되었습니다!";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "사진 %zd장 백업 중";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "백업 중 ";
+
+/* common_back */
+"common_back" = "뒤로";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "자동 업로드";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "자동 백업 끄기";
+
+/* setting_auto */
+"setting_auto" = "자동";
+
+/* password_verify */
+"password_verify" = "암호 인증";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "사진이 최소 2장 필요합니다";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "%@(을)를 삭제하시겠습니까?";
+
+/* store_installed */
+"store_installed" = "사용";
+
+/* password_answer */
+"password_answer" = "대답:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "잘못된 대답입니다. 다시 시도하십시오.";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "앨범 암호 설정 ";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "앨범 액세스 오류";
+
+/* gallery_album */
+"gallery_album" = "앨범";
+
+/* gallery_photos */
+"gallery_photos" = "앨범";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "성공적으로 바인딩되면, 전화번호와 암호를 통해 로그인할 수 있습니다.";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "성공적으로 바인딩되면, 이메일과 암호를 통해 로그인할 수 있습니다.";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "잘못된 계정 주소입니다";
+
+/* setting_about */
+"setting_about" = "~에 대하여";
+
+/* password_too_short */
+"password_too_short" = "점을 3개 이상 연결해야합니다. \n 다시 시도하십시오.";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "사진 %zd장 다운로드 중";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "%@의 편집이 지원되지 않습니다";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "%@의 클라이언트가 설치되어 있지 않습니다. 공유를 위해 즉시 설치하시겠습니까?";
+
+/* effects_include */
+"effects_include" = "컨텐츠";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "180초 이상 미사용. 절전 모드로...";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "이펙트 스토어";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "즐겨찾기에 효과 추가";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "원판";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "야간 모드 끄기";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "야간 모드 켜기";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "야간 셀카 끄기";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "야간 셀카 켜기";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "터치 캡처 끄기";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "터치 캡처 켜기";
+
+/* camera_scene */
+"camera_scene" = "포스터 카메라";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "자동 EV/ 초점 고정";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "실시간 미리보기 작동";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "이지 캠";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "사진 생성";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "묵음 캡처 모드를 켜면 사진 크기 및 품질이 나빠집니다";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "묵음 캡처 모드 해제";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "취소 완료";
+
+/* homepage_camera */
+"homepage_camera" = "카메라";
+
+/* homepage_setting */
+"homepage_setting" = "Me";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "등록된 이메일 주소를 입력하시면 무작위 선정된 암호를 보내 드리겠습니다.";
+
+/* newuser_logout */
+"newuser_logout" = "로그아웃";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "암호는 6-20개의 문자를 사용해야 합니다";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "앱 시작 후 가정 혹은 카메라 인터페이스를 입력할 수 있습니다.";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "실시간 미리보기를 켜면 촬영 인터페이스의 효과를 볼 수 있지만 보기가 지연될 수 있습니다.";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "전면 렌즈를 사용하는 경우, 사진은 거울 이미지로 저장됩니다.";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "거울 모드";
+
+/* setting_photo_save */
+"setting_photo_save" = "사진 저장 설정";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "설정에서  촬영 후 사진 자동저장을 선택할 수 있습니다.";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "사진 자동저장이 작동되지 않는 경우, 사진을 수동으로 시스템 앨범에 내보낼 수 있습니다.";
+
+/* setting_start_ui */
+"setting_start_ui" = "시작 인터페이스";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "초상화";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "저광도";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "밤";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "백라이트";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "풍경";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "그룹";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "최소 하나의 효과 팩이 필요합니다";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "앱 목록";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "저장 성공";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "자동 노출 잠금";
+
+/* settingView_FQ */
+"settingView_FQ" = "자주하는 질문";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "비율";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "멀티 그리드";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "이중 노출";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "사용자 계정이 만료되었습니다. 백업된 사진을 자동복구하시려면 암호 입력 후 로그인하시기 바랍니다";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "앨범에 저장";
+
+/* loadPage_skip */
+"loadPage_skip" = "생략";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "이지 카메라";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "셀카 카메라";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "내 앨범";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "자동 윤곽 켜기";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "자동 윤곽 끄기";
+
+/* skin */
+"skin" = "피부";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "받기";
+
+/* Edit template */
+"Edit template" = "템플릿 편집";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "다운로드 실패, 네트워크 상태를 확인하십시오!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "얼굴을 초점에 맞춰주십시오";
+
+/* video_preview_title */
+"video_preview_title" = "미리보기";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Camera360 퍼니 스티커";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "황홀한 마법의 스티커, 사용해 보실래요?";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "저장 실패, 다시 시도하십시오";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "동영상 저장 : 설정 -> 개인 정보 보호 -> 사진 -> Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "저장";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "업로드 중 ...";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "누르면 동영상 녹화";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "마이크가 꺼져 있어 음성을 녹음 할 수 없습니다. 설정에서 켜실 수 있습니다. \n(설정 - 개인 정보 보호 - 마이크- Camera360용 마이크 켜기)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "저장";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "멀티 그리드 또는 이중 노출이 작동되는 동안 녹화가 불가능합니다";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "죄송합니다. 귀하의 휴대 전화 버전 및 호환성 문제로,   \"퍼니 스티커\"가 지원되지 않습니다.";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Camera360 퍼니 스티커";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "황홀한 마법의 스티커, 사용해 보실래요?";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "위챗";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "지난 번 로그인";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "Camera360 공지를 켭니다";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "세계 각국의 사용자들이 보내주는 \"좋아요\"를 놓치지 마세요❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "온";
+
+/* c_mall */
+"c_mall" = "C코인 쇼핑몰";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "개인정보 정책";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "입을 벌리세요";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "눈썹을 위로 올리세요";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "공유";
+
+/* Ccoin */
+"Ccoin" = "C코인";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "지금 시작하기";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "총 %zd세트의  %@  새 스티커 포함, 놓치지 마세요!";
+
+/* store_buy_now */
+"store_buy_now" = "지금 주문하기";
+
+/* store_restore_all */
+"store_restore_all" = "복구";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "와이파이 상태가 아닌데 구입한 스티커를 모두 복구하시겠습니까?";
+
+/* sticker_manage */
+"sticker_manage" = "스티커 관리";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "다운로드하지 않음";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "복원된 스티커가 없습니다";
+
+/* store_feedback */
+"store_feedback" = "피드백";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "처리중";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "Camera360의 편리한 사용을 위한 권한 설정";
+
+/* auth_camera_title */
+"auth_camera_title" = "카메라";
+
+/* auth_camera_des */
+"auth_camera_des" = "촬영 온";
+
+/* auth_mic_title */
+"auth_mic_title" = "마이크";
+
+/* auth_mic_des */
+"auth_mic_des" = "사운드 녹음";
+
+/* auth_location_title */
+"auth_location_title" = "위치 정보";
+
+/* auth_location_des */
+"auth_location_des" = "위치 정보 기록";
+
+/* auth_notification_title */
+"auth_notification_title" = "알림";
+
+/* auth_notification_des */
+"auth_notification_des" = "중요 알림 받기";
+
+/* auth_got */
+"auth_got" = "알겠음";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "잠금 해제 공유";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "지금 촬영 중";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "동영상은 %zd 초를 초과할 수 없습니다.";
+
+/* video_import_not_support */
+"video_import_not_support" = "동영상 가져오기는 지원되지 않습니다";
+
+/* video_import_fail */
+"video_import_fail" = "내보내기 실패";
+
+/* poker_error_tips */
+"poker_error_tips" = "죄송합니다, 다시 시도하십시오.";
+
+/* poker_making_tips */
+"poker_making_tips" = "이 필터는 네트워크 매핑이 필요합니다. 시간이 좀 걸릴 수도 있습니다";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "이 필터는 이중 노출 또는 멀티 그리드를 지원하지 않습니다.";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "최대 %tu장의 사진을 선택할 수 있음";
+
+/* album_select_one_video */
+"album_select_one_video" = "비디오 하나만 선택할 수 있음";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "이 모드에서는 사진만 선택할 수 있음";
+
+/* effect_store_vip */
+"effect_store_vip" = "회원만";
+
+/* pc_challenge */
+"pc_challenge" = "도전";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "%d 일 남음";
+
+/* pc_over */
+"pc_over" = "초과";
+
+/* pc_my_works */
+"pc_my_works" = "내 작품";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "우수 작품";
+
+/* pc_join */
+"pc_join" = "참여";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "투표";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "투표 중";
+
+/* pc_prepare */
+"pc_prepare" = "준비 중";
+
+/* pc_interest_people */
+"pc_interest_people" = "관심있는 사람";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "추천";
+
+/* pc_publish */
+"pc_publish" = "제출";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "팔로우 없음";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "고독해 졌습니다.";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "위치 인식 불가능";
+
+/* pc_c_coins */
+"pc_c_coins" = "C 코인";
+
+/* pc_experience */
+"pc_experience" = "경험";
+
+/* pc_delete */
+"pc_delete" = "삭제";
+
+/* pc_report */
+"pc_report" = "보고";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "히트 수";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "도시 간 히트";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "좋아요 수";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "《%@》의 도전 %d%% 를 격퇴시켰습니다";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "보상 획득";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "사용자 %d%% 가 당신의 선택을 지지합니다";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "도전으로 이동";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "더 많은 작품을 기다려주십시오.";
+
+/* pc_vote_end */
+"pc_vote_end" = "투표 종료";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "투표수가 많은 작품일수록, 더 높은 순위와 더 많은 C 코인을 얻게 됩니다.";
+
+/* pc_ok */
+"pc_ok" = "오케이";
+
+/* pc_delete_success */
+"pc_delete_success" = "삭제";
+
+/* pc_reported_success */
+"pc_reported_success" = "보고 성공";
+
+/* pc_just_now */
+"pc_just_now" = "지금 당장";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d 분 전";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d 시간 전";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d 일 전";
+
+/* pc_months_ago */
+"pc_months_ago" = "%d 달 전";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d 년 전";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "획득 축하";
+
+/* pc_share */
+"pc_share" = "공유";
+
+/* pc_start_voting */
+"pc_start_voting" = "투표 시작";
+
+/* pc_yesterday */
+"pc_yesterday" = "어제";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "도전 공유하기";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "작업이 삭제되었습니다";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "%d에 랭크";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "더 많은 콘텐츠를 검색하려면 로그인";
+
+/* pc_login */
+"pc_login" = "로그인";
+
+/* pc_collection */
+"pc_collection" = "컬렉션";
+
+/* pc_saved */
+"pc_saved" = "저장됨";
+
+/* pc_removed */
+"pc_removed" = "제거";
+
+/* pc_download_template */
+"pc_download_template" = "다운로드 템플릿";
+
+/* pc_use_template */
+"pc_use_template" = "템플릿 사용";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "C 스토어가 곧 출시됩니다";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "도전하세요";
+
+/* pc_participants_num */
+"pc_participants_num" = "참가자 %@";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd 도전자";
+
+/* pc_hot_task */
+"pc_hot_task" = "뜨거운 도전";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "도전자";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "지금 가입하고 보상 청구";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》준비 되셨습니까?";
+
+/* pc_challenger */
+"pc_challenger" = "도전자";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "닫기";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "최신 사진";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "%li/%li 의 사진 선택 완료";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "데이터 파일이 손상되었습니다";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "제거";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "게시 실패";
+
+/* pc_follow */
+"pc_follow" = "팔로우";
+
+/* pc_fans */
+"pc_fans" = "팬";
+
+/* pc_followed */
+"pc_followed" = "팔로잉";
+
+/* pc_mutual */
+"pc_mutual" = "상호";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "입력 규칙";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "찾을 수 없습니다. 키워드를 바꿔 다시 시도해 주세요.";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "아직 팔로우한 사람이 없습니다";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "아직 팔로우한 사람이 없습니다";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "아직 팬이 없어요.더 활발히 활동해 보세요~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "아직 팬이 없네요. 첫번 째 팬이 되어 주세요~";
+
+/* pc_contacts */
+"pc_contacts" = "연락처";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "연락처에 액세스 실패";
+
+/* pc_current_account */
+"pc_current_account" = "현재 계정";
+
+/* pc_account_setting */
+"pc_account_setting" = "계정 설정";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "베타 피드백";
+
+/* pc_super_camera */
+"pc_super_camera" = "카메라";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "카메라";
+
+/* pc_selfie */
+"pc_selfie" = "셀카";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "셀카";
+
+/* pc_enhance */
+"pc_enhance" = "앨범";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "AR 카메라";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "바인딩 후에 친구를 검색할 있습니다";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "전화 번호 바인딩";
+
+/* pc_reply */
+"pc_reply" = "댓글";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "친구 연락처 - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "바인딩 실패";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "캡처 도전";
+
+/* pc_comment */
+"pc_comment" = "댓글";
+
+/* pc_message_comment */
+"pc_message_comment" = "댓글";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "뭐라고말해보세요…";
+
+/* pc_send */
+"pc_send" = "발송";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "댓글이 삭제되었습니다";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "내용이 삭제되었습니다";
+
+/* pc_likes_num */
+"pc_likes_num" = "좋아요' %ld";
+
+/* pc_long_photo */
+"pc_long_photo" = "길게";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "좋아요";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "모두 %ld 코멘트 확인";
+
+/* pc_check_detail */
+"pc_check_detail" = "세부사항 점검";
+
+/* pc_create_relay */
+"pc_create_relay" = "릴레이 만들기";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "이 댓글을 삭제합니다";
+
+/* pc_all_comments */
+"pc_all_comments" = "모든 댓글";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "그/그녀의 코멘트";
+
+/* pc_details */
+"pc_details" = "세부사항";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "코멘트가너무깁니다(140단어미만)";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "댓글 %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "네트워크 오류, 나중에 재시도하세요";
+
+/* pc_more */
+"pc_more" = "더";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "친구의 새로운 순간";
+
+/* pc_relay */
+"pc_relay" = "릴레이";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "팔로잉";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "%ld 사진 '좋아요'";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "친구의 모멘츠";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "추천 사용자";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "전화번호 바인딩";
+
+/* pc_bound_success */
+"pc_bound_success" = "바인딩 완료";
+
+/* pc_recommend */
+"pc_recommend" = "강추";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "친구가";
+
+/* pc_tag */
+"pc_tag" = "태그";
+
+/* pc_user */
+"pc_user" = "사용자";
+
+/* pc_load_more */
+"pc_load_more" = "다운로드 더하기";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "화면을 터치하면 다시 다운로드됩니다.";
+
+/* pc_join_relay */
+"pc_join_relay" = "릴레이에 참여";
+
+/* pc_like */
+"pc_like" = "좋아요";
+
+/* pc_say_something */
+"pc_say_something" = "말하기 (140 단어 이내)";
+
+/* pc_post_preview */
+"pc_post_preview" = "게시물 미리보기";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "본 사람 알림";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "위치 서비스를 켜십시오";
+
+/* pc_shoot */
+"pc_shoot" = "촬영";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "촬영";
+
+/* pc_short_video */
+"pc_short_video" = "동영상";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "140 단어를 초과할 수 없습니다";
+
+/* pc_my_messages */
+"pc_my_messages" = "내 메시지";
+
+/* pc_mine */
+"pc_mine" = "내 것";
+
+/* pc_message_mine */
+"pc_message_mine" = "내 것";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "내 것";
+
+/* pc_zan */
+"pc_zan" = "좋아요";
+
+/* pc_message_zan */
+"pc_message_zan" = "좋아요";
+
+/* pc_new_fans */
+"pc_new_fans" = "새 팬";
+
+/* pc_message_fans */
+"pc_message_fans" = "새 팬";
+
+/* pc_notification */
+"pc_notification" = "공고";
+
+/* pc_message_notification */
+"pc_message_notification" = "알림";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "세로 방향 설정, 개인 정보";
+
+/* pc_add_friend */
+"pc_add_friend" = "친구 추가";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ 모멘츠";
+
+/* pc_me */
+"pc_me" = "나";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "메시지 획득";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "휴대폰을 끄면 알림을 받을 수 없습니다";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "알림 설정";
+
+/* pc_creator */
+"pc_creator" = "작성자";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X 명 릴레이 중";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X 명 응답 중";
+
+/* pc_newest */
+"pc_newest" = "최신";
+
+/* pc_hottest */
+"pc_hottest" = "최고 인기";
+
+/* pc_searching */
+"pc_searching" = "검색 중…";
+
+/* pc_get_reward */
+"pc_get_reward" = "보상 획득";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "계정 정보";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "Camera360 소개";
+
+/* pc_settings */
+"pc_settings" = "설정";
+
+/* pc_plaza */
+"pc_plaza" = "광장";
+
+/* pc_featured_video */
+"pc_featured_video" = "추천 동영상";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "근처의 이웃들";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "추천 콘텐츠";
+
+/* pc_hot_works */
+"pc_hot_works" = "인기 작품";
+
+/* pc_ad */
+"pc_ad" = "광고";
+
+/* pc_hot */
+"pc_hot" = "핫";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "추천 편집";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "로그 인/가입";
+
+/* pc_user_center */
+"pc_user_center" = "나";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "내 C 포인트";
+
+/* pc_local_album */
+"pc_local_album" = "현지 앨범";
+
+/* pc_moments */
+"pc_moments" = "모멘츠";
+
+/* pc_like_home */
+"pc_like_home" = "좋아요";
+
+/* pc_follow_home */
+"pc_follow_home" = "팔로우";
+
+/* pc_fans_home */
+"pc_fans_home" = "팬";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "정보 수정";
+
+/* pc_come_from */
+"pc_come_from" = "%@부터";
+
+/* pc_friends */
+"pc_friends" = "친구";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "친구";
+
+/* pc_homepage */
+"pc_homepage" = "홈페이지";
+
+/* pc_message */
+"pc_message" = "메시지";
+
+/* pc_share_moments */
+"pc_share_moments" = "모멘츠 공유☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "모멘츠 공유";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "위치 표시하지 않음";
+
+/* pc_take_video */
+"pc_take_video" = "동영상";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "확장";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "겹치기";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "죄송합니다. 귀하의 장치가 호환되지 않으므로 챌린지에 참여할 수 없습니다.";
+
+/* pc_more_video */
+"pc_more_video" = "더";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "세상을 볼수 있습니다.";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "슬라이드하여 더 많이 검색";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "더 많은 사람이 귀하의 모멘트를 볼수 있습니다.";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "%@ 사용자의 새 업데이트가 있습니다.";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "게시물 %zd";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "추천수 %zd";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "두 번 눌러 좋아하는 게시물을 추천해주세요.";
+
+/* intro_title1 */
+"intro_title1" = "모멘츠 열기";
+
+/* intro_title2 */
+"intro_title2" = "성원을 놓치지 마세요";
+
+/* intro_title3 */
+"intro_title3" = "검색 승인 요청";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "마스터 신청";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "마스터 소개";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "마스터 되기 응용";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "하나뿐인 훈장";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "기타";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "추천 완료";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "마스터의 상징";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "전세계 사용자에게 추천 완료되었습니다.";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "더 많은 사람들에게 사진 보여주기";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "조건을 충족하면 승인이 더 쉽습니다!";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "모바일 카메라 사용 촬영 사랑, 공유 사랑";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "특별한 관심과 시각, 여행 녹화, 음식 촬영 사랑";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "이미 인터넷 스타이자 화제거리";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "연락처";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "이메일 입력";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "자기 소개";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "특기/ 관심/ 취미 등";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "요청서 제출";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "제출 완료, 승인을 기다려주십시오";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "요청사항이 검토중이니 조금만 기다려 주세요!";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "당신은 이미 마스터!";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "마스터";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "세상에 자신을 소개하세요";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "%@부터 공유하도록 추천 완료";
+
+/* pc_task_more */
+"pc_task_more" = "기타";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "추천 주제";
+
+/* common_black_title */
+"common_black_title" = "음… 여기 아무것도 없어요";
+
+/* common_loading_title */
+"common_loading_title" = "로딩 중 ...";
+
+/* common_noMore_data */
+"common_noMore_data" = "더 이상 콘텐츠가 없습니다 ...";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "%d위에 랭킹";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "위치정보 획득";
+
+/* pc_task_award */
+"pc_task_award" = "규칙과 보상";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "%zd 장의 사진만 선택할 수 있음";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "게시(%zd장)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "게시";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "연락처 액세스 거부됨";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "연락처 액세스";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "지금 켜기>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "시스템 [설정]-[개인 정보 보호]-[연락처]를 눌러 Camera360에 대해 켜세요.";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "사진 동영상";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "더 추가";
+
+/* intro_enterButton */
+"intro_enterButton" = "지금 시작하기";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "위치 공유";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "참여";
+
+/* intro_sologan */
+"intro_sologan" = "세상에 자신을 소개하세요";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "계정이 잠겨 있습니다. 문제가 생겼을 경우 고객 서비스팀에 연락하세요.";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "잘못된 항목이 너무 많아 계정이 잠기게 됩니다. 나중에 다시 시도하거나 비밀 번호를 복구하시기 바랍니다.";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "암호가 너무 간단합니다. 재입력하시기 바랍니다";
+
+/* puser_OK */
+"puser_OK" = "오케이";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "네트워크 오류, 다시 시도하세요.";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "네트워크 오류, 다시 시도하세요.";
+
+/* puser_ServerError */
+"puser_ServerError" = "네트워크 오류, 다시 시도하세요.";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "네트워크 오류, 다시 시도하세요.";
+
+/* puser_SystemError */
+"puser_SystemError" = "네트워크 오류, 다시 시도하세요.";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "잘못된 계정 또는 암호. 다시 입력하세요.";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "잘못된 계정 또는 암호, 다시 입력하세요.";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "잘못된 이미지 형식입니다. 다시 업로드 해주세요";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "아바타 업로드에 실패했습니다.";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "계정 오류, 다시 로그인하세요.";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "계정 오류, 다시 로그인하세요.";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "이미 등록된 이메일 계정입니다. \n 로그인 하시겠습니까?";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "네트워크 오류, 다시 시도해 주세요.";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "너무 잦은 요청입니다. 나중에 다시 시도하세요.";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "이미 등록된 번호입니다. 로그인 하시겠습니까?";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "이미 등록된 번호입니다. 로그인 하시겠습니까?";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "너무 잦은 요청입니다. 나중에 다시 시도하세요.";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "인증 코드 만료, 다시 취득해 주세요.";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "잘못된 번호입니다";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "올바르지 않은 코드입니다. 다시 입력해 주십시오.";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "없는 번호입니다. 다시 입력해 주십시오.";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "이미 등록된 이메일 계정입니다. \n 로그인 하시겠습니까?";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "확인 이메일이 발송되지 않았습니다";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "확인 이메일이 발송되지 않았습니다";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "계정 오류, 다시 로그인 하세요.";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "계정 오류, 다시 로그인 하세요.";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "문자 메시지 확인 실패";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "제3자 계정이 이미 바인딩되었습니다.";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "금칙어 포함";
+
+/* puser_PwdError */
+"puser_PwdError" = "비밀번호 오류";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "없는 이메일 계정입니다. 다시 입력하십시오.";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "이미 등록된 이메일 계정입니다. 로그인 하시겠습니까?";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "잘못된 이메일 형식입니다.";
+
+/* newuser_gender */
+"newuser_gender" = "성별";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "페이스북으로 로그인";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "트위터로 로그인";
+
+/* newuser_area */
+"newuser_area" = "지역";
+
+/* newuser_introduction */
+"newuser_introduction" = "소개";
+
+/* newuser_male */
+"newuser_male" = "남성";
+
+/* newuser_female */
+"newuser_female" = "여성";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "주소 편집";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "위치로 이동";
+
+/* newuser_no_location */
+"newuser_no_location" = "귀하의 위치를 가져올 수 없습니다";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "시스템 설정에서 \"개인 정보 - 위치 서비스\"Camera360 위치 서비스 허용. 을 엽니다.";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "사진과 동영상 작품을 가질 수 없습니다";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "배경 바꾸기";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "프로필을 작성하시면 더 많은 사람들의 관심을 끌 수 있습니다.";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "연락처로 친구가 여기에 있는지 알 수 있습니다.";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "수정 성공";
+
+/* newuser_password */
+"newuser_password" = "암호";
+
+/* newuser_editintro */
+"newuser_editintro" = "소개말 입력";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "소개말 입력 (40자 이하)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "아바타 교체";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "이미지를 드래그하여 게시 범위 조정";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "커버 교체";
+
+/* cancle */
+"cancle" = "취소";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "시 주소 편집";
+
+/* newuser_all_city */
+"newuser_all_city" = "모두 %ld 코멘트 확인";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "도 주소 편집";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "인증코드 전송 완료";
+
+/* newuser_sended */
+"newuser_sended" = "전송 완료(%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "위챗 로그인";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "웨이보 로그인";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "로그인 / 가입";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "닉네임 입력 (20 자 이하)";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "닉네임 편집";
+
+/* pc_new_photo */
+"pc_new_photo" = "최신 사진";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@의 '좋아요'";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "댓글 없음, 댓글 얻으러 이동!";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "네트워크 예외사항, 네트워크를 확인하시기 바랍니다";
+
+/* pgba_select */
+"pgba_select" = "선택";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "이번 주";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "지난 주";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "2 주 전";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "%tu 선택됨";
+
+/* pgba_today */
+"pgba_today" = "오늘";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "어제";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "중국";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "재전송";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "바인딩 완료";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "국가 코드";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "현재 전화";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "더  콘텐츠";
+
+/* newuser_login_title */
+"newuser_login_title" = "회원 가입";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "닉네임은 비워 둘 수 없습니다";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "성별을 선택하지 않았습니다";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "이미 사용중인 닉네임입니다. 다른 닉네임을 선택하세요.";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "잘못된 닉네임입니다";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "사용자 닉네임 검색";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "권한 부여 실패";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "이 번호는 이미 사용 중입니다.";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "로그인하여 다운로드";
+
+/* 免费 */
+"免费" = "무료";
+
+/* 下载中 */
+"下载中" = "다운로드 중";
+
+/* 立即使用 */
+"立即使用" = "지금 사용";
+
+/* 素材管理 */
+"素材管理" = "자료 관리";
+
+/* 移到最前 */
+"移到最前" = "맨 위로 이동";
+
+/* 恢复已购 */
+"恢复已购" = "구매 복구";
+
+/* 管理 */
+"管理" = "관리";
+
+/* 我喜欢 */
+"我喜欢" = "즐겨 찾기";
+
+/* 夜景关闭 */
+"夜景关闭" = "나이트 모드 꺼짐";
+
+/* 夜景打开 */
+"夜景打开" = "나이트 모드 켜짐";
+
+/* 画幅 */
+"画幅" = "프레임";
+
+/* 定时 */
+"定时" = "타임드";
+
+/* 夜景 */
+"夜景" = "나이트 모드";
+
+/* 网格 */
+"网格" = "그리드";
+
+/* 触屏拍照 */
+"触屏拍照" = "터치 캡처";
+
+/* 暗角 */
+"暗角" = "비네팅";
+
+/* 虚化 */
+"虚化" = "블러링";
+
+/* 静音相机 */
+"静音相机" = "음소거 셔터";
+
+/* 设置 */
+"设置" = "설정";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "사용 가능한 복구 자료 없음";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "사용 가능한 자료 없음";
+
+/* 分享下载 */
+"分享下载" = "다운로드 공유";
+
+/* 解锁 */
+"解锁" = "잠금 해제";
+
+/* 补光 */
+"补光" = "채우기";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "네트워크 데이터 오류,나중에 다시 시도하세요 ";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "오류, 나중에 다시 시도하세요";
+
+/* 恢复 */
+"恢复" = "복구";
+
+/* 照片自动保存 */
+"照片自动保存" = "사진 자동 저장";
+
+/* 全部照片 */
+"全部照片" = "모든 사진";
+
+/* 下载 */
+"下载" = "다운로드";
+
+/* 使用 */
+"使用" = "사용";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "이 재료는 편집에 사용할 수 없음";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "꽃잎을 눌러서 계속";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "흥미로운 신 세계가 당신을 기다리고 있습니다";
+
+/* 进入 */
+"进入" = "들어가기";
+
+/* 静音 */
+"静音" = "음소거";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "시스템 버전이 만료되어 이 기능을 지원하지 않습니다.";
+
+/* 大小 */
+"大小" = "크기";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "현재 WIFI에 연결되어 있지 않습니다. 다운로드를 계속하시겠습니까?";
+
+/* 内含X个素材 */
+"内含X个素材" = "%ld 재료 포함";
+
+/* 已下载 */
+"已下载" = "다운로드하고 있다";
+
+/* 共%ld款 */
+"共%ld款" = "총 %ld";
+
+/* 下载失败 */
+"下载失败" = "다운로드 실패";
+
+/* 该内容不存在 */
+"该内容不存在" = "이 내용이 존재하지 않다";
+
+/* 置顶 */
+"置顶" = "맨 위에 고정";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "공유";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "지금 Camera360으로 나만의 인생을 기록하세요!";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "팁";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "좌우로 슬라이드하시면 더 많은 내용을 조회하실 수 있습니다";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "번역내용 조회하기";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "번역중…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "번역내용 감추기";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "번역 실패, 다시 시도하십시오";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "이모티콘 바꾸기";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "더 많이 보기";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "컬렉션 작품";
+
+/* pc_common_copy */
+"pc_common_copy" = "복제";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "자신의감정을공유하세요";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "전송 중";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "재전송하기";
+
+/* pc_download */
+"pc_download" = "다운로드하기";
+
+/* pc_downloading */
+"pc_downloading" = "다운로드중…";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "이제코멘트에서이미지와이모티콘도지원합니다!";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "이제설명에서이모티콘까지포함할수있습니다!";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "마스터사용자,전용ID";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "인증된사용자,권한강조!";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "공식증서";
+
+/* pc_comment_success */
+"pc_comment_success" = "코멘트 성공";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "코멘트 입력하기";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "계속";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "즐겨찾기에서 이 효과를 삭제하시겠습니까?";
+
+/* 特效管理 */
+"特效管理" = "효과 관리";
+
+/* 本地特效包 */
+"本地特效包" = "로컬 효과 팩";
+
+/* 商店 */
+"商店" = "스토어";
+
+/* setting_clearCache */
+"setting_clearCache" = "캐시삭제";
+
+/* 立即下载 */
+"立即下载" = "지금 다운로드하기";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "사용자닉네임을입력하세요";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "최대 1개 동영상 선택하기";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "최근 연락처";
+
+/* pc_my_follows */
+"pc_my_follows" = "나의 친구";
+
+/* pc_at_friends */
+"pc_at_friends" = "@친구";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "스티커 사용 시 4:3 프레임만 지원합니다";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "스티커 사용 시 비네트는 지원하지 않습니다";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "스티커 사용 시 블러는 지원하지 않습니다";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "스티커 사용 시 야간 모드는 지원하지 않습니다";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "움짤 사진";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "동영상 저장 안됨, 다시 저장해 주세요.";
+
+/* 画质 */
+"画质" = "품질";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "이미지를 드래그해 네모안에 붙여넣으세요.";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "앨범에 동영상 저장 완료";
+
+/* 照片动画 */
+"照片动画" = "사진 애니메이션";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "새로운 카메라 플레이 스타일로 
+사진을 현실감있게!";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "컨텐트 추가해 동영상 제작하기";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "사진을 생동감있게 만드세요.";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "카메라360으로 %@를 
+찍었어요. 와서 구경하세요!";
+
+/* 一张照片 */
+"一张照片" = "사진";
+
+/* 一段短视频 */
+"一段短视频" = "짧은 동영상";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "카메라360만 있으면 세계가 
+나를 주목합니다.";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "새로운 기능을 이용해 사진에 
+생명을 불어넣으세요!";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "사진 앨범 저장 완료";
+
+/* 下一步 */
+"下一步" = "다음";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "직접 공유; 확실한 품질";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "파일 %zd 삭제";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "동영상 %zd 삭제";
+
+/* 导出视频 */
+"导出视频" = "동영상 내보내기";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "시스템 추천 사용자";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "마스터 순위";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "명예의상징";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "글로벌 추천";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "팔로워늘이기";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "위치 선택";
+
+/* pc_location_fail */
+"pc_location_fail" = "위치 정보 가져오기 실패";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "위치정보를 가져올 수 없습니다.";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "카메라360을 위해 위치서비스를 켜세요.";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "켤게요";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "위치정보 이용 동의";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "온";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "%@ 의 사진을 공유하세요";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "%@ 의 사진모음을 공유하세요";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "%@ 의 짧은 동영상을 공유하세요";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "지난 3일간의 사진 업로드수와 소통
+ 수준에 따른 순위";
+
+/* 删除视频 */
+"删除视频" = "동영상삭제";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "Magic Skin";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "무비";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "점프는 안되요, 설정에서 직접 변경하세요";
+
+/* hot_recommond */
+"hot_recommond" = "핫";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "지금 신청";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "인기";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "사진 %d장 선택됨";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "동영상 %d편 선택됨";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "아이템 %d개 선택됨";
+
+/* 制作动态照片 */
+"制作动态照片" = "움짤 사진";
+

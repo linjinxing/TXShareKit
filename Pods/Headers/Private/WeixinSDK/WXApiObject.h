@@ -1,0 +1,1 @@
+../../../WeixinSDK/Classes/WXApiObject.h

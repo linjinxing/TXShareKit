@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "申し訳ありません。登録情報が失効していますので、改めて登録してください";
+
+/* 408 */
+"408" = "ネットワークエラー。後で再試行してください。";
+
+/* 500 */
+"500" = "データのロードに失敗しました。少したってから再度お試しください";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "自撮りを自動保存";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "Moments";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "Shot";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "WeChat Moments";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "WeChat";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "SMS認証を%@の電話番号に送信しました。";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "アカウントをアップグレートしました。今後はEメールアドレス／電話番号のみでのログインとなります。会員サービスを正常に利用いただくため、Eメールアドレス／電話番号をできるだけ早くリンクしてください。";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "アカウントをアップグレートしました。今後はEメールアドレスのみでのログインとなります。会員サービスを正常に利用いただくため、Eメールアドレスをできるだけ早くリンクしてください。";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "スリープ解除";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "バックアップ待機中";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "ファインダー画面";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "認証コードを送信しました。ご確認ください。";
+
+/* setting_password_footer */
+"setting_password_footer" = "単独または補助機能としてTouch IDを使用できます。";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "Camera360クラウドに写真をバックアップ";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "充電中のみアップロード";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "Wi-Fiでのみアップロード";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "常時オン";
+
+/* common_migration_alert */
+"common_migration_alert" = "データベース更新中";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "前回更新：%ld分前";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "前回更新：%ld分前";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "前回更新：%ld時間前";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "前回更新：%ld時間前";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "前回更新：%ld日前";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "前回更新：%ld日前";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "最大9枚まで選択できます。";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "「%@」を本当に削除しますか？";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "フィルターを削除できません。最低1つのフィルターが必要です！";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "詳細設定でパターンロックをオンにしてください。";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "アルバムを許可";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "Touch IDがオフです。";
+
+/* setting_touch_id */
+"setting_touch_id" = "Touch ID";
+
+/* gallery_today */
+"gallery_today" = "今日";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "迅速に回答するために、Camera360のプッシュ通知を許可してください。";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "Tips：音量ボタンで写真が保存できます！";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "露出時間";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "今週";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "このEメールアドレスは他のCamera360会員が登録済みです。";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "パスワードが間違っています。再試行してください。";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "パスワードは6～20文字";
+
+/* common_check_network */
+"common_check_network" = "ネットワークが使用できません。設定を確認してください。";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "このユーザーは存在しません";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "Feedback";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "カメラロールへの自動同期";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "このコラージュを破棄しますか？";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "%d枚の写真を削除しますか？";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "強さ";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "開始";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "開始";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "お気に入りからフィルターを削除しますか？";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "使用中の特殊エフェクトはアンインストールできません。";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "SMS認証コードを%@に送信します。";
+
+/* password_skip */
+"password_skip" = "スキップ";
+
+/* imageshow_size */
+"imageshow_size" = "サイズ：";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "Weibo";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "SNSアカウントでログイン";
+
+/* common_share */
+"common_share" = "シェア";
+
+/* settings */
+"settings" = "設定";
+
+/* password_set_questions */
+"password_set_questions" = "セキュリティ質問の設定";
+
+/* newuser_set_password */
+"newuser_set_password" = "パスワードの設定";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "Camera360アカウントパスワードの設定";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "利用規約";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "%zd枚選択中";
+
+/* selectPhoto */
+"selectPhoto" = "アルバムから選択";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "すべて選択";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "選択";
+
+/* scene_template */
+"scene_template" = "シーンテンプレート";
+
+/* saving_photo */
+"saving_photo" = "写真保存中…";
+
+/* common_save */
+"common_save" = "保存";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "回転";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "Eメールアドレスでパスワードを取得";
+
+/* product_restore */
+"product_restore" = "復元";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "再送信";
+
+/* reloading */
+"reloading" = "リロード";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "登録により「本利用規約」に";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "登録";
+
+/* newuser_register */
+"newuser_register" = "登録";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "更新失敗。ネットワーク設定を確認してください。";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "最終：%@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "5つ星評価";
+
+/* setting_rateus */
+"setting_rateus" = "評価・レビュー";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "Qzone";
+
+/* password_question_title */
+"password_question_title" = "質問:";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "フリー";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "下フリックでリフレッシュ";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "アバター";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "プレビューロード失敗！";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "指紋認証を行ってください。";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "写真を選択してください。";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "Touch IDがオンになっていることを確認してください。";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "設定からTouch IDをオンにしてください。";
+
+/* newuser_input_email */
+"newuser_input_email" = "登録したEメールアドレスへランダムパスワードを送信します。";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "登録したEメールアドレス";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "電話番号を入力してください。";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "メールアドレスを入力する";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "Eメールアドレス";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "認証コード";
+
+/* password_answer_title */
+"password_answer_title" = "回答を入力してください。";
+
+/* newuser_input_password */
+"newuser_input_password" = "パスワード入力";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "Eメールアドレス";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "アカウントを入力してください。";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "保存完了";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "写真の形式が不正です。再度アップロードしてください。";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "写真をインポートしました！";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "撮影日：";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "選択";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "不正な電話番号です。";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "電話番号";
+
+/* newuser_account */
+"newuser_account" = "プロフィール";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "パターン";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "パターンロックがオフです。今すぐオンにしますか？";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "パターンロック";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "パスワードは6～20文字";
+
+/* password_different */
+"password_different" = "パターンが一致しません。";
+
+/* password_wrong */
+"password_wrong" = "回答が間違っています。";
+
+/* setting_auto_save */
+"setting_auto_save" = "その他のカメラ保存モード";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "他のアルバム";
+
+/* gallery_high_org */
+"gallery_high_org" = "オリジナル（エフェクトなし）";
+
+/* original */
+"original" = "オリジナル";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "オン";
+
+/* common_ok */
+"common_ok" = "OK";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "オフ";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "この番号はすでに登録されています。ログインしますか？";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "この番号はすでに登録されています。";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "Camera360で日々の生活を記録！";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "リンクしていません。";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "評価しない";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "プレビューに対応していません";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "写真がありません。";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "ファイルが存在しません。";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "ニックネーム";
+
+/* newuser_next */
+"newuser_next" = "次へ";
+
+/* password_next_step */
+"password_next_step" = "次へ";
+
+/* common_network_error */
+"common_network_error" = "ネットワークエラー。後で再試行してください。";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "ネットワークエラー";
+
+/* gallery_networkError */
+"gallery_networkError" = "ネットワークに接続できません。";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "マイアルバム";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "修正失敗。再試行してください。";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "反転";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "会員限定エフェクトです。ダウンロードするにはログインしてください。";
+
+/* setting_manual */
+"setting_manual" = "手動";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "評価して下さい";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "SMS認証でログイン";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "問題がありますか？";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "外部アカウントでのログインに失敗しました";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "ログイン";
+
+/* common_login */
+"common_login" = "ログイン";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "ログアウトするとクラウド、会員限定フィルターなどの会員サービスが使用できなくなります。本当にログアウトしますか？";
+
+/* common_loading */
+"common_loading" = "ロード中…";
+
+/* loading_message */
+"loading_message" = "ロード中…";
+
+/* setting_live_preview */
+"setting_live_preview" = "ライブプレビュー";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "リンク完了";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "電話番号とリンク";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "Eメールアドレスとリンク";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "宜しければ、評価をして下さい";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "結合";
+
+/* product_invalid */
+"product_invalid" = "無効";
+
+/* setting_intro */
+"setting_intro" = "ウェルカムページ";
+
+/* store_installing */
+"store_installing" = "インストール";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "このページを閉じるとリカバリーが中断されます。本当に閉じますか？";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "アカウントセキュリティの強化";
+
+/* camera_in_use */
+"camera_in_use" = "使用中";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "待機中";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "マイアルバムにインポート";
+
+/* gallery_import */
+"gallery_import" = "インポート";
+
+/* password_question_tips */
+"password_question_tips" = "パスワードを忘れた場合は、セキュリティ質問で再設定できます";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "Camera360で撮影した写真です。";
+
+/* setting_home_ui */
+"setting_home_ui" = "ホーム";
+
+/* galley_high_definition */
+"galley_high_definition" = "フィルタ適用写真";
+
+/* setting_composition */
+"setting_composition" = "グリッド";
+
+/* common_got_it */
+"common_got_it" = "わかっています";
+
+/* product_free */
+"product_free" = "無料";
+
+/* product_unlock_title */
+"product_unlock_title" = "アニメの世界";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "あなたの写真が素敵なアニメ風に大変身";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "手書き編集";
+
+/* puzzle_frames */
+"puzzle_frames" = "フレーム";
+
+/* newuser_find_password */
+"newuser_find_password" = "パスワードの再取得";
+
+/* password_forget */
+"password_forget" = "パスワードを忘れましたか？";
+
+/* newuser_code_input */
+"newuser_code_input" = "認証コードを入力してください。";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "システムのアルバムに写真を保存できませんでした。";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "削除失敗";
+
+/* setting_face_auto */
+"setting_face_auto" = "顔認識撮影";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "絞り補正";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "カメラロールに写真をエクスポート：設定→プライバシー→写真→Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "写真エクスポートオプション";
+
+/* gallery_export */
+"gallery_export" = "移動";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "露出補正";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "エラー発生。再度ログインしてください。";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "ニックネーム入力";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "電話番号";
+
+/* keys */
+"keys" = "ja";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "Eメールアドレスへ送信しました。ご確認ください。";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "このEメールアドレスはすでに登録されています。";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "Eメールアドレスの形式が不正です。";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "このEメールアドレスはすでに登録されています。ログインしますか？";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "Eメールアドレスとリンク";
+
+/* common_email */
+"common_email" = "Eメール";
+
+/* effects_include_count */
+"effects_include_count" = "個のエフェクト";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "エフェクト：";
+
+/* effect_install_error */
+"effect_install_error" = "エフェクトインストール失敗";
+
+/* imageshow_edit */
+"imageshow_edit" = "編集";
+
+/* password_draw_new */
+"password_draw_new" = "新しいパターンを指で描いてください。";
+
+/* password_draw_again */
+"password_draw_again" = "もう一度パターンを描いてください。";
+
+/* password_draw */
+"password_draw" = "パターンを指で描いてください。";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "ダウンロード中は削除できません。";
+
+/* gallery_downloading */
+"gallery_downloading" = "ダウンロード中";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "アルバムに写真をダウンロード";
+
+/* gallery_taskList */
+"gallery_taskList" = "写真のダウンロード";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "ダウンロード失敗";
+
+/* common_download */
+"common_download" = "保存";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "保存完了";
+
+/* cloud_download_success */
+"cloud_download_success" = "完了";
+
+/* done */
+"done" = "完了";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "セキュリティ質問の設定";
+
+/* password_succeed */
+"password_succeed" = "完了";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "無効にする";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "寸法：";
+
+/* imageshow_device */
+"imageshow_device" = "デバイス：";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "選択解除";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "写真削除";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "%zd枚の写真を削除";
+
+/* common_delete */
+"common_delete" = "削除";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "アンインストール";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "通信料が発生する場合があります。ダウンロードを続けますか？";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "現在のアカウント";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "クロップ";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "アンインストールしますか？";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "電話番号の確認";
+
+/* gallery_collage */
+"gallery_collage" = "コラージュ";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "アップロード用回線";
+
+/* setting_cloud */
+"setting_cloud" = "クラウドの設定";
+
+/* gallery_cloud */
+"gallery_cloud" = "クラウドアルバム";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "オフ";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "名前の変更";
+
+/* setting_password_change */
+"setting_password_change" = "パターンロックの変更";
+
+/* common_cancel */
+"common_cancel" = "戻る";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "同意したと見なされます。";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "Camera360からカメラロールにアクセスできない場合は、設定→プライバシー→写真からCamera360をオンにしてください。";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "カメラ機能が起動していないため、写真を撮影できません。設定画面からカメラ機能を起動できます（設定→プライバシー→カメラ→Camera360をオン）。";
+
+/* takingPictures */
+"takingPictures" = "カメラ";
+
+/* newuser_bind */
+"newuser_bind" = "リンク";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "完了！";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "%zd枚の写真をバックアップ中";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "バックアップ中";
+
+/* common_back */
+"common_back" = "戻る";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "自動アップロード";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "自動バックアップオフ";
+
+/* setting_auto */
+"setting_auto" = "自動";
+
+/* password_verify */
+"password_verify" = "認証";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "コラージュには2枚以上の写真が必要です。";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "「%@」を本当に削除しますか？";
+
+/* store_installed */
+"store_installed" = "適用";
+
+/* password_answer */
+"password_answer" = "回答:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "回答が間違っています。";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "アルバムの暗号化";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "アルバムエラー";
+
+/* gallery_album */
+"gallery_album" = "アルバム";
+
+/* gallery_photos */
+"gallery_photos" = "アルバム";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "リンク完了後、電話番号とパスワードでログインできるようになります。";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "リンク完了後、Eメールアドレスとパスワードでログインできるようになります。";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "アカウント番号が間違っています。";
+
+/* setting_about */
+"setting_about" = "バージョン情報";
+
+/* password_too_short */
+"password_too_short" = "３か所以上一致する必要があります";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "%zd枚の写真をダウンロード中";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "%@の編集に対応していません。";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "%@がインストールされていません。シェルするにはインストールしてください。";
+
+/* effects_include */
+"effects_include" = "内容";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "180秒以上操作がないため、スリープモードに移行します…";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "エフェクトストア";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "エフェクトをお気に入りに追加";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "エフェクトなし";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "夜間モードオフ";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "夜間モードオン";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "夜間自撮りオフ";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "夜間自撮りオン";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "タッチ撮影オフ";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "タッチ撮影オン";
+
+/* camera_scene */
+"camera_scene" = "風景カメラ";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "オート露出補正／フォーカスロック";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "ライブプレビューを起動";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "スマートカメラ";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "写真を生成しています";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "サイレントモードオン。写真のサイズと画質が変わります";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "サイレントモードオフ";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "キャンセルしました";
+
+/* homepage_camera */
+"homepage_camera" = "カメラ";
+
+/* homepage_setting */
+"homepage_setting" = "ホーム";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "登録したEメールアドレスランダムパスワードを送信します。";
+
+/* newuser_logout */
+"newuser_logout" = "ログアウト";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "パスワードは6～20文字";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "アプリ起動後にホーム画面に入るかカメラ画面を表示するかを選択できます。";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "ライブプレビューを起動すると、撮影画面でエフェクトを見ることができますが、表示ラグが生じる場合があります。";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "前面カメラ使用中に起動すると、ミラー画像として画像を保存します。";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "ミラー画像自動変換";
+
+/* setting_photo_save */
+"setting_photo_save" = "写真の保存設定";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "撮影後に写真を自動保存するように設定できます。";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "オフにすると、写真を手動でデバイスのアルバムにエクスポートできます。";
+
+/* setting_start_ui */
+"setting_start_ui" = "スタートアップ画面";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "ポートレート";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "ダーク";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "夜間";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "バックライト";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "風景";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "集合写真";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "エフェクトパックが1つ以上必要です";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "App list";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "Saved successfully";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "AEロック";
+
+/* settingView_FQ */
+"settingView_FQ" = "F&Q";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "Ratio";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "Multigrid";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "Double Ex";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "接続がタイムアウトしました、もう一度ログインしてください";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "アルバムに保存";
+
+/* loadPage_skip */
+"loadPage_skip" = "Skip";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "スマートカメラ";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "美肌自撮り";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "マイアルバム";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "自動美顔オン";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "自動美顔オフ";
+
+/* skin */
+"skin" = "美肌";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "ゲットする";
+
+/* Edit template */
+"Edit template" = "テンプレート編集";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "ダウンロードは失敗しました。接続状況をチェックしてください！";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "顔を合わす";
+
+/* video_preview_title */
+"video_preview_title" = "プレビュー";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Camera360 Funny Stickers";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "なんて素敵なステッカーなんでしょう。とても気に入りました。あなたも試してみませんか？";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "保存は失敗しました。再度お試しください。";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "ビデオを保存するには次のように進みます。: 設定 -> プライバシー -> 写真 -> Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "保存";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "アップロードしています…";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "押し続けて記録する";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "マイク権限がオフになっていますので、音声を記録できません。これをオンにするには、「設定」に進みます。\r\n(設定 - プライバシー - マイク - Camera360のマイク権限をオンにする)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "保存しました。";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "マルチグリッドモード、二重露出モードの起動中は保存ができません";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "お使いの端末ではファニーステッカーをご利用頂けません";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Camera360 Funny Stickers";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "なんて素敵なステッカーなんでしょう。とても気に入りました。あなたも試してみませんか？";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "WeChat";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "前回登録";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "Camera360 の通知をオンにする";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "世界各地のユーザーからの「いいね」をお見逃しなく❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "オン";
+
+/* c_mall */
+"c_mall" = "ポイントモール";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "プライバシーポリシー";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "口を開けて";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "まゆげを上げて";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "にシェアする";
+
+/* Ccoin */
+"Ccoin" = "C幣";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "今すぐスタート";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "すべて新しいステッカー%@の%zd セット。この機会をお見逃しなく！";
+
+/* store_buy_now */
+"store_buy_now" = "さあ今すぐ購入しましょう。";
+
+/* store_restore_all */
+"store_restore_all" = "復元する";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "WiFi なしの環境で購入済みステッカーを復元しますか？";
+
+/* sticker_manage */
+"sticker_manage" = "ステッカーを管理";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "ダウンロードなし";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "復元するステッカーはありません。";
+
+/* store_feedback */
+"store_feedback" = "意見・感想";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "処理中";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "Camera360を利用するには\n以下の権限を有効にしてください。";
+
+/* auth_camera_title */
+"auth_camera_title" = "カメラ";
+
+/* auth_camera_des */
+"auth_camera_des" = "オンにして撮影";
+
+/* auth_mic_title */
+"auth_mic_title" = "マイク";
+
+/* auth_mic_des */
+"auth_mic_des" = "動画撮影時に音声を録音";
+
+/* auth_location_title */
+"auth_location_title" = "位置情報";
+
+/* auth_location_des */
+"auth_location_des" = "写真に位置情報を記録";
+
+/* auth_notification_title */
+"auth_notification_title" = "システムからの通知";
+
+/* auth_notification_des */
+"auth_notification_des" = "オンにして通知を表示";
+
+/* auth_got */
+"auth_got" = "OK";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "シェアしてアンロック";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "撮影中";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "動画は%zd 秒を超えることはできません。";
+
+/* video_import_not_support */
+"video_import_not_support" = "動画はインポートできません";
+
+/* video_import_fail */
+"video_import_fail" = "エクスポートに失敗しました";
+
+/* poker_error_tips */
+"poker_error_tips" = "再試行してください";
+
+/* poker_making_tips */
+"poker_making_tips" = "このフィルターはネットワーク接続を使用しますので、処理に少々時間が掛かります。";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "このフィルターは二重露光やマルチグリッドに対応していません";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "最大%tu枚まで選択できます";
+
+/* album_select_one_video */
+"album_select_one_video" = "1つのみ選択できます";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "このモードでは1枚のみ選択できます";
+
+/* effect_store_vip */
+"effect_store_vip" = "会員限定";
+
+/* pc_challenge */
+"pc_challenge" = "チャレンジ";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "残り %d 日";
+
+/* pc_over */
+"pc_over" = "終了";
+
+/* pc_my_works */
+"pc_my_works" = "自分の作品";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "優れた作品";
+
+/* pc_join */
+"pc_join" = "参加";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "投票";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "投票待ち";
+
+/* pc_prepare */
+"pc_prepare" = "準備中";
+
+/* pc_interest_people */
+"pc_interest_people" = "関心のある人々";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "推奨";
+
+/* pc_publish */
+"pc_publish" = "送信";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "フォローなし";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "孤独はつまらない～";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "位置情報が取得できません";
+
+/* pc_c_coins */
+"pc_c_coins" = "C幣";
+
+/* pc_experience */
+"pc_experience" = "経験値";
+
+/* pc_delete */
+"pc_delete" = "削除する";
+
+/* pc_report */
+"pc_report" = "通報";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "閲覧数";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "都市数";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "いいね！の数";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "「%@」で%d%%の挑戦者に勝ちました";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "報奨を得る";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%%のユーザーがあなたの投票を支持しています";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "Challenge（チャレンジ）に進む";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "作品はこれから増えますので、それまでお待ちください。";
+
+/* pc_vote_end */
+"pc_vote_end" = "投票は終了";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "作品への投票が多ければ多いほど順位が高くなり、より多くのC coinsを獲得することができます。";
+
+/* pc_ok */
+"pc_ok" = "OK";
+
+/* pc_delete_success */
+"pc_delete_success" = "削除しました。";
+
+/* pc_reported_success */
+"pc_reported_success" = "正常に報告されました。";
+
+/* pc_just_now */
+"pc_just_now" = "今すぐ";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d分前";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d時間前";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d日前";
+
+/* pc_months_ago */
+"pc_months_ago" = "%dか月前";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d年前";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "おめでとうございます！獲得した物";
+
+/* pc_share */
+"pc_share" = "シェア";
+
+/* pc_start_voting */
+"pc_start_voting" = "投票開始";
+
+/* pc_yesterday */
+"pc_yesterday" = "昨日";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "チャレンジに参加する";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "作品は削除されました";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "第 %d 位";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "ログインして詳細を見る";
+
+/* pc_login */
+"pc_login" = "ログイン";
+
+/* pc_collection */
+"pc_collection" = "収蔵する";
+
+/* pc_saved */
+"pc_saved" = "いいねしました";
+
+/* pc_removed */
+"pc_removed" = "取り消す";
+
+/* pc_download_template */
+"pc_download_template" = "テンプレートをダウンロード";
+
+/* pc_use_template */
+"pc_use_template" = "テンプレートを使用";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "Cコインストア近日公開！";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "参加する";
+
+/* pc_participants_num */
+"pc_participants_num" = "参加者数%@人";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd 挑戦者";
+
+/* pc_hot_task */
+"pc_hot_task" = "チャレンジ";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "挑戦者";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "すぐに参加を勝ち取るため奨励";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》準備できましたか？";
+
+/* pc_challenger */
+"pc_challenger" = "挑戦者";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "終了";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "最新の写真";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "選択された%li/%li 写真";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "データファイルは破損しています。";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "削除";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "発表に失敗しました。";
+
+/* pc_follow */
+"pc_follow" = "フォロー";
+
+/* pc_fans */
+"pc_fans" = "ファン";
+
+/* pc_followed */
+"pc_followed" = "フォロー";
+
+/* pc_mutual */
+"pc_mutual" = "お互いの";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "エントリ・ルール";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "何も見つかりませんでした。キーワードを変えて再試行しますか？";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "フォロワーはいません";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "フォロワーはいません";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "ファンはいません。もっと交流してみよう～";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "ファンはいません。最初のファンになってみよう～";
+
+/* pc_contacts */
+"pc_contacts" = "連絡先";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "連絡先へのアクセスに失敗しました。";
+
+/* pc_current_account */
+"pc_current_account" = "現アカウント";
+
+/* pc_account_setting */
+"pc_account_setting" = "アカウント設定";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "Beta フィードバック";
+
+/* pc_super_camera */
+"pc_super_camera" = "カメラ";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "カメラ";
+
+/* pc_selfie */
+"pc_selfie" = "自撮り";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "自撮り";
+
+/* pc_enhance */
+"pc_enhance" = "アルバム";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "AR カメラ";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "関連付けした後にの友人を探すことができます";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "電話番号が関連付けられました。";
+
+/* pc_reply */
+"pc_reply" = "返答";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "連絡先の友人 - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "関連付けできませんでした。";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "シュート";
+
+/* pc_comment */
+"pc_comment" = "コメント";
+
+/* pc_message_comment */
+"pc_message_comment" = "コメント";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "何か発言しましょう…";
+
+/* pc_send */
+"pc_send" = "送信";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "コメントは削除されました。";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "コンテンツは削除されました。";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld の「いいね」";
+
+/* pc_long_photo */
+"pc_long_photo" = "長い";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "いいね";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "すべての %ld コメントをチェックする";
+
+/* pc_check_detail */
+"pc_check_detail" = "詳細をチェックする";
+
+/* pc_create_relay */
+"pc_create_relay" = "Relay（リレー）を作成する";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "このコメントを削除する";
+
+/* pc_all_comments */
+"pc_all_comments" = "すべてのコメント";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "彼の/彼女のコメント";
+
+/* pc_details */
+"pc_details" = "詳細";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "コメントが長すぎます。140文字以内に収めてください";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "返答%@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* pc_more */
+"pc_more" = "もっと";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "親友の新鮮な事";
+
+/* pc_relay */
+"pc_relay" = "Relay（リレー）";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "フォローしました。";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "%ld 写真を気に入りました。";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "友人のMoments（瞬間）";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "推奨のユーザー";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "電話番号を関連付ける";
+
+/* pc_bound_success */
+"pc_bound_success" = "関連付けられた";
+
+/* pc_recommend */
+"pc_recommend" = "推奨";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "あなたの友人";
+
+/* pc_tag */
+"pc_tag" = "タグ";
+
+/* pc_user */
+"pc_user" = "ユーザー";
+
+/* pc_load_more */
+"pc_load_more" = "さらにロードする";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "画面をタップして再ロードする";
+
+/* pc_join_relay */
+"pc_join_relay" = "Relay（リレー）に参加する";
+
+/* pc_like */
+"pc_like" = "いいね";
+
+/* pc_say_something */
+"pc_say_something" = "コメントをする（140字以内）";
+
+/* pc_post_preview */
+"pc_post_preview" = "プレビューを投稿する";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "見た人に注意を促す";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "位置情報サービスをオンにする";
+
+/* pc_shoot */
+"pc_shoot" = "撮影";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "撮影";
+
+/* pc_short_video */
+"pc_short_video" = "動画";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "140字を超えることはできません。";
+
+/* pc_my_messages */
+"pc_my_messages" = "マイ・メッセージ";
+
+/* pc_mine */
+"pc_mine" = "自分のもの";
+
+/* pc_message_mine */
+"pc_message_mine" = "自分のもの";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "自分のもの";
+
+/* pc_zan */
+"pc_zan" = "いいね";
+
+/* pc_message_zan */
+"pc_message_zan" = "いいね";
+
+/* pc_new_fans */
+"pc_new_fans" = "新しいファン";
+
+/* pc_message_fans */
+"pc_message_fans" = "新しいファン";
+
+/* pc_notification */
+"pc_notification" = "通知";
+
+/* pc_message_notification */
+"pc_message_notification" = "通知";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "ポートレート、個人情報を設定する";
+
+/* pc_add_friend */
+"pc_add_friend" = "友人を追加する";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ Moments（瞬間）";
+
+/* pc_me */
+"pc_me" = "私";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "メッセージを入手する";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "オフにすると、通知は届かなくなります。";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "通知の設定";
+
+/* pc_creator */
+"pc_creator" = "クリエーター";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X 人がRelay（リレー）をしています。";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X 人が返答をしています。";
+
+/* pc_newest */
+"pc_newest" = "最新";
+
+/* pc_hottest */
+"pc_hottest" = "最もホットな";
+
+/* pc_searching */
+"pc_searching" = "検索中…";
+
+/* pc_get_reward */
+"pc_get_reward" = "報奨を得る";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "アカウント情報";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "Camera360について";
+
+/* pc_settings */
+"pc_settings" = "設定";
+
+/* pc_plaza */
+"pc_plaza" = "プラザ";
+
+/* pc_featured_video */
+"pc_featured_video" = "特集動画";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "近くにいる人";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "推奨のコンテンツ";
+
+/* pc_hot_works */
+"pc_hot_works" = "ホットな作品";
+
+/* pc_ad */
+"pc_ad" = "広告";
+
+/* pc_hot */
+"pc_hot" = "ホットな";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "特徴づけられた編集";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "サインイン / 登録";
+
+/* pc_user_center */
+"pc_user_center" = "私";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "マイ C points";
+
+/* pc_local_album */
+"pc_local_album" = "ローカル・アルバム";
+
+/* pc_moments */
+"pc_moments" = "瞬間";
+
+/* pc_like_home */
+"pc_like_home" = "いいね";
+
+/* pc_follow_home */
+"pc_follow_home" = "フォロー";
+
+/* pc_fans_home */
+"pc_fans_home" = "ファン";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "編集情報";
+
+/* pc_come_from */
+"pc_come_from" = "送信者%@";
+
+/* pc_friends */
+"pc_friends" = "お友だち";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "お友だち";
+
+/* pc_homepage */
+"pc_homepage" = "ホームページ";
+
+/* pc_message */
+"pc_message" = "メッセージ";
+
+/* pc_share_moments */
+"pc_share_moments" = "Moments（瞬間）を共有する☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "Moments（瞬間）を共有する";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "位置情報を表示しない";
+
+/* pc_take_video */
+"pc_take_video" = "動画";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "展開する";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "折りたたむ";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "申し訳ございませんが、お使いのデバイスには互換性がないためチャレンジには参加できません。";
+
+/* pc_more_video */
+"pc_more_video" = "もっと";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "世界中の人にあなたのことを見てもらいましょう。";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "スライドしてもっと探す";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "もっと多くの人にあなたの瞬間を見てもらいましょう。";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "%@,の人が更新をしています。";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "%zd の投稿";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "%zd の「いいね」";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "お気に入りの投稿を「いいね」にするにはダブルタップします。";
+
+/* intro_title1 */
+"intro_title1" = "Moments（瞬間）を開く";
+
+/* intro_title2 */
+"intro_title2" = "応援を見逃す";
+
+/* intro_title3 */
+"intro_title3" = "私に探させてください。";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "マスターに申し込む";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "マスター情報";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "マスターになる";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "スペシャルメダル";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "もっと多くの";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "推奨";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "マスターのシンボル";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "あなたは世界中のユーザーに推奨されます。";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "もっと多くの人にあなたの写真を見てもらいましょう。";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "条件が合えば、より簡単に承認されます！";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "携帯電話カメラで写真を撮ることがとても好きです。またそれを皆と共有することも大好きです。";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "旅行のシーンの記録や食べ物の写真などユニークな対象。";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "すでにインターネットの世界のスター、有名人です。";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "連絡先";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "電子メールを入力する";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "自己紹介";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "得意なもの / 関心事 / 趣味など";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "リクエストを提出する";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "提出しました。承認されるまでお待ちください。";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "リクエストは現在審査中です。しばらくお待ちください。";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "あなたはすでにマスターになっています。";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "マスター";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "世界の注目を集めよう";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "私は %@からの共有を勧めました。";
+
+/* pc_task_more */
+"pc_task_more" = "もっと多くの";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "特集トピック";
+
+/* common_black_title */
+"common_black_title" = "何もありません";
+
+/* common_loading_title */
+"common_loading_title" = "ロード中…";
+
+/* common_noMore_data */
+"common_noMore_data" = "コンテンツはもうありません…";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "%dにランク";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "位置情報を取得中";
+
+/* pc_task_award */
+"pc_task_award" = "ルールと報奨";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "%zd枚のみ選択できます";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "投稿する（%zd）";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "投稿する";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "連絡先へのアクセスが拒否されました。";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "連絡へのアクセス";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "今すぐオンにする>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "[設定]-[プライバシー]-[連絡先]、 と進み、Camera360をオンにしてください";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "フォトムービー";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "追加";
+
+/* intro_enterButton */
+"intro_enterButton" = "今すぐスタート";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "位置情報を表示する";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "参加する";
+
+/* intro_sologan */
+"intro_sologan" = "世界の注目を集めよう";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "アカウントはロックされています。問題がある場合、カスタマーサービスにご連絡ください。";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "正しくない入力が多いため、アカウントがロックされます。後ほど再度お試しになるか、パスワードを回復してください。";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "パスワードが簡単すぎます。再入力してください。";
+
+/* puser_OK */
+"puser_OK" = "OK";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* puser_ServerError */
+"puser_ServerError" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* puser_SystemError */
+"puser_SystemError" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "アカウントまたはパスワードが正しくありません。再度入力してください。";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "アカウントまたはパスワードが正しくありません。再度入力してください。";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "画像形式が正しくありません。再度アップロードしてください。";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "アバターアップロード失敗";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "アカウント・エラーです。再度ログインしてください。";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "アカウント・エラーです。再度ログインしてください。";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "電子メールはすでに登録されています。\nログインしますか？";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "ネットワーク・エラーです。しばらくしてから、もう一度お試しください。";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "リクエストが多すぎます。後からもう一度お試しください。";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "番号はすでに登録されています。ログインしますか？";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "番号はすでに登録されています。ログインしますか？";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "リクエストが多すぎます。後からもう一度お試しください。";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "確認コードの期限が切れています。再度取得してください。";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "番号が無効です。";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "コードが正しくありません。再度入力してください。";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "番号が存在していません。再入力してください。";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "電子メールはすでに登録されています。ログインしますか？";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "認証メールはまだ送信に成功していません";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "認証メールはまだ送信に成功していません";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "アカウント・エラーです。再度ログインしてください。";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "アカウント・エラーです。再度ログインしてください。";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "テキストメッセージをゲームリソースの検証に失敗しました。";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "サードパーティのアカウントはすでに関連付けられています。";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "不正な語句が含まれています。";
+
+/* puser_PwdError */
+"puser_PwdError" = "パスワードのエラー";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "電子メールが存在していません。再入力してください。";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "電子メールはすでに登録されています。ログインしますか？";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "電子メールのフォーマットは正しくありません。";
+
+/* newuser_gender */
+"newuser_gender" = "性別";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "Facebookでサインインする";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "Twitterでサインインする";
+
+/* newuser_area */
+"newuser_area" = "地域";
+
+/* newuser_introduction */
+"newuser_introduction" = "概要説明";
+
+/* newuser_male */
+"newuser_male" = "男性";
+
+/* newuser_female */
+"newuser_female" = "女性";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "住所を編集する";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "その位置に移動する";
+
+/* newuser_no_location */
+"newuser_no_location" = "あなたの位置情報を取得できません。";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "システム設定で、\"プライバシー - 位置情報サービス\"を開き、Camera 360 の位置情報サービスを許可します。";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "画像や動画の作品を保有することはできません。";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "バックグラウンドを変更する";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "より多くの人があなたのことに関心をもてるようにプロフィールをすべて記入します。";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "友人がここにいることを連絡先で見ます。";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "正常に変更されました。";
+
+/* newuser_password */
+"newuser_password" = "パスワード";
+
+/* newuser_editintro */
+"newuser_editintro" = "自己紹介を編集する";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "自己紹介を入力する（40文字以下）";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "アバターを交換する";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "画像をドラッグして画面の範囲を調整する";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "カバーを交換する";
+
+/* cancle */
+"cancle" = "キャンセルする";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "都市の住所を編集する";
+
+/* newuser_all_city */
+"newuser_all_city" = "すべて";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "州の住所を編集する";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "確認コードが送信されました。";
+
+/* newuser_sended */
+"newuser_sended" = "送信されました。 (%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "WeChat ログイン";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "Weiboログイン";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "サインイン / 登録";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "ニックネームを入力する（20文字以下）";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "ニックネームを編集する";
+
+/* pc_new_photo */
+"pc_new_photo" = "最新の写真";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@の「いいね」";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "コメントがありません。コメントを入手しましょう！";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "ネットワークの例外です。ネットワークをチェックしてください。";
+
+/* pgba_select */
+"pgba_select" = "選択する";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "今週";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "先週";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "2週間前";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "選択された%tu";
+
+/* pgba_today */
+"pgba_today" = "今日";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "昨日";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "中国";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "再送";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "関連付けられた";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "国コード";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "現在の電話番号";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "よりコンテンツ";
+
+/* newuser_login_title */
+"newuser_login_title" = "登録";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "ニックネームは空白にはできません。";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "性別が選択されていません。";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "ニックネームはすでに使用されています。別のものを選択してください。";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "ニックネームの中に利用できない文字が含まれています";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "ニックネームで検索";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "許可するのに失敗しました。";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "この数字はすでに使用されています";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "登録でダウンロード";
+
+/* 免费 */
+"免费" = "無料";
+
+/* 下载中 */
+"下载中" = "ダウンロード中";
+
+/* 立即使用 */
+"立即使用" = "すぐ使う";
+
+/* 素材管理 */
+"素材管理" = "素材管理";
+
+/* 移到最前 */
+"移到最前" = "最前へ移す";
+
+/* 恢复已购 */
+"恢复已购" = "購買回復";
+
+/* 管理 */
+"管理" = "管理";
+
+/* 我喜欢 */
+"我喜欢" = "好きなもの";
+
+/* 夜景关闭 */
+"夜景关闭" = "夜景を閉じる";
+
+/* 夜景打开 */
+"夜景打开" = "夜景を開く";
+
+/* 画幅 */
+"画幅" = "寸法";
+
+/* 定时 */
+"定时" = "定時";
+
+/* 夜景 */
+"夜景" = "夜景";
+
+/* 网格 */
+"网格" = "グリッド";
+
+/* 触屏拍照 */
+"触屏拍照" = "タッチ撮り";
+
+/* 暗角 */
+"暗角" = "暗い角";
+
+/* 虚化 */
+"虚化" = "虚像化";
+
+/* 静音相机 */
+"静音相机" = "消音カメラ";
+
+/* 设置 */
+"设置" = "設置";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "回復できる素材はしばらくない";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "利用できる素材はしばらくない";
+
+/* 分享下载 */
+"分享下载" = "ロック解除を共有する";
+
+/* 解锁 */
+"解锁" = "ロック解除";
+
+/* 补光 */
+"补光" = "フィルイン";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "インターネットデータ異常、あとで試してください";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "異常があり、あとで試してください";
+
+/* 恢复 */
+"恢复" = "回復";
+
+/* 照片自动保存 */
+"照片自动保存" = "写真の自動保存";
+
+/* 全部照片 */
+"全部照片" = "すべての写真";
+
+/* 下载 */
+"下载" = "ダウンロード";
+
+/* 使用 */
+"使用" = "使用する";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "この素材は編集出来ません";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "花びらをクリックして続ける";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "素敵な世界が待ってます";
+
+/* 进入 */
+"进入" = "入る";
+
+/* 静音 */
+"静音" = "ミュート";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "バーションが古いのでこの機能は使用出来ません。";
+
+/* 大小 */
+"大小" = "サイズ";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "現在WIFI接続ではありませんが、ダウンロードを続けますか？";
+
+/* 内含X个素材 */
+"内含X个素材" = "%ld個の素材を含みます";
+
+/* 已下载 */
+"已下载" = "ダウンロード済み";
+
+/* 共%ld款 */
+"共%ld款" = "合計％ld個";
+
+/* 下载失败 */
+"下载失败" = "ダウンロード失敗";
+
+/* 该内容不存在 */
+"该内容不存在" = "内容がありません";
+
+/* 置顶 */
+"置顶" = "トップへ";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "シェア";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "カメラ360で日々の生活を記録！";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "ヒント";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "左右にスワイプして更にチェック";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "翻訳を見る";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "翻訳中…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "翻訳を隠す";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "再試行";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "アバタ―を替える";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "更に見る";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "厳選作品";
+
+/* pc_common_copy */
+"pc_common_copy" = "コピー";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "今の気持ちを投稿しよう";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "送信中";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "再送信";
+
+/* pc_download */
+"pc_download" = "ダウンロード";
+
+/* pc_downloading */
+"pc_downloading" = "ダウンロード中…";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "コメントに画像や絵文字を使用できるようになりました！";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "テキストの説明文に絵文字を使用できるようになりました！";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "達人ユーザーだけの専用ID";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "認定ユーザーだけの特権！";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "公式認定";
+
+/* pc_comment_success */
+"pc_comment_success" = "コメントを投稿しました";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "コメントを入力してください";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "続ける";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "現在のエフェクトをお気に入りから削除しますか？";
+
+/* 特效管理 */
+"特效管理" = "エフェクト管理";
+
+/* 本地特效包 */
+"本地特效包" = "ローカルエフェクトパック";
+
+/* 商店 */
+"商店" = "ストア";
+
+/* setting_clearCache */
+"setting_clearCache" = "キャッシュ削除";
+
+/* 立即下载 */
+"立即下载" = "今すぐダウンロード";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "ユーザーニックネームを入力してください";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "最高で1つの動画を選択できます";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "最近のコンタクト";
+
+/* pc_my_follows */
+"pc_my_follows" = "マイフレンド";
+
+/* pc_at_friends */
+"pc_at_friends" = "@フレンド";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "ステッカー使用中は、4：3のフレームのみ対応しています";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "ステッカー使用中は、ビネットに対応していません";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "ステッカー使用中は、ぼかしに対応していません";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "ステッカー使用中は、夜間モードに対応していません";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "ダイナミック写真";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "動画を送信できませんでした。再度お試しください。";
+
+/* 画质 */
+"画质" = "品質";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "画像をドラッグして四角形にトリミングをします。";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "動画をアルバムに保存しました。";
+
+/* 照片动画 */
+"照片动画" = "フォト・アニメーション";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "カメラの新しいプレースタイル。写真を生き生きと!";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "コンテンツを加えて動画をつくる";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "写真を生き生きと";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "Camera360 でこの %@ を撮ってみました。ぜひご覧ください！";
+
+/* 一张照片 */
+"一张照片" = "写真";
+
+/* 一段短视频 */
+"一段短视频" = "ショート動画";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360、世界中の人々に自分のことを見てもらいましょう。";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "新機能をお試しください。写真を生き生きと！";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "写真をアルバムに保存しました。";
+
+/* 下一步 */
+"下一步" = "次";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "直接共有、より高い鮮明度";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "%zd アイテムを削除する";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "%zd 動画を削除する";
+
+/* 导出视频 */
+"导出视频" = "動画をエクスポートする";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "システム推奨のユーザー";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "マスター・ランキング";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "栄誉のシンボル";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "グローバルな推奨";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "より多くのフォロワー";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "位置情報を選択する";
+
+/* pc_location_fail */
+"pc_location_fail" = "位置情報の取得に失敗しました。";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "位置情報を取得できません。";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "Camera360の位置情報サービスをオンにする";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "オンにする";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "ロケーションにアクセスする";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "オン";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "%@ からの写真を共有する";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "%@ からの写真コレクションを共有する";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "%@ からのショートビデオを共有する";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "写真数によるランクおよび過去3日間のインタラクティブ・レベル";
+
+/* 删除视频 */
+"删除视频" = "動画を削除";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "Magic Skin";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "映画";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "移動できません。手作業で設定まで移動します。";
+
+/* hot_recommond */
+"hot_recommond" = "素敵な";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "今すぐ申し込む";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "注目の";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "%d 写真が選択されました。";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "%d 動画が選択されました。";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "%d アイテムが選択されました。";
+
+/* 制作动态照片 */
+"制作动态照片" = "ダイナミック写真";
+

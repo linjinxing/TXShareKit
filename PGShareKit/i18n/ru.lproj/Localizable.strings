@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "Lo sentimos, sus datos para ingresar al sistema han expirado. Por favor vuelva a registrarse";
+
+/* 408 */
+"408" = "Подключение не установлено. Попробуйте еще раз.";
+
+/* 500 */
+"500" = "Ошибка при загрузке данных. Пожалуйста, попробуйте позже";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "Автоматически сохранять селфи";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "Моменты";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "Снимок";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "Моменты WeChat";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "WeChat";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "Отправлен код подтверждения с помощью SMS-сообщения на номер %@";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "Началось обновление учетной записи и теперь будет поддерживаться только вход по электронной почте/номеру телефона. Для обеспечения нормального использования наших сервисов выполните привязку электронной почты/номера телефона как можно скорее.";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "Началось обновление учетной записи и теперь будет поддерживаться только вход по электронной почте. Для обеспечения нормального использования наших сервисов выполните привязку электронной почты как можно скорее.";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "Разбудить меня";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "Ожидание резервного копирования";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "Видоискатель";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "Отправлен код подтверждения, пожалуйста, проверьте";
+
+/* setting_password_footer */
+"setting_password_footer" = "Используйте отдельно или как дополнение к Touch ID.";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "Отправлять фотографии в облако Camera360";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "Отправлять только при зарядке";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "Отправлять только по сети Wi-Fi";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "Отправлять по сети 3G и Wi-Fi";
+
+/* common_migration_alert */
+"common_migration_alert" = "Обновление базы данных";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "Обновлено %ld мин. назад";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "Обновлено %ld мин. назад";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "Обновлено %ld ч. назад";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "Обновлено %ld ч. назад";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "Обновлено %ld д. назад";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "Обновлено %ld д. назад";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "До 9 фотографий за один раз";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "Удалить \"%@\"?";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "Не удается удалить фильтр, должен остаться по крайней мере один!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "Включите блокировку жестом в дополнительных параметрах.";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "Включите разрешение альбома";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "Touch ID выкл.";
+
+/* setting_touch_id */
+"setting_touch_id" = "Touch ID";
+
+/* gallery_today */
+"gallery_today" = "Cегодня";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "Для обеспечения своевременного получения ответа включите push-уведомления.";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "Советы: Нажмите клавиши громкости для сохранения фотографий!";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "ВРЕМЯ";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "За эту неделю";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "Этот адрес зарегистрирован на другого участника Camera360.";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "Вы ввели неправильный пароль.";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "Пароль должен содержать 6-20 символов.";
+
+/* common_check_network */
+"common_check_network" = "Сеть недоступна. Проверьте настройки сети.";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "Имя пользователя не существует";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "Обратная связь";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "Синхронизация с Фотопленкой";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "Отказаться от решения головоломки?";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "Удалить фото %d?";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "Сила";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "Начать";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "Начать";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "Удалить фильтр из избранного?";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "Спецэффекты нельзя удалять во время исполuser_center_update_nick_not_useьзования";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "Код проверки SMS будет отправлен на %@";
+
+/* password_skip */
+"password_skip" = "Пропустить";
+
+/* imageshow_size */
+"imageshow_size" = "Размер:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "Weibo";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "Войти другим способом";
+
+/* common_share */
+"common_share" = "доля";
+
+/* settings */
+"settings" = "Настройки";
+
+/* password_set_questions */
+"password_set_questions" = "Задать вопрос безопасности";
+
+/* newuser_set_password */
+"newuser_set_password" = "Задать пароль";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "Задать пароль учетной записи Camera360";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "Условия предоставл. услуг";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "Выбрано %zd фото";
+
+/* selectPhoto */
+"selectPhoto" = "Выберите фото";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "Выбр. все";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "Выбрать";
+
+/* scene_template */
+"scene_template" = "Шаблоны сцены";
+
+/* saving_photo */
+"saving_photo" = "Сохранение фото...";
+
+/* common_save */
+"common_save" = "хорошо";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "Поворот";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "Восстановить пароль по электронной почте";
+
+/* product_restore */
+"product_restore" = "Восстанов.";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "Отправить повторно";
+
+/* reloading */
+"reloading" = "Перезагрузить";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "Зарегистрировано согласен";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "Регистрация";
+
+/* newuser_register */
+"newuser_register" = "Регистрация";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "Сбой обновления, проверьте настройки сети.";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "Последнее резервное копирование: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "Оцените нас";
+
+/* setting_rateus */
+"setting_rateus" = "Оценить и оставить отзыв";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "Qzone";
+
+/* password_question_title */
+"password_question_title" = "Вопрос：";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "шаблон";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "Потяните вниз для обновления";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "Фото профиля";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "Загрузка предварительного просмотра не выполнена";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "Выполните проверку отпечатков пальцев";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "Выберите фото.";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "Убедитесь, что Touch ID включен.";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "Перейдите в настройки, чтобы включить Touch ID.";
+
+/* newuser_input_email */
+"newuser_input_email" = "Введите адрес электронной почты и мы вам вышлем ссылку для восстановления пароля.";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "Введите зарегистрированный адрес электронной почты";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "Введите номер телефона";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "Введите адрес электронной почты";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "Введите адрес электронной почты";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "Проверочный код";
+
+/* password_answer_title */
+"password_answer_title" = "Введите ответ";
+
+/* newuser_input_password */
+"newuser_input_password" = "Введите пароль";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "Введите адрес электронной почты";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "Введите учетную запись";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "Фотографии экспортированы в Фотопленку";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "Неверный формат изображения, загрузите еще раз";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "Фотографии импортированы!";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "Адрес фото:";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "Фото";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "Неверный номер телефона";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "Номер телефона";
+
+/* newuser_account */
+"newuser_account" = "Личная информация";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "Жесты";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "Блокировка жестом отключена. Включить сейчас?";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "Блокировка жестом";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "Пароль должен содержать от 6 до 20 символов";
+
+/* password_different */
+"password_different" = "Пароли не совпадают. Повторите.";
+
+/* password_wrong */
+"password_wrong" = "Неверный пароль. Попробуйте еще раз.";
+
+/* setting_auto_save */
+"setting_auto_save" = "Другой безопасный режим камеры";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "Др. альбомы";
+
+/* gallery_high_org */
+"gallery_high_org" = "Оригинал (без эффектов)";
+
+/* original */
+"original" = "Оригинал";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "ВКЛ.";
+
+/* common_ok */
+"common_ok" = "Ok";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "ВЫКЛ.";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "Номер уже зарегистрирован.\nВыполнить вход?";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "Номер уже зарегистрирован";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "Теперь записывайте вашу жизнь с помощью Camera360!";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "Не связан";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "Нет, спасибо!";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "Нет просмотра в реальном времени";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "Еще нет фото";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "Нет фото";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "Псевдоним";
+
+/* newuser_next */
+"newuser_next" = "Далее";
+
+/* password_next_step */
+"password_next_step" = "Далее";
+
+/* common_network_error */
+"common_network_error" = "Ошибка сети. Попробуйте позже.";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "Ошибка сети";
+
+/* gallery_networkError */
+"gallery_networkError" = "Ошибка сети";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "Мой альбом";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "Изменение не выполнено. Повторите попытку.";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "Перевернуть";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "Участники пользуются специальными эффектами, выполните вход для загрузки.";
+
+/* setting_manual */
+"setting_manual" = "Вручную";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "С нетерпением ждем вашей оценки";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "Вход с помощью SMS-проверки";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "Проблемы со входом?";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "Ошибка входа третьих лиц";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "Учетные записи для входа";
+
+/* common_login */
+"common_login" = "Вход";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "При выходе будет отключен облачный альбом, фильтры и другие сервисы для участников. Выйти?";
+
+/* common_loading */
+"common_loading" = "Загрузка...";
+
+/* loading_message */
+"loading_message" = "Загрузка...";
+
+/* setting_live_preview */
+"setting_live_preview" = "Предпросмотр";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "Привязка выполнена успешно";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "Привязать номер телефона";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "Привязать адрес эл. почты";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "Нравится наше приложение? Оцените нас!";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "Вступить";
+
+/* product_invalid */
+"product_invalid" = "Недействительно";
+
+/* setting_intro */
+"setting_intro" = "Вступительное видео";
+
+/* store_installing */
+"store_installing" = "занятый";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "Выход из этой страницы прервет восстановление. Выйти?";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "Повысить безопасность уч. записи";
+
+/* camera_in_use */
+"camera_in_use" = "Используется";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "В очереди";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "Импортировать в мой альбом";
+
+/* gallery_import */
+"gallery_import" = "Импорт";
+
+/* password_question_tips */
+"password_question_tips" = "Если вы забыли пароль, его можно сбросить с помощью вопросов безопасности.";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "Я поделился фотографиями от Camera360";
+
+/* setting_home_ui */
+"setting_home_ui" = "Главная";
+
+/* galley_high_definition */
+"galley_high_definition" = "Изображения с эффектом HD";
+
+/* setting_composition */
+"setting_composition" = "Сетка";
+
+/* common_got_it */
+"common_got_it" = "Я знаю";
+
+/* product_free */
+"product_free" = "Бесплатно";
+
+/* product_unlock_title */
+"product_unlock_title" = "Анимешное небо";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "Путешествие по твоим детским фантазиям";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "Бесплатно";
+
+/* puzzle_frames */
+"puzzle_frames" = "Рамки";
+
+/* newuser_find_password */
+"newuser_find_password" = "Забыли пароль?";
+
+/* password_forget */
+"password_forget" = "Забыли пароль?";
+
+/* newuser_code_input */
+"newuser_code_input" = "Введите проверочный код";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "Не удалось сохранить фото в системный альбом";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "Не удалось удалить";
+
+/* setting_face_auto */
+"setting_face_auto" = "Определение лиц";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "F";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "Экспорт изображения в Фотопленку: Настройка > Конфиденциальность > Фотографии > Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "Параметры экспорта фото";
+
+/* gallery_export */
+"gallery_export" = "Экспорт";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "EV";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "Ошибка. Выполните вход позже.";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "Введите имя пользователя";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "Номер телефона";
+
+/* keys */
+"keys" = "en";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "Отправлено сообщение по электронной почте, проверьте свой почтовый ящик";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "Адрес электронной почты уже зарегистрирован";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "Неправильный формат адреса электронной почты";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "Адрес электронной почты уже зарегистрирован,\nвойти?";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "Электронная почта";
+
+/* common_email */
+"common_email" = "Электронная почта";
+
+/* effects_include_count */
+"effects_include_count" = "эффекты вкл.";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "Эффект:";
+
+/* effect_install_error */
+"effect_install_error" = "Не удалось установить эффект";
+
+/* imageshow_edit */
+"imageshow_edit" = "Редактировать";
+
+/* password_draw_new */
+"password_draw_new" = "Нарисуйте новый графический пароль";
+
+/* password_draw_again */
+"password_draw_again" = "Нарисуйте графический пароль еще раз";
+
+/* password_draw */
+"password_draw" = "Нарисуйте графический пароль";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "Выполняется загрузка, не удалось удалить.";
+
+/* gallery_downloading */
+"gallery_downloading" = "Загрузка";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "Загрузить фото в альбом";
+
+/* gallery_taskList */
+"gallery_taskList" = "Загрузить фото";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "Ошибка загрузки";
+
+/* common_download */
+"common_download" = "Загрузить";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "Готово!";
+
+/* cloud_download_success */
+"cloud_download_success" = "Готово";
+
+/* done */
+"done" = "Готово";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "Готово";
+
+/* password_succeed */
+"password_succeed" = "Готово";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "Отключено";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "Размеры:";
+
+/* imageshow_device */
+"imageshow_device" = "Устройство:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "Отмен. выбор";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "Удалить фото";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "Удалить %zd фото";
+
+/* common_delete */
+"common_delete" = "Удалить";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "Удалить";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "При загрузке фото может взиматься оплата за передачу данных.";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "Текущая учетная запись";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "Обрезать";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "Подтвердите удаление";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "Подтвердите номер телефона";
+
+/* gallery_collage */
+"gallery_collage" = "Коллаж";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "Отправить сеть";
+
+/* setting_cloud */
+"setting_cloud" = "Настр. облачн. альбома";
+
+/* gallery_cloud */
+"gallery_cloud" = "Облачный альбом";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "закрыть";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "Изменить имя";
+
+/* setting_password_change */
+"setting_password_change" = "Изменить пароль альбома";
+
+/* common_cancel */
+"common_cancel" = "Отмена";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "соглашение camera360";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "Camera360 не имеет доступа к Фотопленке. Перейдите в меню Настройки -> Конфиденциальность-> Фотографии и включите Camera360.";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "Служба камеры не включена. Невозможно сделать фото. Можно включить службу камеры в настройках.\r\n(Откройте Настройки -> Конфиденциальность->Камера и включите Camera360)";
+
+/* takingPictures */
+"takingPictures" = "Камера";
+
+/* newuser_bind */
+"newuser_bind" = "Связь";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "Резервное копирование закончено!";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "Созданы резервные копии для %zd фото";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "Выполняется резервное копирование";
+
+/* common_back */
+"common_back" = "Назад";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "Отправлять автоматически";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "Автоматическое резервное копирование";
+
+/* setting_auto */
+"setting_auto" = "Авто";
+
+/* password_verify */
+"password_verify" = "Авторизация";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "По крайней мере 2 фотографии";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "Удалить %@?";
+
+/* store_installed */
+"store_installed" = "te";
+
+/* password_answer */
+"password_answer" = "Ответ：";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "Ответ неправильный. Попробуйте еще раз.";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "Шифрование альбома";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "Ошибка доступа к альбому";
+
+/* gallery_album */
+"gallery_album" = "Альбом";
+
+/* gallery_photos */
+"gallery_photos" = "Альбом";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "После привязки вы сможете входить с помощью номера телефона и пароля.";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "После привязки вы сможете входить с помощью адреса электронной почты и пароля.";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "Неверный номер учетной записи";
+
+/* setting_about */
+"setting_about" = "О приложении";
+
+/* password_too_short */
+"password_too_short" = "Нужно соединить по крайней мере три точки.\nПопробуйте ещё раз.";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "Загрузка %zd фото";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "Редактирование %@ не поддерживается";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "Клиент %@ не установлен, установить сейчас?";
+
+/* effects_include */
+"effects_include" = "содержать";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "Неактивно более 180 с, переход в спящий режим...";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "магазин";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "Добавить эффект в избранное";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "Оригинал";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "Ночной режим выкл.";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "Ночной режим вкл.";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "Ночное селфи выкл.";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "Ночное селфи вкл.";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "Съемка касанием выкл.";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "Съемка касанием вкл.";
+
+/* camera_scene */
+"camera_scene" = "Фото-плакат";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "Автоматическая экспозиция/фокусировка заблокирована";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "Включить предварительный просмотр";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "Easy Cam";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "Создание фото";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "Беззвучная съемка включена, это влияет на качество фото";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "Режим беззвучный съемки выключен";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "Отменено";
+
+/* homepage_camera */
+"homepage_camera" = "Камера";
+
+/* homepage_setting */
+"homepage_setting" = "Я";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "Введите адрес электронной почты и мы вам вышлем ссылку для восстановления пароля.";
+
+/* newuser_logout */
+"newuser_logout" = "Выйти";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "Пароль должен содержать от 6 до 20 символов";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "Можно выбрать, что будет открываться после запуска приложения: начальный экран или интерфейс камеры.";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "Включите живой просмотр, чтобы видеть эффекты во время съемки, но это может привести к замедлению работы.";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "При включении фотографии, сделанные с помощью передней камеры, будут сохраняться в зеркальном отображении.";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "Зеркальный режим";
+
+/* setting_photo_save */
+"setting_photo_save" = "Настр. сохр. фото";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "По вашему выбору приложение может сохранять фотографии автоматически после съемки.";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "Если этот параметр выключен, вы можете вручную экспортировать фотографии в системный альбом.";
+
+/* setting_start_ui */
+"setting_start_ui" = "Заставка";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "Портрет";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "Темно";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "Ночь";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "Подсветка";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "Живописный";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "Группа";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "Оставьте хотя бы один пакет эффектов";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "Список приложений";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "Успешно сохранено";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "Блокировка автоэкспозиции";
+
+/* settingView_FQ */
+"settingView_FQ" = "Вопросы и ответы";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "Соотношение";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "Multigrid";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "Двойная экспозиция";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "Срок действия учетной записи пользователя истек. Чтобы снова включить автоматическое резервное копирование фото, введите пароль и выполните вход";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "Сохранено в альбом";
+
+/* loadPage_skip */
+"loadPage_skip" = "Skip";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "Простая камера";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "Фото-селфи";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "Мой альбом";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "Автоконтур вкл.";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "Автоконтур выкл.";
+
+/* skin */
+"skin" = "Тема";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "Получить";
+
+/* Edit template */
+"Edit template" = "Редактировать шаблон";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "Загрузка не выполнена, проверьте подключение!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "Совместите лицо";
+
+/* video_preview_title */
+"video_preview_title" = "Предварительный";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Camera360 Funny Stickers";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "Какой волшебный и очаровательный стикер, хотите попробовать?？";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "Не удалось сохранить, попробуйте еще раз";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "Для сохранения видео откройте: Настройки > Конфиденциальность > Фотографии > Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "Сохр.";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "Отправка…";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "Удерживайте для записи видео";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "Служба микрофона отключена, невозможно записать звук. Вы можете перейти в настройки, чтобы включить его. \r\n (Настройка-Конфиденциальность-Микрофон и включите микрофон для Camera360)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "Сохранено";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "Не удается сделать запись, если режимы MultiGrid или Double EX включены";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "Ваш телефон не поддерживает \"Funny Sticker\" из-за проблем с производительностью и совместимостью";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Camera360 Funny Stickers";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "Какой волшебный и очаровательный стикер, хотите попробовать?？";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "WeChat";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "Последний вход:";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "Включите уведомления Camera360";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "Никогда не оставайтесь без \"лайков\" от пользователей со всего мира❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "Вкл.";
+
+/* c_mall */
+"c_mall" = "Использовать баллы";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "Политика конфиденц.";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "Откройте рот";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "Поднимите брови";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "отправ.";
+
+/* Ccoin */
+"Ccoin" = "Монеты C";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "Начните сейчас";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "Включает всего %zd наборов %@ всех новых стикеров, не упустите!";
+
+/* store_buy_now */
+"store_buy_now" = "Купить сейчас";
+
+/* store_restore_all */
+"store_restore_all" = "Восстановить";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "Восстановить все купленные стикеры без Wi-Fi?";
+
+/* sticker_manage */
+"sticker_manage" = "Управление";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "Нет загрузок";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "Нет стикеров для восстановления";
+
+/* store_feedback */
+"store_feedback" = "Обратная связь";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "Обработка…";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "Для удобного использования\nпредоставьте Camera360 досуп:";
+
+/* auth_camera_title */
+"auth_camera_title" = "К камере";
+
+/* auth_camera_des */
+"auth_camera_des" = "Для съемки";
+
+/* auth_mic_title */
+"auth_mic_title" = "К микрофону";
+
+/* auth_mic_des */
+"auth_mic_des" = "Для записи звука видео";
+
+/* auth_location_title */
+"auth_location_title" = "К местоположению";
+
+/* auth_location_des */
+"auth_location_des" = "Координаты на фото";
+
+/* auth_notification_title */
+"auth_notification_title" = "К системным уведомлениям";
+
+/* auth_notification_des */
+"auth_notification_des" = "Получение важных напоминаний";
+
+/* auth_got */
+"auth_got" = "Понятно";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "Поделитесь, чтобы разблокировать";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "Теперь снимаем";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "Видео не может быть больше %zd сек.";
+
+/* video_import_not_support */
+"video_import_not_support" = "Импорт видео не поддерживается";
+
+/* video_import_fail */
+"video_import_fail" = "Не удалось выполнить экспорт";
+
+/* poker_error_tips */
+"poker_error_tips" = "Повторите попытку";
+
+/* poker_making_tips */
+"poker_making_tips" = "Этот фильтр требует картирования сети, может занять некоторое время";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "Этот фильтр не поддерживает двойную экспозицию или несколько сеток";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "Можно выбрать не более %tu фото";
+
+/* album_select_one_video */
+"album_select_one_video" = "Можно выбрать только 1 видео";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "В этом режиме можно выбрать только фото";
+
+/* effect_store_vip */
+"effect_store_vip" = "Только для членов";
+
+/* pc_challenge */
+"pc_challenge" = "Соревнование";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "Остал. %d д";
+
+/* pc_over */
+"pc_over" = "Более";
+
+/* pc_my_works */
+"pc_my_works" = "Мои работы";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "Выдающиеся работы";
+
+/* pc_join */
+"pc_join" = "Присоединиться";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "Голосуй";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "Голосование";
+
+/* pc_prepare */
+"pc_prepare" = "Подготовка";
+
+/* pc_interest_people */
+"pc_interest_people" = "Интересующиеся люди";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "Рекомендовано";
+
+/* pc_publish */
+"pc_publish" = "Отправить";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "Не отслеживает";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "Быть одиноким плохо~";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "Не удалось получить";
+
+/* pc_c_coins */
+"pc_c_coins" = "Монеты C";
+
+/* pc_experience */
+"pc_experience" = "Опыт";
+
+/* pc_delete */
+"pc_delete" = "Удалить";
+
+/* pc_report */
+"pc_report" = "Отчет";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "просмотров";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "через город";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "Кол-во лайков";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "Победа над %d%% соперниками в 《%@》";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "Получить награду";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%% пользователей поддерживают ваш выбор";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "Перейти к соревнованию";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "Дождитесь других работ";
+
+/* pc_vote_end */
+"pc_vote_end" = "Голосование закончено";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "Чем больше голосов получает работа, тем выше ее рейтинг, и тем больше C-монет вы получите";
+
+/* pc_ok */
+"pc_ok" = "OK";
+
+/* pc_delete_success */
+"pc_delete_success" = "Удалено";
+
+/* pc_reported_success */
+"pc_reported_success" = "Жалоба отправлена";
+
+/* pc_just_now */
+"pc_just_now" = "Прямо сейчас";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d мин. назад";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d ч. назад";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d д. назад";
+
+/* pc_months_ago */
+"pc_months_ago" = "%d мес. назад";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d г. назад";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "Поздравления при получении";
+
+/* pc_share */
+"pc_share" = "Поделиться";
+
+/* pc_start_voting */
+"pc_start_voting" = "голосование";
+
+/* pc_yesterday */
+"pc_yesterday" = "Вчера";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "Принять участие в соревновании";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "Работа удалена";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "Рейтинг %d";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "Войдите, чтобы найти больше контента";
+
+/* pc_login */
+"pc_login" = "Вход";
+
+/* pc_collection */
+"pc_collection" = "Коллекция";
+
+/* pc_saved */
+"pc_saved" = "Сохранено";
+
+/* pc_removed */
+"pc_removed" = "Удалить";
+
+/* pc_download_template */
+"pc_download_template" = "Загрузить шаблон";
+
+/* pc_use_template */
+"pc_use_template" = "Использовать шаблон";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "Скоро открытие магазина C";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "вступать";
+
+/* pc_participants_num */
+"pc_participants_num" = "Участников: %@";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd соревнуются";
+
+/* pc_hot_task */
+"pc_hot_task" = "Популярные соревнования";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "Соперники";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "Присоединяйтесь сейчас и получите награды";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》 Вы готовы?";
+
+/* pc_challenger */
+"pc_challenger" = "Соперник";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "Закрыть";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "новая фотография";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "Выбрано %li/%li фотографий";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "Файл данных поврежден";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "Удалить";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "Публикация не выполнена";
+
+/* pc_follow */
+"pc_follow" = "Отслежива";
+
+/* pc_fans */
+"pc_fans" = "Фанаты";
+
+/* pc_followed */
+"pc_followed" = "Отслеживается";
+
+/* pc_mutual */
+"pc_mutual" = "Взаимный";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "Правила вступления";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "Ничего не найдено, изменить ключевое слово и попробовать еще раз?";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "Пользователь еще ни на кого не подписан";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "Пользователь еще ни на кого не подписан";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "Нет поклонников, тем не менее, больше взаимодействуйте с другими~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "У пользователя еще нет поклонников, станьте его первым поклонником~";
+
+/* pc_contacts */
+"pc_contacts" = "Контакты";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "Не удалось получить доступ к Контактам";
+
+/* pc_current_account */
+"pc_current_account" = "Текущая учетная запись";
+
+/* pc_account_setting */
+"pc_account_setting" = "Настройки учетной записи";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "Тестовая обратная связь";
+
+/* pc_super_camera */
+"pc_super_camera" = "Камера";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "Камера";
+
+/* pc_selfie */
+"pc_selfie" = "Селфи";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "Селфи";
+
+/* pc_enhance */
+"pc_enhance" = "Альбом";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "Камера AR";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "искать друзей после привязки";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "Номер телефона привязан";
+
+/* pc_reply */
+"pc_reply" = "Ответить";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "Друг из контактов - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "Не удалось привязать";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "Снимайте";
+
+/* pc_comment */
+"pc_comment" = "Комментарий";
+
+/* pc_message_comment */
+"pc_message_comment" = "Комментарий";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "Скажите что-нибудь...";
+
+/* pc_send */
+"pc_send" = "Send";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "Комментарий удален";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "Содержимое удалено";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld отметок «нравится»";
+
+/* pc_long_photo */
+"pc_long_photo" = "Длинный";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "«Нравится»";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "Посмотреть все комментарии (%ld)";
+
+/* pc_check_detail */
+"pc_check_detail" = "Посмотреть подробно";
+
+/* pc_create_relay */
+"pc_create_relay" = "Создать эстафету";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "Удалить этот комментарий";
+
+/* pc_all_comments */
+"pc_all_comments" = "Все комментарии";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "Его/ее комментарий";
+
+/* pc_details */
+"pc_details" = "Подробные сведения";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "Комментарий слишком длинный, должно быть не более 140 слов";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "Ответить %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "Ошибка сети, повторите попытку позже";
+
+/* pc_more */
+"pc_more" = "Больше";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "Момент друга";
+
+/* pc_relay */
+"pc_relay" = "Эстафета";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "Отслеживали";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "Ставили «нравится» к %ld фото";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "Моменты друзей";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "Рекомендуемый пользователь";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "Привязать номер телефона";
+
+/* pc_bound_success */
+"pc_bound_success" = "Привязан";
+
+/* pc_recommend */
+"pc_recommend" = "Рекомендованный";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "Ваши друзья";
+
+/* pc_tag */
+"pc_tag" = "Метка";
+
+/* pc_user */
+"pc_user" = "Пользователь";
+
+/* pc_load_more */
+"pc_load_more" = "Загрузить еще";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "Нажмите на экран для перезагрузки";
+
+/* pc_join_relay */
+"pc_join_relay" = "Присоединиться к эстафете";
+
+/* pc_like */
+"pc_like" = "Нравится";
+
+/* pc_say_something */
+"pc_say_something" = "Скажите что-нибудь (не более 140 слов)";
+
+/* pc_post_preview */
+"pc_post_preview" = "просмотр поста";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "Напомнить, кто просмотрел";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "Включить сервисы местоположения";
+
+/* pc_shoot */
+"pc_shoot" = "Фотосъемка";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "Фотосъемка";
+
+/* pc_short_video */
+"pc_short_video" = "Видео";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "Не более 140 слов";
+
+/* pc_my_messages */
+"pc_my_messages" = "Мои сообщения";
+
+/* pc_mine */
+"pc_mine" = "Мое";
+
+/* pc_message_mine */
+"pc_message_mine" = "Мое";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "Мое";
+
+/* pc_zan */
+"pc_zan" = "«Нравится»";
+
+/* pc_message_zan */
+"pc_message_zan" = "«Нравится»";
+
+/* pc_new_fans */
+"pc_new_fans" = "Новый поклонник";
+
+/* pc_message_fans */
+"pc_message_fans" = "Новый поклонник";
+
+/* pc_notification */
+"pc_notification" = "Уведомление";
+
+/* pc_message_notification */
+"pc_message_notification" = "Уведомления";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "Добавить портрет, личную информацию";
+
+/* pc_add_friend */
+"pc_add_friend" = "Добавить друга";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ Моменты";
+
+/* pc_me */
+"pc_me" = "Я";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "Получить сообщение";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "Вы больше не будете получать уведомления после отключения";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "Настройки уведомления";
+
+/* pc_creator */
+"pc_creator" = "Создатель";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X человек участвуют в эстафете";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X человек отвечают";
+
+/* pc_newest */
+"pc_newest" = "Самый новый";
+
+/* pc_hottest */
+"pc_hottest" = "Самый популярный";
+
+/* pc_searching */
+"pc_searching" = "Поиск…";
+
+/* pc_get_reward */
+"pc_get_reward" = "Получить награду";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "Информация об учетной записи";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "О Camera360";
+
+/* pc_settings */
+"pc_settings" = "Настройки";
+
+/* pc_plaza */
+"pc_plaza" = "Площадь";
+
+/* pc_featured_video */
+"pc_featured_video" = "Избранное видео";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "Люди поблизости";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "Рекомендованное содержимое";
+
+/* pc_hot_works */
+"pc_hot_works" = "Популярные работы";
+
+/* pc_ad */
+"pc_ad" = "Реклама";
+
+/* pc_hot */
+"pc_hot" = "Популярное";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "Редактировать избранное";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "Войти/Зарегистрироват.";
+
+/* pc_user_center */
+"pc_user_center" = "Я";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "Мои C-баллы";
+
+/* pc_local_album */
+"pc_local_album" = "Локальный альбом";
+
+/* pc_moments */
+"pc_moments" = "Моменты";
+
+/* pc_like_home */
+"pc_like_home" = "«Нравится»";
+
+/* pc_follow_home */
+"pc_follow_home" = "Отслеживать";
+
+/* pc_fans_home */
+"pc_fans_home" = "Поклонники";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "Редактировать информацию";
+
+/* pc_come_from */
+"pc_come_from" = "От %@";
+
+/* pc_friends */
+"pc_friends" = "Друг";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "Друг";
+
+/* pc_homepage */
+"pc_homepage" = "Главная";
+
+/* pc_message */
+"pc_message" = "Сообщение";
+
+/* pc_share_moments */
+"pc_share_moments" = "Поделиться моментами☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "Поделиться моментами";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "Не показывать местоположение";
+
+/* pc_take_video */
+"pc_take_video" = "Видео";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "Развернуть";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "Свернуть";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "К сожалению, Ваше устройство не может установить соединение, поскольку оно несовместимо.";
+
+/* pc_more_video */
+"pc_more_video" = "Больше";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "Познайте мир";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "Пролистайте для дальнейшего поиска";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "Поделитесь с людьми важными моментами Вашей жизни";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "%@ новых моментов";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "Посты  %zd";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "Лайки %zd";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "Кликните дважды, чтобы лайкнуть понравившиеся посты";
+
+/* intro_title1 */
+"intro_title1" = "Открытые моменты";
+
+/* intro_title2 */
+"intro_title2" = "Ждем любые одобрения";
+
+/* intro_title3 */
+"intro_title3" = "Позвольте мне найти";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "страшно  заявки ";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "Представление мастера";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "Стать мастером";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "Эксклюзивная медаль";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "Еще";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "Рекомендованный";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "Знак мастера";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "Вы будете рекомендованы пользователям во всем мире";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "Пусть ваши фото увидит больше людей";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "Если вы удовлетворяете условиям, вам будет еще проще получить утверждение!";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "Любит использовать мобильные телефоны для съемки и любит делиться";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "Уникальные интересы и увлечения, такие как отчеты о путешествиях или съемка еды";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "Уже Интернет-звезда или сенсация";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "Контакт";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "Введите адрес электронной почты";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "Представление себя";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "Специальность / интересы / хобби";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "Подать запрос";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "Подано, ожидайте утверждения";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "Ваш запрос находится на рассмотрении, пожалуйста, подождите!";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "Вы уже мастер";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "Мастер";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "Пусть мир увидит меня";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "Я рекомендую контент от %@";
+
+/* pc_task_more */
+"pc_task_more" = "Еще";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "Избранные темы";
+
+/* common_black_title */
+"common_black_title" = "Здесь ничего нет";
+
+/* common_loading_title */
+"common_loading_title" = "Загрузка...";
+
+/* common_noMore_data */
+"common_noMore_data" = "Больше нет содержимого...";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "Рейтинг %d";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "Получение местоположения";
+
+/* pc_task_award */
+"pc_task_award" = "Правила и награды";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "Можно выбрать только %zd фото";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "Опубликовать (%zd)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "Опубликовать";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "Отказано в доступе к контактам";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "Доступ к контактам";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "Включить сейчас >>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "Откройте [Настройки]-[Конфиденциальность]-[Контакты], включите Camera360.";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "Фото фильм";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "Добавить еще";
+
+/* intro_enterButton */
+"intro_enterButton" = "Начните сейчас";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "Показать местоположение";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "Присоединиться";
+
+/* intro_sologan */
+"intro_sologan" = "Пусть мир увидит меня";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "Учетная запись заблокирована, по всем вопросам обращайтесь в службу поддержки";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "Слишком много некорректных входов, учетная запись будет заблокирована, повторите попытку позже или восстановите пароль";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "Слишком простой пароль, введите еще раз";
+
+/* puser_OK */
+"puser_OK" = "OK";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "Ошибка сети, повторите попытку ";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "Ошибка сети, повторите попытку ";
+
+/* puser_ServerError */
+"puser_ServerError" = "Ошибка сети, повторите попытку ";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "Ошибка сети, повторите попытку ";
+
+/* puser_SystemError */
+"puser_SystemError" = "Ошибка сети, повторите попытку ";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "Неверная учетная запись или пароль, повторите ввод";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "Неверная учетная запись или пароль, повторите ввод";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "Формат фотографии некорректен, загрузите повторно";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "Ошибка отправки аватара.";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "Ошибка учетной записи, войдите повторно";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "Ошибка учетной записи, войдите повторно";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "Электронная почта уже зарегистрирована,\nвойти? ";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "Ошибка сети, повторите попытку";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "Слишком частые запросы, повторите попытку позже";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "Номер уже зарегистрирован, войти? ";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "Номер уже зарегистрирован, войти? ";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "Слишком частые запросы, повторите попытку позже";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "Код подтверждения истек, получите повторно";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "Номер недействителен";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "Неверный код, введите повторно";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "Номер не существует, введите повторно";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "Электронная почта уже зарегистрирована, войти?";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "Проверка по электронной почте не отправлена";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "Проверка по электронной почте не отправлена";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "Ошибка учетной записи, войдите повторно";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "Ошибка учетной записи, войдите повторно";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "Не удалось проверить текстовое сообщение";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "Учетная запись стороннего лица уже привязана";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "имеются недопустимые слова";
+
+/* puser_PwdError */
+"puser_PwdError" = "Ошибка пароля";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "Электронная почта не существует, введите повторно";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "Электронная почта уже зарегистрирована, войти?";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "Неверный формат электронной почты";
+
+/* newuser_gender */
+"newuser_gender" = "Пол";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "Facebook";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "Twitter";
+
+/* newuser_area */
+"newuser_area" = "Регион";
+
+/* newuser_introduction */
+"newuser_introduction" = "Представление";
+
+/* newuser_male */
+"newuser_male" = "Мужской";
+
+/* newuser_female */
+"newuser_female" = "Женский";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "Редактировать адрес";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "Навигация к местоположению";
+
+/* newuser_no_location */
+"newuser_no_location" = "Не удалось получить";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "В настройках системы откройте \"Конфиденциальность – Службы определения местоположения \" и разрешите сервисы местоположения для Camera360.";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "Вы не можете иметь работы на фотографиях и видео";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "Изменить фон";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "Завершите свой профиль, чтобы больше людей заинтересовалось вами.";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "Контакты Посмотреть, кто из друзей здесь.";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "Успешно изменено";
+
+/* newuser_password */
+"newuser_password" = "Пароль";
+
+/* newuser_editintro */
+"newuser_editintro" = "Редактировать представление";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "Ввести представление (не более 40 слов)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "Заменить аватар";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "Перетащите изображение, отрегулируйте область отображения";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "Заменить обложку";
+
+/* cancle */
+"cancle" = "Отмена";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "Изменить адрес";
+
+/* newuser_all_city */
+"newuser_all_city" = "Все";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "Редактировать адрес провинции";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "Контрольный код отправлен";
+
+/* newuser_sended */
+"newuser_sended" = "Отправить (%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "Вход в WeChat";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "Вход в Weibo";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "Войти / Зарегистрироваться";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "Введите псевдоним (не больше 20 слов)";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "Редактировать псевдоним";
+
+/* pc_new_photo */
+"pc_new_photo" = "новая фотография";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@ отметок «нравится»";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "Нет комментариев, надо бы получить!";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "Ошибка сети, проверьте сеть";
+
+/* pgba_select */
+"pgba_select" = "Выбрать";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "За эту неделю";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "На прошлой неделе";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "Две недели назад";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "Выбрано: %tu ";
+
+/* pgba_today */
+"pgba_today" = "Cегодня";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "Вчера";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "Китай";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "Отправить повторно";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "Привязанный";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "Код страны";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "Текущий телефон";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "больше содержимого";
+
+/* newuser_login_title */
+"newuser_login_title" = "Зарегистрироваться";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "Псевдоним не может быть пустым";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "Не выбран пол";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "Псевдоним уже используется, выберите другой";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "Недопустимый псевдоним";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "Поиск пользователей";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "Не удалось авторизовать";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "Этот номер уже используется";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "Войдите, чтобы загрузить";
+
+/* 免费 */
+"免费" = "Бесплатно";
+
+/* 下载中 */
+"下载中" = "Загрузка";
+
+/* 立即使用 */
+"立即使用" = "Использовать сейчас";
+
+/* 素材管理 */
+"素材管理" = "Управление материалами";
+
+/* 移到最前 */
+"移到最前" = "Переход к началу";
+
+/* 恢复已购 */
+"恢复已购" = "Восстановить покупки";
+
+/* 管理 */
+"管理" = "Управление";
+
+/* 我喜欢 */
+"我喜欢" = "Избранное";
+
+/* 夜景关闭 */
+"夜景关闭" = "Ночной режим ВЫКЛ";
+
+/* 夜景打开 */
+"夜景打开" = "Ночной режим ВКЛ";
+
+/* 画幅 */
+"画幅" = "Рамка";
+
+/* 定时 */
+"定时" = "По времени";
+
+/* 夜景 */
+"夜景" = "Ночной режим";
+
+/* 网格 */
+"网格" = "Сетка";
+
+/* 触屏拍照 */
+"触屏拍照" = "Съемка касанием";
+
+/* 暗角 */
+"暗角" = "Виньетирование";
+
+/* 虚化 */
+"虚化" = "Размытие";
+
+/* 静音相机 */
+"静音相机" = "Выключить звук затвора";
+
+/* 设置 */
+"设置" = "Настройки";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "Доступны невосстановленные материалы";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "Нет доступных материалов";
+
+/* 分享下载 */
+"分享下载" = "Поделиться загрузкой";
+
+/* 解锁 */
+"解锁" = "Разблокировать";
+
+/* 补光 */
+"补光" = "Заполнить";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "Ошибка данных сети, повторите попытку позже";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "Ошибка, попробуйте еще раз позже";
+
+/* 恢复 */
+"恢复" = "Восстановить";
+
+/* 照片自动保存 */
+"照片自动保存" = "Автоматическое сохранение фотографий";
+
+/* 全部照片 */
+"全部照片" = "Все фотографии";
+
+/* 下载 */
+"下载" = "Загрузить";
+
+/* 使用 */
+"使用" = "Использовать";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "Этот материал не может быть использован для редактирования";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "Нажмите на лепесток, чтобы продолжить";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "Захватывающий новый мир ждет, когда его откроют";
+
+/* 进入 */
+"进入" = "Войти";
+
+/* 静音 */
+"静音" = "Отключить звук";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "Версия системы является устаревшей и не поддерживает эту функцию";
+
+/* 大小 */
+"大小" = "Размер";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "Устройство не подключено к сети Wi-Fi, продолжить загрузку?";
+
+/* 内含X个素材 */
+"内含X个素材" = "Содержит %ld материалов";
+
+/* 已下载 */
+"已下载" = "Загружено";
+
+/* 共%ld款 */
+"共%ld款" = "Всего %ld";
+
+/* 下载失败 */
+"下载失败" = "Ошибка загрузки";
+
+/* 该内容不存在 */
+"该内容不存在" = "Содержимое не найдено";
+
+/* 置顶 */
+"置顶" = "Верх";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "Поделиться";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "Теперь записывайте вашу жизнь с помощью Camera360!";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "Советы";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "Передвиньте, чтобы увидеть больше информации";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "Посмотреть перевод";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "Переводится…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "Скрыть перевод";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "Повторить";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "Измененить фото профиля";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "Просмотреть более подробную информацию";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "Избранные работы";
+
+/* pc_common_copy */
+"pc_common_copy" = "Копировать";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "Поделитесь тем, что вы чувствуете";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "Отправка";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "Повторно отправить";
+
+/* pc_download */
+"pc_download" = "Загрузить";
+
+/* pc_downloading */
+"pc_downloading" = "Загрузка...";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "Комментарии теперь поддерживают изображения и смайлы!";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "Текстовые описания теперь могут включать смайлы!";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "Главный пользователь, эксклюзивный ID";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "Сертифицированный пользователь, основные полномочия!";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "Официальная сертификация";
+
+/* pc_comment_success */
+"pc_comment_success" = "Комментарий добавлен";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "Введите комментарий";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "Продолжить";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "Удалить текущий эффект из избранного?";
+
+/* 特效管理 */
+"特效管理" = "Управление эффектами";
+
+/* 本地特效包 */
+"本地特效包" = "Пакет локальных эффектов";
+
+/* 商店 */
+"商店" = "Магазин";
+
+/* setting_clearCache */
+"setting_clearCache" = "Очистить кэш";
+
+/* 立即下载 */
+"立即下载" = "Загрузить прямо сейчас.";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "Введите псевдоним пользователя";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "Выберите не более 1 видео";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "Недавние контакты";
+
+/* pc_my_follows */
+"pc_my_follows" = "Мои друзья";
+
+/* pc_at_friends */
+"pc_at_friends" = "@друг";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "При использовании стикеров поддерживается только соотношение 4:3";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "При использовании стикеров виньетирование не поддерживается";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "При использовании стикеров размытие не поддерживается";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "При использовании стикеров ночной режим не поддерживается";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "Динамическое фото";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "Динамическое фото";
+
+/* 画质 */
+"画质" = "Качество";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "Перетащите изображение и обрежьте в форме квадрата";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "Видео сохранено в альбом";
+
+/* 照片动画 */
+"照片动画" = "Фото-анимация";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "Новый стиль игры с камерой. Оживите ваши фотографии!";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "Добавьте содержимое для создания видео";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "Оживите ваши фотографии!";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "Я использую Camera360, чтобы снимать %@, взгляните!";
+
+/* 一张照片 */
+"一张照片" = "фото";
+
+/* 一段短视频 */
+"一段短视频" = "короткое видео";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360, пусть мир меня увидит";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "Испробуйте нашу новую функцию, оживите ваши фотографии!";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "Фотографии, сохраненные в альбом";
+
+/* 下一步 */
+"下一步" = "Далее";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "Прямой обмен файлами; более высокое качество изображения";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "Удалить %zd элемента";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "Удалить %zd видео";
+
+/* 导出视频 */
+"导出视频" = "Экспорт видео";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "Рекомендованный системой пользователь";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "Рейтинг матера";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "Символ чести";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "Глобально рекомендуется";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "Больше подписчиков";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "выбрать";
+
+/* pc_location_fail */
+"pc_location_fail" = "Не удалось получить расположение";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "Не удалось получить местоположение";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "Включить службы определения местоположения для Camera360";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "Включить";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "Получить доступ к местоположению";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "Вкл.";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "Поделиться фото от %@";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "Поделиться коллекцией фото от %@";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "Поделиться коротким видео от %@";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "Рейтинг по количеству фотографий и интерактивному уровню за последние 3 дня";
+
+/* 删除视频 */
+"删除视频" = "удалить видео";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "Magic Skin";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "Movie";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "Не удается перейти, необходимо вручную перейти к настройкам";
+
+/* hot_recommond */
+"hot_recommond" = "Популярные";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "приложение";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "Избранное";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "Отобранные %d фото";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "Отобранные %d видео";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "Отобранные %d пункты";
+
+/* 制作动态照片 */
+"制作动态照片" = "Динамические текстуры";
+

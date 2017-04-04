@@ -1,0 +1,13 @@
+/* Localized versions of Info.plist keys */
+{
+    "CFBundleDisplayName" = "Camera360";
+    "LSHasLocalizedDisplayName" = YES;
+    
+    "NSBluetoothPeripheralUsageDescription" = "Can connect to Bluetooth devices after allowing access";
+    "NSCameraUsageDescription" = "Can take photos after allowing access";
+    "NSLocationWhenInUseUsageDescription" = "Can see photo location info after allowing access";
+    "NSMicrophoneUsageDescription" = "Can record sounds after allowing access";
+    "NSPhotoLibraryUsageDescription" = "Can save or edit photos after allowing access";
+    "NSContactsUsageDescription" = "Can get a friend in time after allowing access";
+}
+

@@ -1,0 +1,1 @@
+../../../../MiniFBShare/FBSDKShareKit.framework/Headers/FBSDKShareKit.h

@@ -1,0 +1,1 @@
+../../../../MiniFBCore/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h

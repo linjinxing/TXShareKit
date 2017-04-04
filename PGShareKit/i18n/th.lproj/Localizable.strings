@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "ขอโทษค่ะ ข้อมูลเข้าสู่ระบบไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง";
+
+/* 408 */
+"408" = "สภาพเครือข่ายไม่ดี โปรดลองอีกครั้งในภายหลัง";
+
+/* 500 */
+"500" = "โหลดข้อมุลไม่สำเร็จ กรุณาลองใหม่อีกครั้ง";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "บันทึกเซลฟีอัตโนมัติ";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "Moments";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "Shot";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "WeChat Moments";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "WeChat";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "เราได้ส่งรหัสยืนยันทาง SMS ไปยังหมายเลขโทรศัพท์ของคุณ %@";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "เราได้เริ่มทำการอัปเดตบัญชีแล้ว จากนี้ไปจะรองรับการเข้าสู่ระบบด้วยอีเมล/โทรศัพท์เท่านั้น เพื่อให้มั่นใจว่าจะใช้บริการสมาชิกได้เป็นปกติ กรุณาลิงค์อีเมล/โทรศัพท์ของคุณให้เร็วที่สุดเท่าที่ทำได้";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "เราได้เริ่มอัปเกรดบัญชีแล้ว และจะรองรับการลงชื่อเข้าใช้ด้วยอีเมลเท่านั้น กรุณาผูกอีเมลของคุณทันทีเพื่อให้แน่ใจว่าจะใช้บริการสมาชิกได้ตามปกติ";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "ปลุกตื่นทันที";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "กำลังรอการสำรอง";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "หน้าจอช่องมองภาพ";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "รหัสยืนยันถูกส่งไปแล้ว กรุณาตรวจสอบ";
+
+/* setting_password_footer */
+"setting_password_footer" = "สามารถใช้เป็นส่วนช่วยของTouch Idได้ และยังใช้งานอย่างเดี่ยวก็ได้";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "อัปโหลดรูปถ่ายของคุณไปยัง Camera360";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "อัปโหลดเฉพาะเมื่อกำลังชาร์จเท่านั้น";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "อัปดหลดเฉพาะขณะต่อ WIFI เท่านั้น";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "อัปโหลดผ่าน 3G และ Wi-Fi";
+
+/* common_migration_alert */
+"common_migration_alert" = "กำลังอัปเกรดฐานข้อมูล";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "ปรับปรุงแล้วเมื่อ %ld นาทีที่แล้ว";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "ปรับปรุงแล้วเมื่อ %ld นาทีที่แล้ว";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "ปรับปรุงแล้วเมื่อ %ld ชั่วโมงที่แล้ว";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "ปรับปรุงแล้วเมื่อ %ld ชั่วโมงที่แล้ว";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "ปรับปรุงแล้วเมื่อ %ld วันที่แล้ว";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "ปรับปรุงแล้วเมื่อ %ld วันที่แล้ว";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "คุณสามารถเลือกได้ถึง 9 รูป .";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "แน่ใจหรือไม่ที่จะถอนการติดตั้ง%@?";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "ไม่สามารถลบฟิลเตอร์ คุณต้องใช้อย่างน้อยหนึ่งตัว!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "คุณยังไม่ตั้งรหัสผ่านแบบลากเส้น สามารถเข้าตั้งที่โหมดตั้งค่าระดับสูง";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "เปิดการอนุญาตใช้งานอัลบั้ม";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "ระบบTouch Idปิดใช้แล้ว";
+
+/* setting_touch_id */
+"setting_touch_id" = "Touch ID";
+
+/* gallery_today */
+"gallery_today" = "วันนี้";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "เพื่อให้แน่ใจว่าได้รับเวลาที่เหมาะสมของข้อความให้เปิดฟังก์ชั่นการผลักดันข้อความ";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "เคล็ดลับ: กดปุ่มปรับเสียงเพื่อจัดเก็บรูปภาพ!";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "TIME";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "สัปดาห์นี้";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "อีเมลดังกล่าวมีบัญชีของสมาชิก Camera360 อยู่แล้ว จึงไม่สามารถผูกมัดได้";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "รหัสผ่านที่คุณป้อนไม่ถูกต้อง";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "รหัสผ่านต้องมี 6-20 ตัวอักษร";
+
+/* common_check_network */
+"common_check_network" = "เครือข่ายมีปัญหาและไม่สามารถใช้งานได้ โปรดตรวจสอบเครือข่ายคุณอีกครั้ง";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "ไม่พบบัญชีนี้";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "Feedback";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "ซิงค์กับม้วนกล้อง";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "แน่ใจที่จะยกเลิกปริศนานี้?";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "จะลบรูปถ่าย%dรูปไหม";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "ความแข็งแกร่ง";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "เปิด";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "ปริศนา";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "ลบฟิลเตอร์ออกจากรายการโปรดหรือไม่";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "ไม่สามารถถอนการติดตั้งเทคนิคพิเศษขณะที่ใช้งานอยู่ได้";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "รหัสยืนยันด้วย SMS จะถูกส่งไปที่ \n %@";
+
+/* password_skip */
+"password_skip" = "ข้าม";
+
+/* imageshow_size */
+"imageshow_size" = "ปริมาณของภาพ:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "Weibo";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "เข้าสู่ระบบโดยใช้บุคคลที่สาม";
+
+/* common_share */
+"common_share" = "แบ่งปัน";
+
+/* settings */
+"settings" = "การตั้งค่า";
+
+/* password_set_questions */
+"password_set_questions" = "ตั้งคำถามรักษาความปลอดภัย";
+
+/* newuser_set_password */
+"newuser_set_password" = "ตั้งค่ารหัสผ่าน";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "ตั้งรหัสผ่านของบัญชี Camera360";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "ข้อกำหนดการให้บริการและลิขสิทธิ์";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "เลือก %zd รูปแล้ว";
+
+/* selectPhoto */
+"selectPhoto" = "เลือกภาพ";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "เลือกทั้งหมด";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "เลือก";
+
+/* scene_template */
+"scene_template" = "แม่แบบฉาก";
+
+/* saving_photo */
+"saving_photo" = "กำลังบันทึกภาพ...";
+
+/* common_save */
+"common_save" = "บันทึก";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "หมุน";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "เรียกคืนรหัสผ่านของคุณทางอีเมล";
+
+/* product_restore */
+"product_restore" = "ฟื้นฟู";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "ส่งใหม่อีกครั้ง";
+
+/* reloading */
+"reloading" = "โหลดใหม่";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "การลงทะเบียนหมายถึงคุณยอมรับ";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "ลงทะเบียน";
+
+/* newuser_register */
+"newuser_register" = "ลงทะเบียน";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "การรีเฟรชล้มเหลว ตรวจสอบการตั้งค่าเครือข่าย";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "Backup: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "คำนิยมที่ดีที่สุด";
+
+/* setting_rateus */
+"setting_rateus" = "การประเมินผลการทำงานของเรา";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "Qzone";
+
+/* password_question_title */
+"password_question_title" = "คำถาม：";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "แม่แบบ";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "เลื่อนลงเพื่อรีเฟรช";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "ภาพโปรไฟล์";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "การโหลดตัวอย่างล้มเหลว";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "Please verify your fingerprint";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "กรุณาเลือกภาพ";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "กรุณาตรวจสอบฟังก์ชั่นTouch Idว่าได้เปิดใช้ก่อนเริ่มใช้งานแล้ว";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "กรุณาเปิดใช้ฟังก์ชั่นTouch Idที่โหมดตั้งค่าระบบ";
+
+/* newuser_input_email */
+"newuser_input_email" = "กรุณาป้อนที่อยู่อีเมลที่ลงทะเบียนของคุณและเราจะส่งรหัสผ่านแบบสุ่มไปให้";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "กรุณาป้อนอีเมลที่ลงทะเบียนของคุณ";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "กรุณาป้อนหมายเลขโทรศัพท์ของคุณ";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "กรอกอีเมล์ของคุณ";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "กรุณาป้อนอีเมลของคุณ";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "รหัสยืนยัน";
+
+/* password_answer_title */
+"password_answer_title" = "โปรดป้อนคำถาม";
+
+/* newuser_input_password */
+"newuser_input_password" = "กรุณาป้อนรหัสผ่าน";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "กรุณาป้อนอีเมล";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "กรุณาป้อนบัญชี";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "รูปได้รับนำเข้าไประบบอัลบั้มแล้ว";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "รูปแบบรูปภาพไม่ถูกต้อง กรุณาอัปโหลดใหม่";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "นำเข้าภาพถ่ายแล้ว!";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "ภาพที่ถ่ายใน:";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "นำเข้า";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "หมายเลขโทรศัพท์ไม่ถูกต้อง";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "หมายเลขโทรศัพท์";
+
+/* newuser_account */
+"newuser_account" = "รายละเอียดส่วนตัว";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "ลวดลายแม่แบบ";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "รหัสผ่านแบบลากเส้นปิดใช้แล้ว ต้องการเปิดใช้ตอนนี้หรือไม่";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "รหัสผ่านแบบลากเส้น";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "รหัสผ่านต้องมี 6-20 ตัวอักษร";
+
+/* password_different */
+"password_different" = "รหัสผ่านไม่ตรงกัน โปรดลองอีกครั้ง";
+
+/* password_wrong */
+"password_wrong" = "รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง";
+
+/* setting_auto_save */
+"setting_auto_save" = "โหมดการบันทึกกล้องแบบอื่นๆ";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "อัลบั้มอื่นๆ";
+
+/* gallery_high_org */
+"gallery_high_org" = "ต้นฉบับ (ไม่มีเอฟเฟ็ค)";
+
+/* original */
+"original" = "ภาพเดิม";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "เปิด";
+
+/* common_ok */
+"common_ok" = "โอเค";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "ปิด";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "หมายเลขโทรศัพท์ถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "หมายเลขใช้ลงทะเบียนแล้ว";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "ตอนนี้บันทึกชีวิตของคุณด้วย Camera360";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "ยังไม่ผูก";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "ไม่สนใจ";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "ไม่รองรับการพรีวิวแบบเรียลไทม์";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "ไม่มีรูปถ่าย ไปถ่ายรูป?";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "ภาพนี้ไม่มี";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "ชื่อเล่น";
+
+/* newuser_next */
+"newuser_next" = "ต่อไป";
+
+/* password_next_step */
+"password_next_step" = "ขั้นตอนถัดไป";
+
+/* common_network_error */
+"common_network_error" = "เครือข่ายผิดปกติ โปรดลองอีกครั้งในภายหลัง!";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "การเชื่อมต่อเครือข่ายได้ยกเลิก.";
+
+/* gallery_networkError */
+"gallery_networkError" = "เครือข่ายล้มเหลว";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "อัลบั้มของฉัน";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "การเปลี่ยนแปลงผิดพลาด โปรดลองอีกครั้ง";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "สะท้อน";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "สมาชิกจะเพลิดเพลินกับเทคนิคพิเศษ เข้าสู่ระบบเพื่อดาวน์โหลด";
+
+/* setting_manual */
+"setting_manual" = "โดยใช้มือ";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "หวังว่าจะได้รับการประเมินผลของคุณ";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "เข้าสู่ระบบโดยใช้การยืนยันทาง SMS";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "มีปัญหาการเข้าสู่ระบบหรือไม่";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "ฝ่ายที่ ๓ เข้าสู่ระบบไม่สำเร็จ";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "ลงชื่อเข้าใช้บัญชี";
+
+/* common_login */
+"common_login" = "เข้าสู่ระบบ";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "ออกจากการใช้งานจะปิดการใช้งานอัลบั้มคลาวด์ ฟิลเตอร์และบริการอื่นๆ แก่สมาชิก คุณแน่ใจหรือไม่";
+
+/* common_loading */
+"common_loading" = "กำลังโหลด...";
+
+/* loading_message */
+"loading_message" = "กำลังโหลด";
+
+/* setting_live_preview */
+"setting_live_preview" = "ดูภาพก่อนแบบสด";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "ลิงค์สำเร็จแล้ว";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "ลิงค์หมายเลขโทรศัพท์";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "ลิงค์อีเมล";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "ชอบฉันก็ให้กำลังใจให้ ^_^";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "จัดเรียง";
+
+/* product_invalid */
+"product_invalid" = "การดำเนินการที่ไม่มีผล";
+
+/* setting_intro */
+"setting_intro" = "วิดีโอแนะนำ";
+
+/* store_installing */
+"store_installing" = "ไม่ว่าง";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "ออกจากหน้านี้แล้วการกู้คืนจะยกเลิก แน่ใจหรือไม่";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "เพิ่มความปลอดภัยของบัญชี";
+
+/* camera_in_use */
+"camera_in_use" = "กำลังใช้งาน";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "เข้าคิว";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "นำเข้าสู่อัลบั้มของฉัน";
+
+/* gallery_import */
+"gallery_import" = "นำเข้า";
+
+/* password_question_tips */
+"password_question_tips" = "ถ้าคุณลืมรหัสผ่าน คุณสามารถตั้งค่าใหม่ได้ด้วยคำถามรักษาความปลอดภัย";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "ฉันได้แบ่งปันรูปถ่าย โดย Camera360 คลิกที่ลิงค์เพื่อเรียกดู";
+
+/* setting_home_ui */
+"setting_home_ui" = "หน้าหลัก";
+
+/* galley_high_definition */
+"galley_high_definition" = "ภาพถ่ายเอฟเฟ็คแบบ HD";
+
+/* setting_composition */
+"setting_composition" = "องค์ประกอบตาราง";
+
+/* common_got_it */
+"common_got_it" = "ฉันรู้";
+
+/* product_free */
+"product_free" = "ฟรี";
+
+/* product_unlock_title */
+"product_unlock_title" = "ท้องฟ้าอะนิเมะ";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "เปลี่ยนภาพของคุณให้เป็นแบบอะนิเมะ";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "อิสระ";
+
+/* puzzle_frames */
+"puzzle_frames" = "กรอบ";
+
+/* newuser_find_password */
+"newuser_find_password" = "ลืมรหัสผ่าน";
+
+/* password_forget */
+"password_forget" = "ลืมรหัสผ่าน";
+
+/* newuser_code_input */
+"newuser_code_input" = "ป้อนรหัสยืนยัน";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "ล้มเหลวในการบันทึกรูปภาพสู่อัลบั้มระบบ";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "การลบล้มเหลว";
+
+/* setting_face_auto */
+"setting_face_auto" = "ถ่ายอัตโนมัติโดยจดจำใบหน้า";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "F";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "การส่งออกภาพจะต้องเปิดบริการส่วนบุคคลในระบบการตั้งค่า:การตั้งค่า -> ความเป็นส่วนตัว -> รูปภาพ -> Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "ตัวเลือกการส่งออกภาพถ่าย";
+
+/* gallery_export */
+"gallery_export" = "ส่งออก";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "EV";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "ผิดพลาด โปรดเข้าสู่ระบบอีกครั้ง";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "ใส่ชื่อผู้ใช้";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "หมายเลขโทรศัพท์";
+
+/* keys */
+"keys" = "th";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "อีเมลส่งไปแล้ว กรุณาตรวจสอบ";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "อีเมลใช้ลงทะเบียนแล้ว";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "รูปแบบอีเมลผิดพลาด";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "อีเมลถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "อีเมล";
+
+/* common_email */
+"common_email" = "อีเมล";
+
+/* effects_include_count */
+"effects_include_count" = "เอฟเฟ็ครวมอยู่ด้วย";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "ผลการใช้งาน:";
+
+/* effect_install_error */
+"effect_install_error" = "การติดตั้งผลพิเศษล้มเหลว";
+
+/* imageshow_edit */
+"imageshow_edit" = "ภาพถ่าย";
+
+/* password_draw_new */
+"password_draw_new" = "วาดลายเขียนรหัสผ่านใหม่";
+
+/* password_draw_again */
+"password_draw_again" = "วาดลายเขียนรหัสผ่านอีกครั้ง";
+
+/* password_draw */
+"password_draw" = "วาดลายเขียนรหัสผ่าน";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "กำลังดาวน์โหลด ไม่สามารถลบได้";
+
+/* gallery_downloading */
+"gallery_downloading" = "กำลังดาวน์โหลด";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "ดาวน์โหลดรูปไปยังอัลบั้มระบบ";
+
+/* gallery_taskList */
+"gallery_taskList" = "ดาวน์โหลดรูปภาพ";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "ดาวน์โหลดล้มเหลว";
+
+/* common_download */
+"common_download" = "ดาวน์โหลด";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "เรียบร้อย!";
+
+/* cloud_download_success */
+"cloud_download_success" = "เรียบร้อย";
+
+/* done */
+"done" = "เรียบร้อย";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "เรียบร้อย";
+
+/* password_succeed */
+"password_succeed" = "เรียบร้อย";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "ปิดใช้งาน";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "ขนาดของภาพ:";
+
+/* imageshow_device */
+"imageshow_device" = "อุปกรณ์ถ่ายภาพ:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "ไม่เลือก";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "คุณแน่ใจหรือว่าต้องการลบภาพ";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "ลบ %zd รูปภาพ";
+
+/* common_delete */
+"common_delete" = "ลบ";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "ถอนการติดตั้ง";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "ปัจจุบันอยู่ใน3G/2G ดาวน์โหลดต่อไปไหม";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "บัญชีปัจจุบัน";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "ตัด";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "ยืนยันการถอนการติดตั้งหรือไม่?";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "ยืนยันหมายเลขโทรศัพท์";
+
+/* gallery_collage */
+"gallery_collage" = "เลื่อยเล็ก";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "อัปเดตเครือข่าย";
+
+/* setting_cloud */
+"setting_cloud" = "การตั้งค่าอัลบั้มคลาวด์";
+
+/* gallery_cloud */
+"gallery_cloud" = "อัลบั้มคลาวด์";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "close";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "ชื่อเล่น";
+
+/* setting_password_change */
+"setting_password_change" = "เปลี่ยนรหัสผ่านอัลบัม";
+
+/* common_cancel */
+"common_cancel" = "ยกเลิก";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "ข้อตกลงการใช้งาน Camera360";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "Camera360 ไม่มีสิทธิ์เข้าถึงม้วนฟิล์มของคุณ โปรดไปที่ การตั้งค่า > ความเป็นส่วนตัว > รูปภาพ และเปิดที่ Camera360";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "ไม่ได้อยู่ในบริการกล้อง ดังนั้นจึงไม่สามารถที่จะถ่ายภาพ คุณสามารถเปิดไมโครโฟนได้ในการตั้งค่า\r\n(โปรดไปที่ ตั้งค่า-ส่วนตัว-กล้อง-เปิด Camera360)";
+
+/* takingPictures */
+"takingPictures" = "กล้อง";
+
+/* newuser_bind */
+"newuser_bind" = "กำลังผูก";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "การสำรองเสร็จสิ้น";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "กำลังสำรอง %zd รูปภาพ";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "กำลังทำการสำรอง";
+
+/* common_back */
+"common_back" = "กลับ";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "อัปโหลดอัตโนมัติ";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "ปิดการสำรองข้อมูลอัตโนมัติ";
+
+/* setting_auto */
+"setting_auto" = "อัตโนมัติ";
+
+/* password_verify */
+"password_verify" = "ตรวจสอบรหัสผ่าน";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "ต้องการภาพอย่างน้อย2ภาพ";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "แน่ใจหรือไม่ที่จะถอนการติดตั้ง%@?";
+
+/* store_installed */
+"store_installed" = "นำไปใช้";
+
+/* password_answer */
+"password_answer" = "คำตอบ:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "คำตอบไม่ถูกต้อง โปรดลองอีกครั้ง";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "การเข้ารหัสอัลบัม";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "การเข้าถึงอัลบั้มผิดพลาด";
+
+/* gallery_album */
+"gallery_album" = "อัลบั้ม";
+
+/* gallery_photos */
+"gallery_photos" = "อัลบั้มภาพ";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "หลังจากการผูกสำเร็จแล้ว คุณสามารถลงชื่อเข้าใช้งานด้วยหมายเลขโทรศัพท์และรหัสผ่านของคุณ";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "หลังจากการผูกสำเร็จแล้ว คุณสามารถลงชื่อเข้าใช้งานด้วยอีเมลและรหัสผ่านของคุณ";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "เลขที่บัญชีไม่ถูกต้อง";
+
+/* setting_about */
+"setting_about" = "เกี่ยวกับ";
+
+/* password_too_short */
+"password_too_short" = "อย่างน้อย 3 จุดต้องเชื่อมต่อกัน โปรดลองอีกครั้ง";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "%zd กำลังดาวน์โหลดรูปภาพ";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "ไม่สนับสนุน%@ในโหมดแก้ไขรูป";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "กรุณาติดตั้งรุ่นไคลเอ็นต์%@ก่อนแล้วแบ่งปัน";
+
+/* effects_include */
+"effects_include" = "มีผลพิเศษ";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "ไม่ได้ใช้งานนานกว่า 180 วินาที กำลังเข้าสู่ภาวะการจำศีล....";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "เอฟเฟ็คสโตร์";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "เพิ่มเอฟเฟ็คเข้าในรายการโปรด";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "ไม่มีเอฟเฟ็ค";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "ปิดโหมดกลางคืน";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "เปิดโหมดกลางคืน";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "ปิดโหมดเซลฟีกลางคืน";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "เปิดโหมดเซลฟีกลางคืน";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "ปิดสัมผัสเพื่อถ่ายภาพ";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "เปิดสัมผัสเพื่อถ่ายภาพ";
+
+/* camera_scene */
+"camera_scene" = "กล้องโปสเตอร์";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "ล็อคออโต้ EV/โฟกัส";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "เปิดการพรีวิววสด";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "กล้องอีซี่";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "กำลังสร้างภาพ";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "Silent capture mode on, photo size and quality will be affected";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "Silent capture mode off";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "ยกเลิกแล้ว";
+
+/* homepage_camera */
+"homepage_camera" = "กล้อง";
+
+/* homepage_setting */
+"homepage_setting" = "ตัวฉัน";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "กรุณาป้อนที่อยู่อีเมลที่ลงทะเบียนของคุณและเราจะส่งรหัสผ่านแบบสุ่มไปให้";
+
+/* newuser_logout */
+"newuser_logout" = "ออกจากการใช้งาน";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "รหัสผ่านต้องมี 6-20 ตัวอักษร";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "คุณสามารถเลือกที่จะเข้าไปที่หน้าหลักหรืออินเตอร์เฟซที่กล้องหลังจากที่เริ่มต้นแอป";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "เปิดพรีวิวสดเพื่อดูผลในอินเตอร์เฟซถ่ายภาพ แต่อาจทำให้เกิดความล่าช้า";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "การเปิดจะทำให้บันทึกภาพเป็นภาพสะท้อนเมื่อใช้เลนส์ด้านหน้า";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "กลับข้างออโต้";
+
+/* setting_photo_save */
+"setting_photo_save" = "ตั้งค่าการบันทึกภาพ";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "คุณสามารถเลือกบันทึกภาพโดยอัตโนมัติหลังจากถ่ายภาพ";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "ถ้าปิด คุณสามารถส่งออกรูปไปยังอัลบั้มระบบของคุณ";
+
+/* setting_start_ui */
+"setting_start_ui" = "อินเตอร์เฟซเริ่มต้น";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "ภาพเหมือนบุคคล";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "มืด";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "กลางคืน";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "ไฟพื้นหลัง";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "ภาพวิว";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "รูปภาพหมู่";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "เก็บไว้อย่างน้อยหนึ่งชุดเอฟเฟ็ค";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "App list";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "Saved successfully";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "ล็อคค่ารับแสงออโต้";
+
+/* settingView_FQ */
+"settingView_FQ" = "F&Q";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "เรโช";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "กล้องมัลติกริด";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "กล้องดับเบิ้ลอีเอ็กซ์";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "บัญชีผู้ใช้หมดอายุ เพื่อกู้ภาพสำรองอัตโนมัติ กรุณาป้อนรหัสผ่านและล็อกอิน";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "บันทึกไปที่อัลบั้ม";
+
+/* loadPage_skip */
+"loadPage_skip" = "Skip";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "กล้องอีซี่";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "กล้องเซลฟี";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "อัลบั้มของฉัน";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "เค้าโครงออโต้ เปิด";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "เค้าโครงออโต้ ปิด";
+
+/* skin */
+"skin" = "ผิว";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "รับ";
+
+/* Edit template */
+"Edit template" = "แก้ไขแม่แบบ";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "ดาวน์โหลดล้มเหลว ตรวจสอบการเชื่อมต่อ!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "ตั้งกล้องส่งอหน้าคุณ";
+
+/* video_preview_title */
+"video_preview_title" = "พรีวิว";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Camera360 Funny Stickers";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "ช่างเป็นสติกเกอร์มหัศจรรย์ ฉันถึงกับตะลึงเลย อยากจะลองมั้ย?";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "การบันทึกล้มเหลว ลองใหม่อีกครั้ง";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "เพื่อบันทึกวิดีโอ ไปที่: การตั้งค่า -> ความเป็นส่วนตัว -> รูปภาพ -> Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "บันทึกภายในเครื่อง";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "กำลังอัปโหลด ...";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "กดค้างเพื่อบันทึก";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "บริการไมโครโฟนปิด ไม่สามารถบันทึกเสียง  คุณสามารถไปที่การตั้งค่าเพื่อเปิดการทำงานนี้ \r\n (การตั้งค่า-ความเป็นส่วนตัว-ไมโครโฟน-เปิดไมค์สำหรับ Camera360)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "บันทึกแล้ว";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "ไม่สามารถบันทึกได้ ขณะที่มัลติกริดหรือภาพซ้อนถูกเปิดใช้อยู่";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "เนื่องจากโทรศัพท์ของท่านขาดคุณสมบัติบางอย่าง  จึงทำให้ไม่สามารถส่ง\"Funny Stickers\"";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Camera360 Funny Stickers";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "ช่างเป็นสติกเกอร์มหัศจรรย์ ฉันถึงกับตะลึงเลย อยากจะลองมั้ย?";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "WeChat";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "ครั้งที่แล้วเข้าสู่ระบบ";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "เปิดการเตือน Camera360";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "ไม่มีวันพลาดการกด \"ไล้ค์\"จากเพื่อนๆ ทั่วโลก❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "บน";
+
+/* c_mall */
+"c_mall" = "ช้อปปิ้ง";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "นโยบายความเป็นส่วนตัว";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "อ้าปากซิ";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "ยกคิ้วซิ";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "แชร์ไปที่";
+
+/* Ccoin */
+"Ccoin" = "C เหรียญ";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "เริ่มต้นเดี๋ยวนี้";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "รวมถึงการรวมชุด %zd ของ %@ สติกเกอร์ใหม่ทั้งหมด ห้ามพลาด!";
+
+/* store_buy_now */
+"store_buy_now" = "ซื้อเดี๋ยวนี้";
+
+/* store_restore_all */
+"store_restore_all" = "กู้คืน";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "การกู้คืนสติกเกอร์ที่ซื้อทั้งหมดภายใต้สภาพแวดล้อมที่ไม่มี WiFi หรือไม่?";
+
+/* sticker_manage */
+"sticker_manage" = "จัดการสติกเกอร์";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "ไม่มีการดาวน์โหลด";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "ไม่มีสติ๊กเกอร์ให้กู้คืน";
+
+/* store_feedback */
+"store_feedback" = "Feedback";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "การประมวลผล";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "เพื่อใช้งาน Camera360 ดีขึ้น เมื่อเปิดการเข้าถึงนี้";
+
+/* auth_camera_title */
+"auth_camera_title" = "เปิดกล้อง";
+
+/* auth_camera_des */
+"auth_camera_des" = "เปิดถ่ายภาพ";
+
+/* auth_mic_title */
+"auth_mic_title" = "เปิดไมค์";
+
+/* auth_mic_des */
+"auth_mic_des" = "บันทึกเสียงเมื่อถ่ายวิดีโอ";
+
+/* auth_location_title */
+"auth_location_title" = "เข้าถึงตำแหน่ง";
+
+/* auth_location_des */
+"auth_location_des" = "ภาพถ่จะมีข้อมูลตำแหน่ง";
+
+/* auth_notification_title */
+"auth_notification_title" = "เข้าถึงแจ้งเตือน";
+
+/* auth_notification_des */
+"auth_notification_des" = "เปิดเพื่อแจ้งเตือน";
+
+/* auth_got */
+"auth_got" = "ฉันรู้";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "แชร์เพื่อปลดล็อค";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "ตอนนี้การถ่ายภาพ";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "วีดีโอจะเกิน %zd วิ.ไม่ได้";
+
+/* video_import_not_support */
+"video_import_not_support" = "ไม่รองรับวีดีโอนำเข้า";
+
+/* video_import_fail */
+"video_import_fail" = "ล้มเหลวในการส่งออก";
+
+/* poker_error_tips */
+"poker_error_tips" = "ขออภัย กรุณาลองใหม่";
+
+/* poker_making_tips */
+"poker_making_tips" = "ฟิลเตอร์นี้ต้องใช้แม้ปปิ้งเครือข่าย อาจใช้เวลา";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "ฟิลเตอร์นี้ไม่รองรับการถ่ายภาพซ้อนหรือมัลติกริด";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "สามารถเลือกรูปภาพได้มากสุด Tu% ภาพ";
+
+/* album_select_one_video */
+"album_select_one_video" = "สามารถเลือกได้เพียง 1 วิดีโอ";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "สามารถเลือกรูปภาพดั้ในโหมดนี้เท่านั้น";
+
+/* effect_store_vip */
+"effect_store_vip" = "เฉพาะสมาชิกเท่านั้น";
+
+/* pc_challenge */
+"pc_challenge" = "การแข่งขัน";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "%d วันที่เหลือ";
+
+/* pc_over */
+"pc_over" = "เกิน";
+
+/* pc_my_works */
+"pc_my_works" = "งานของฉัน";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "ผลงานโดดเด่น";
+
+/* pc_join */
+"pc_join" = "เข้าร่วม";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "โหวต";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "การโหวต";
+
+/* pc_prepare */
+"pc_prepare" = "การจัดเตรียม";
+
+/* pc_interest_people */
+"pc_interest_people" = "ผู้ที่สนใจ";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "แนะนำ";
+
+/* pc_publish */
+"pc_publish" = "ส่ง";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "ไม่มีคนติดตาม";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "เหงามากมาย ~";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "ไม่สามารถรับตำแหน่งได้";
+
+/* pc_c_coins */
+"pc_c_coins" = "C เหรียญ";
+
+/* pc_experience */
+"pc_experience" = "ประสบการณ์";
+
+/* pc_delete */
+"pc_delete" = "การลบ";
+
+/* pc_report */
+"pc_report" = "รายงาน";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "จำนวนครั้ง";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "ฮิตข้ามเมือง";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "จำนวนไลค์";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "แพ้ %d%% ของผู้ท้าใน 《%@》";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "ได้รับรางวัล";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%% ของผู้ใช้สนับสนุนการเลือกของคุณ";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "ไปที่การท้าทาย";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "โปรดรอสำหรับงานที่เพิ่มมากขึ้น";
+
+/* pc_vote_end */
+"pc_vote_end" = "โหวตสิ้นสุด";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "ยิ่งผลงานได้คะแนนโหวตมากเท่าไหร่ ยิ่งได้อันดับสูงเท่านั้น และยิ่งได้รับเหรียญ C มากแค่นั้น";
+
+/* pc_ok */
+"pc_ok" = "ตกลง";
+
+/* pc_delete_success */
+"pc_delete_success" = "ถูกลบ";
+
+/* pc_reported_success */
+"pc_reported_success" = "รายงานประสบความสำเร็จ";
+
+/* pc_just_now */
+"pc_just_now" = "เดี๋ยวนี้เอง";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d นาทีที่ผ่านมา";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d ชั่วโมงที่ผ่านมา";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d วันที่ผ่านมา";
+
+/* pc_months_ago */
+"pc_months_ago" = "%d เดือนที่ผ่านมา";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d ปีที่ผ่านมา";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "ขอแสดงความยินดี";
+
+/* pc_share */
+"pc_share" = "แชร์";
+
+/* pc_start_voting */
+"pc_start_voting" = "เริ่มการโหวต";
+
+/* pc_yesterday */
+"pc_yesterday" = "เมื่อวาน";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "เข้าร่วมการแข่งขัน";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "ผลงานถูกลบแล้ว";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "อันดับที่ %d";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "ล็อกอินเพื่อพบกับเนื้อหาเพิ่มเติม";
+
+/* pc_login */
+"pc_login" = "ล็อกอิน";
+
+/* pc_collection */
+"pc_collection" = "คอลเลกชัน";
+
+/* pc_saved */
+"pc_saved" = "บันทึกแล้ว";
+
+/* pc_removed */
+"pc_removed" = "ลบออก";
+
+/* pc_download_template */
+"pc_download_template" = "ดาวน์ดหลดแม่แบบทิวทัศน์";
+
+/* pc_use_template */
+"pc_use_template" = "ใช้แม่แบบทิวทัศน์";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "ร้านค้า C จะเปิดเร็วๆ นี้";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "เข้าร่วมการแข่งขัน";
+
+/* pc_participants_num */
+"pc_participants_num" = "%@ ผู้เข้าร่วม";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd ผู้ท้าชิง";
+
+/* pc_hot_task */
+"pc_hot_task" = "การแข่งขันสุดฮ็อต";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "ผู้เข้าแข่งขัน";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "ข้าร่วมการแข่งขันและลุ้นรับรางวัล";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》ความท้าทายที่รอให้คุณ";
+
+/* pc_challenger */
+"pc_challenger" = "ผู้เข้าแข่งขัน";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "ปิด";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "รูปภาพใหม่ล่าสุด";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "เลือก %li/%li ภาพถ่าย";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "แฟ้มข้อมูลเสียหาย";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "เอาออก";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "เผยแพร่ล้มเหลว";
+
+/* pc_follow */
+"pc_follow" = "ติดตาม";
+
+/* pc_fans */
+"pc_fans" = "แฟน";
+
+/* pc_followed */
+"pc_followed" = "ติดตามแล้ว";
+
+/* pc_mutual */
+"pc_mutual" = "ร่วมกันติดตาม";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "กฎรายการ";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "ไม่พบอะไรเลย เปลี่ยนคำหลักและลองอีกครั้งหรือไม่";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "พวกเขายังไม่ได้ติดตามใครเลย";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "พวกเขายังไม่ได้ติดตามใครเลย";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "ยังไม่มีแฟนเลย ต้องมีการโต้ตอบมากขึ้น ~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "พวกเขายังไม่มีแฟนเลย มาเป็นแฟนคนแรกของพวกเขา ~";
+
+/* pc_contacts */
+"pc_contacts" = "รายชื่อผู้ติดต่อ";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "ล้มเหลวในการเข้าถึงรายชื่อ";
+
+/* pc_current_account */
+"pc_current_account" = "บัญชีปัจจุบัน";
+
+/* pc_account_setting */
+"pc_account_setting" = "การตั้งค่าบัญชี";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "ข้อเสนอแนะรุ่นเบต้า";
+
+/* pc_super_camera */
+"pc_super_camera" = "กล้อง";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "กล้อง";
+
+/* pc_selfie */
+"pc_selfie" = "เซลฟี";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "เซลฟี";
+
+/* pc_enhance */
+"pc_enhance" = "อัลบั้ม";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "กล้อง AR";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "สามารถค้นหาของเพื่อนได้หลังจากที่ผูกแล้ว";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "หมายเลขโทรศัพท์ที่ถูกผูกไว้";
+
+/* pc_reply */
+"pc_reply" = "ตอบ";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "ติดต่อเพื่อน - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "ล้มเหลวในการผูก";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "การแข่งขันถ่ายภาพ";
+
+/* pc_comment */
+"pc_comment" = "ความคิดเห็น";
+
+/* pc_message_comment */
+"pc_message_comment" = "ความคิดเห็น";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "พูดอะไรสักอย่าง…";
+
+/* pc_send */
+"pc_send" = "ส่ง";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "การแสดงความคิดเห็นถูกลบออก";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "เนื้อหาถูกลบไปแล้ว";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld ไล้ค์";
+
+/* pc_long_photo */
+"pc_long_photo" = "ยาว";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "ไล้ค์";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "ตรวจสอบทั้งหมด %ld ความเห็น";
+
+/* pc_check_detail */
+"pc_check_detail" = "ตรวจสอบรายละเอียด";
+
+/* pc_create_relay */
+"pc_create_relay" = "สร้างรีเลย์";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "ลบความคิดเห็นนี้";
+
+/* pc_all_comments */
+"pc_all_comments" = "ความคิดเห็นทั้งหมด";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "ความคิดเห็นของเขา/เธอ";
+
+/* pc_details */
+"pc_details" = "รายละเอียด";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "แสดงความคิดเห็นยาวเกินไปต้อง140คำหรือน้อยกว่า";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "ตอบ %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "ข้อผิดพลาดของเครือข่าย ลองใหม่อีกครั้งในภายหลัง";
+
+/* pc_more */
+"pc_more" = "เพิ่มเติม";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "โมเมนต์ใหม่ของเพื่อน";
+
+/* pc_relay */
+"pc_relay" = "รีเลย์";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "ติดตามแล้ว";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "ไล้ค์ %ld ภาพ";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "โมเมนต์ของเพื่อน";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "ผู้ใช้ที่แนะนำ";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "หมายเลขโทรศัพท์ผูก";
+
+/* pc_bound_success */
+"pc_bound_success" = "ผูก";
+
+/* pc_recommend */
+"pc_recommend" = "แนะนำ";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "เพื่อนของคุณมาที่นี่";
+
+/* pc_tag */
+"pc_tag" = "แท็ก";
+
+/* pc_user */
+"pc_user" = "ผู้ใช้งาน";
+
+/* pc_load_more */
+"pc_load_more" = "โหลดเพิ่มเติม";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "แตะที่หน้าจอเพื่อโหลด";
+
+/* pc_join_relay */
+"pc_join_relay" = "เข้าร่วมการรีเลย์";
+
+/* pc_like */
+"pc_like" = "ไล้ค์";
+
+/* pc_say_something */
+"pc_say_something" = "พูดอะไรบางอย่าง (ภายใน 140 คำ)";
+
+/* pc_post_preview */
+"pc_post_preview" = "โพสต์ภาพตัวอย่าง";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "เตือนว่ามีใครมาดู";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "เปิดบริการตำแหน่ง";
+
+/* pc_shoot */
+"pc_shoot" = "ถ่ายภาพ";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "ถ่ายภาพ";
+
+/* pc_short_video */
+"pc_short_video" = "วีดีโอ";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "จะต้องไม่เกิน 140 คำ";
+
+/* pc_my_messages */
+"pc_my_messages" = "ข้อความของฉัน";
+
+/* pc_mine */
+"pc_mine" = "ของฉัน";
+
+/* pc_message_mine */
+"pc_message_mine" = "ของฉัน";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "ของฉัน";
+
+/* pc_zan */
+"pc_zan" = "ไล้ค์";
+
+/* pc_message_zan */
+"pc_message_zan" = "ไล้ค์";
+
+/* pc_new_fans */
+"pc_new_fans" = "แฟนใหม่";
+
+/* pc_message_fans */
+"pc_message_fans" = "แฟนใหม่";
+
+/* pc_notification */
+"pc_notification" = "การแจ้งเตือน";
+
+/* pc_message_notification */
+"pc_message_notification" = "การแจ้งเตือน";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "ตั้งแนวตั้ง ข้อมูลส่วนตัว";
+
+/* pc_add_friend */
+"pc_add_friend" = "เพิ่มเพื่อน";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ โมเมนต์";
+
+/* pc_me */
+"pc_me" = "ผม";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "ได้รับข้อความ";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "คุณจะไม่ได้รับการแจ้งเตือนหลังจากปิด";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "การตั้งค่าการแจ้งเตือน";
+
+/* pc_creator */
+"pc_creator" = "ผู้สร้าง";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X คนกำลังรีเลย์";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X คนตอบรับ";
+
+/* pc_newest */
+"pc_newest" = "ใหม่ล่าสุด";
+
+/* pc_hottest */
+"pc_hottest" = "ฮ็อตสุดๆ";
+
+/* pc_searching */
+"pc_searching" = "กำลังค้นหา ...";
+
+/* pc_get_reward */
+"pc_get_reward" = "รับรางวัล";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "ข้อมูลบัญชี";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "เกี่ยวกับ Camera360";
+
+/* pc_settings */
+"pc_settings" = "การตั้งค่า";
+
+/* pc_plaza */
+"pc_plaza" = "พลาซ่า";
+
+/* pc_featured_video */
+"pc_featured_video" = "วีดิโอแนะนำ";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "คนที่อยู่ใกล้เคียง";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "เนื้อหาแนะนำ";
+
+/* pc_hot_works */
+"pc_hot_works" = "ผลงานที่น่าสนใจ";
+
+/* pc_ad */
+"pc_ad" = "โฆษณา";
+
+/* pc_hot */
+"pc_hot" = "ฮ็อต";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "แก้ไขคุณสมบัติ";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "เข้าสู่ระบบและสมัครสมาชิก";
+
+/* pc_user_center */
+"pc_user_center" = "ฉัน";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "คะแนน C ของฉัน";
+
+/* pc_local_album */
+"pc_local_album" = "อัลบั้มภายใน";
+
+/* pc_moments */
+"pc_moments" = "ชั่วครู่";
+
+/* pc_like_home */
+"pc_like_home" = "ไล้ค์";
+
+/* pc_follow_home */
+"pc_follow_home" = "ติดตาม";
+
+/* pc_fans_home */
+"pc_fans_home" = "แฟน";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "แก้ไขวัสดุ";
+
+/* pc_come_from */
+"pc_come_from" = "จาก %@";
+
+/* pc_friends */
+"pc_friends" = "เพื่อน";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "เพื่อน";
+
+/* pc_homepage */
+"pc_homepage" = "โฮมเพจ";
+
+/* pc_message */
+"pc_message" = "ข้อความ";
+
+/* pc_share_moments */
+"pc_share_moments" = "แบ่งปันช่วงเวลา☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "แบ่งปันช่วงเวลา";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "ไม่ต้องแสดงสถานที่ตั้ง";
+
+/* pc_take_video */
+"pc_take_video" = "วีดีโอ";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "ขยาย";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "พับ";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "ขออภัย คุณเข้าร่วมการแข่งขันไม่ได้ เพราะไม่สามารถเข้ากันได้";
+
+/* pc_more_video */
+"pc_more_video" = "เพิ่มเติม";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "ช่วยให้คุณได้เห็นโลก";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "เลื่อน เพื่อค้นหาเพิ่มเติม";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "ให้คนอื่น ๆ เห็นโมเมนต์เวลาของคุณ";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "ผู้คนจาก %@ ได้อัปเดตใหม่";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "%zd โพสต์";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "%zd ชอบ";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "แตะสองครั้งเพื่อไล้ค์โพสต์ที่คุณชื่นชอบ";
+
+/* intro_title1 */
+"intro_title1" = "ช่วงเวลาที่เปิด";
+
+/* intro_title2 */
+"intro_title2" = "นางสาวทุกกำลังใจ";
+
+/* intro_title3 */
+"intro_title3" = "ให้ฉันไปหา";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "นำไปใช้เพื่อความเชี่ยวชาญ";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "แนะนำผู้เชี่ยวชาญ";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "นำไปใช้เพื่อจะได้เป็นผู้เชี่ยวชาญ";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "เหรียญพิเศษ";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "เพิ่มเติม";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "แนะนำ";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "สัญลักษณ์ของผู้เชี่ยวชาญ";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "คุณจะได้รับการแนะนำให้แก่ผู้ใช้ทั่วโลก";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "ให้คนอื่นๆ เห็นรูปถ่ายของคุณ";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "หากคุณปฏิบัติตามเงื่อนไขที่คุณจะได้รับการอนุมัติได้ง่ายขึ้น!";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "รักที่จะใช้กล้องโทรศัพท์มือถือในการถ่ายภาพและรักที่จะแชร์";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "ความสนใจและมุมมองที่ไม่ซ้ำกัน เช่น การบันทึกการเดินทางหรือการถ่ายภาพอาหาร";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "เป็นดาราออนไลน์หรือความรู้สึกแล้ว";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "รายชื่อ";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "กรอกอีเมล์ของคุณ";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "แนะนำตัวเอง";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "ความสามารถพิเศษ / ความสนใจ / งานอดิเรก, ฯลฯ";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "ส่งคำขอ";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "ส่งแล้ว โปรดรอการอนุมัติ";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "คำขอของคุณกำลังตรวจสอบอยู่ กรุณารอสักครู่";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "คุณเป็นมาสเตอร์แล้ว";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "ผู้เชี่ยวชาญ";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "ทำให้โลกเห็นฉัน";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "ฉันขอแนะนำการแชร์ของ %@";
+
+/* pc_task_more */
+"pc_task_more" = "เพิ่มเติม";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "หัวข้อสำคัญ";
+
+/* common_black_title */
+"common_black_title" = "อืม  ไม่มีอะไรที่นี่";
+
+/* common_loading_title */
+"common_loading_title" = "ในการโหลด . . . . . . .";
+
+/* common_noMore_data */
+"common_noMore_data" = "ไม่มีเนื้อหาที่มากขึ้น . . . . . . .";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "ได้อันดับที่ %d";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "รับตำแหน่ง";
+
+/* pc_task_award */
+"pc_task_award" = "กฎกติกาและรางวัล";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "สามารถเลือกได้เฉพาะ %zd ภาพ";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "โพสต์ (%zd)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "โพสต์";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "ปฏิเสธการเข้าถึงรายชื่อที่ติดต่อ";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "การเข้าถึงรายชื่อที่ติดต่อ";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "เปิดเดี๋ยวนี้>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "แตะระบบ [การตั้งค่า] - [ส่วนตัว] - [รายชื่อที่ติดต่อ] เปิดสำหรับ Camera360";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "ภาพยนตร์ภาพถ่าย";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "เพิ่มเติม";
+
+/* intro_enterButton */
+"intro_enterButton" = "เริ่มต้นเดี๋ยวนี้";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "แสดงตำแหน่งสถานที่";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "เข้าร่วม";
+
+/* intro_sologan */
+"intro_sologan" = "ทำให้โลกเห็นฉัน";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "บัญชีถูกล็อค ติดต่อฝ่ายลูกค้าสำหรับปัญหาใดๆ";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "รายการที่ไม่ถูกต้องมากเกินไปบัญชีจะถูกล็อคลองอีกครั้งในภายหลังหรือกู้คืนรหัสผ่าน";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "รหัสผ่านง่ายเกินไป กลับเข้ามาใหม่";
+
+/* puser_OK */
+"puser_OK" = "ตกลง";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "เครือข่ายผิดพลาด ลองใหม่อีกครั้ง";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "เครือข่ายผิดพลาด ลองใหม่อีกครั้ง";
+
+/* puser_ServerError */
+"puser_ServerError" = "เครือข่ายผิดพลาด ลองใหม่อีกครั้ง";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "เครือข่ายผิดพลาด ลองใหม่อีกครั้ง";
+
+/* puser_SystemError */
+"puser_SystemError" = "เครือข่ายผิดพลาด ลองใหม่อีกครั้ง";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "บัญชีหรือรหัสผ่านไม่ถูกต้อง";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "บัญชีหรือรหัสผ่านไม่ถูกต้อง";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "รูปแบบรูปภาพไม่ถูกต้อง กรุณาอัปโหลดใหม่";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "การอัพโหลดรูปประจำตัวล้มเหลว";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "บัญชีผิดพลาด กรุณาเข้าสู่ระบบใหม่";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "บัญชีผิดพลาด กรุณาเข้าสู่ระบบใหม่";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "อีเมลถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "เครือข่ายผิดพลาด ลองใหม่อีกครั้ง";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "ขอบ่อยเกินไป ลองใหม่ภายหลัง";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "หมายเลขโทรศัพท์ถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "หมายเลขโทรศัพท์ถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "ขอบ่อยเกินไป ลองใหม่ภายหลัง";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "รหัสยืนยันหมดอายุแล้ว กรุณาขอใหม่";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "หมายเลขโทรศัพท์ไม่ถูกต้อง";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "รหัสไม่ถูกต้อง กรุณาป้อนใหม่อีกครั้ง";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "หมายเลขไม่มี กรุณาป้อนใหม่";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "อีเมลถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "อีเมล์ยืนยังไม่ถูกต้อง";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "อีเมล์ยืนยังไม่ถูกต้อง";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "บัญชีผิดพลาด กรุณาเข้าสู่ระบบใหม่";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "บัญชีผิดพลาด กรุณาเข้าสู่ระบบใหม่";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "ล้มเหลวในการตรวจสอบการส่งข้อความ";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "บัญชีของบุคคลที่สามถูกผูกไว้แล้ว";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "มีข้อความที่ไม่ผิดกฎ";
+
+/* puser_PwdError */
+"puser_PwdError" = "รหัสผ่านผิดพลาด";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "อีเมลไม่มี กรุณาป้อนใหม่";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "อีเมลถูกใช้ลงทะเบียนแล้ว เข้าสู่ระบบหรือไม่";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "รูปแบบอีเมลไม่ถูกต้อง";
+
+/* newuser_gender */
+"newuser_gender" = "เพศ";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "เข้าสู่ระบบ Facebook";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "เข้าสู่ระบบ Twitter";
+
+/* newuser_area */
+"newuser_area" = "ภูมิภาค";
+
+/* newuser_introduction */
+"newuser_introduction" = "แนะนำโดยย่อ";
+
+/* newuser_male */
+"newuser_male" = "ชาย";
+
+/* newuser_female */
+"newuser_female" = "เพศหญิง";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "แก้ไขที่อยู่";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "นำทางไปยังสถานที่";
+
+/* newuser_no_location */
+"newuser_no_location" = "ไม่สามารถที่จะได้รับตำแหน่งของคุณ";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "ในการตั้งค่าระบบเปิด \"ความเป็นส่วนตัว - บริการสถานที่\" และให้บริการสถานที่ตั้งกล้อง 360";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "คุณไม่สามารถมีผลงานภาพโอ้และวิดีโอ";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "คลิกบนหน้าปกที่จะเปลี่ยนพื้นหลัง";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "กรอกรายละเอียดของคุณเพื่อให้ผู้คนมากขึ้นมีความกังวลเกี่ยวกับคุณ";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "รายชื่อดูว่าเพื่อนของคุณอยู่ที่นี่";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "แก้ไขเรียบร้อย";
+
+/* newuser_password */
+"newuser_password" = "รหัสผ่าน";
+
+/* newuser_editintro */
+"newuser_editintro" = "แก้ไขบทนำ";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "ใส่บทนำ (40 คำหรือน้อยกว่า)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "เปลี่ยนรูปประจำตัว";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "ลากภาพที่ปรับช่วงการแสดงผล";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "ใส่ฝาครอบ";
+
+/* cancle */
+"cancle" = "ยกเลิก";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "แก้ไขที่อยู่ในเมือง";
+
+/* newuser_all_city */
+"newuser_all_city" = "สมบูรณ์";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "แก้ไขที่อยู่ในจังหวัด";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "ส่งรหัสยืนยันแล้ว";
+
+/* newuser_sended */
+"newuser_sended" = "ส่ง (%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "เข้าสู่ระบบ WeChat";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "เข้าสู่ระบบ Weibo";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "เข้าสู่ระบบ / สมัครสมาชิก";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "กรอกชื่อเล่น ( 20 คำหรือน้อยกว่า )";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "แก้ไขชื่อเรียก";
+
+/* pc_new_photo */
+"pc_new_photo" = "รูปภาพใหม่ล่าสุด";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@ ไล้ค์";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "ไม่มีความคิดเห็น ไปหามาหน่อยสิ!";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "ความผิดปกติของเครือข่ายการตรวจสอบเครือข่าย";
+
+/* pgba_select */
+"pgba_select" = "เลือก";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "สัปดาห์นี้";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "สัปดาห์ที่แล้ว";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "สองสัปดาห์ที่แล้ว";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "%tu รูปภาพที่เลือก";
+
+/* pgba_today */
+"pgba_today" = "วันนี้";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "เมื่อวานนี้";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "ประเทศจีน";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "ส่งซ้ำ";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "ผูก";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "รหัสประเทศ";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "โทรศัพท์ที่ใช้ในปัจจุบัน";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "พบกับเนื้อหาน่าสนใจมากขึ้น";
+
+/* newuser_login_title */
+"newuser_login_title" = "ลงชื่อ";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "ชื่อเล่นต้องไม่ว่างเปล่า";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "ไม่ได้เลือกเพศ";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "ชื่อเล่นนี้มีการใช้งานแล้ว เลือกชื่อใหม่";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "ชื่อเล่นมีอักขระที่ผิดกฎ";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "ค้นหาชื่อเล่น";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "ล้มเหลวในการอนุญาต";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "หมายเลขนี้ถูกใช้แล้ว";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "ล็อกอินเพื่อดาวน์โหลด";
+
+/* 免费 */
+"免费" = "ฟรี";
+
+/* 下载中 */
+"下载中" = "กำลังดาวน์โหลด";
+
+/* 立即使用 */
+"立即使用" = "ใช้ในขณะนี้";
+
+/* 素材管理 */
+"素材管理" = "จัดการวัสดุ";
+
+/* 移到最前 */
+"移到最前" = "ย้ายไปที่ด้านบน";
+
+/* 恢复已购 */
+"恢复已购" = "การกู้คืนการซื้อ";
+
+/* 管理 */
+"管理" = "จัดการ";
+
+/* 我喜欢 */
+"我喜欢" = "รายการโปรด";
+
+/* 夜景关闭 */
+"夜景关闭" = "ปิดโหมดกลางคืน";
+
+/* 夜景打开 */
+"夜景打开" = "เปิดโหมดกลางคืน";
+
+/* 画幅 */
+"画幅" = "กรอบ";
+
+/* 定时 */
+"定时" = "หมดเวลา";
+
+/* 夜景 */
+"夜景" = "โหมดกลางคืน";
+
+/* 网格 */
+"网格" = "ตาราง";
+
+/* 触屏拍照 */
+"触屏拍照" = "แตะเพื่อถ่ายภาพ";
+
+/* 暗角 */
+"暗角" = "กรอบ";
+
+/* 虚化 */
+"虚化" = "เบลอ";
+
+/* 静音相机 */
+"静音相机" = "ปิดเสียงชัตเตอร์";
+
+/* 设置 */
+"设置" = "การตั้งค่า";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "ไม่มีวัสดุกูคืนใช้ได้";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "ไม่มีวัสดุให้ใช้";
+
+/* 分享下载 */
+"分享下载" = "แชร์ดาวน์โหลด";
+
+/* 解锁 */
+"解锁" = "ปลดล็อค";
+
+/* 补光 */
+"补光" = "เติม";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "ข้อผิดพลาดของข้อมูลเครือข่าย ลองอีกครั้งในภายหลัง";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "ข้อผิดพลาด ลองอีกครั้งในภายหลัง";
+
+/* 恢复 */
+"恢复" = "กู้คืน";
+
+/* 照片自动保存 */
+"照片自动保存" = "บันทึกภาพอัตโนมัติ";
+
+/* 全部照片 */
+"全部照片" = "รูปภาพทั้งหมด";
+
+/* 下载 */
+"下载" = "ดาวน์โหลด";
+
+/* 使用 */
+"使用" = "ใช้";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "วัสดุนี้ไม่สามารถใช้เพื่อการแก้ไขได้";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "แตะกลีบเพื่อดำเนินการต่อ";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "“โลกใหม่ที่น่าตื่นเต้น รอที่จะเปิดอยู่";
+
+/* 进入 */
+"进入" = "เข้าสู่";
+
+/* 静音 */
+"静音" = "ปิดเสียง";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "ระบบของคุณเป็นเวอร์ชั่นที่ล้าสมัย และไม่รองรับคุณสมบัตินี้";
+
+/* 大小 */
+"大小" = "MISSING VALUE";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "ขณะนี้คุณไม่ได้ใช้ WIFI ดาวน์โหลดต่อหรือไม่";
+
+/* 内含X个素材 */
+"内含X个素材" = "ประกอบด้วยวัสดุ %ld";
+
+/* 已下载 */
+"已下载" = "ดาวน์โหลด";
+
+/* 共%ld款 */
+"共%ld款" = "รวม %ld";
+
+/* 下载失败 */
+"下载失败" = "ดาวน์โหลดล้มเหลว";
+
+/* 该内容不存在 */
+"该内容不存在" = "ไม่มีเนื้อหา";
+
+/* 置顶 */
+"置顶" = "ด้านบน";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "ลบ";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "ตอนนี้บันทึกชีวิตของคุณด้วย Camera360";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "คำแนะนำ";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "เลื่อนไปซ้ายขวาเพื่อค้นหาเนื้อหาที่ประทับใจ";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "ดูคำแปล";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "กำลังแปลอยู่…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "ซ่อนคำแปลไว้";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "แปลไม่สำเร็จ กรุณาลองใหม่อีกครั้ง";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "เปลี่ยนสัญลักษญ์";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "อ่านเพิ่มเติม";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "ผลงานดีแด่ง";
+
+/* pc_common_copy */
+"pc_common_copy" = "คัดลอก";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "แชร์ความรู้สึกของคุณ";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "กำลังส่ง";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "ส่งซ้ำ";
+
+/* pc_download */
+"pc_download" = "ดาวน์โหลด";
+
+/* pc_downloading */
+"pc_downloading" = "ดาวน์โหลด...";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "ตอนนี้การแสดงความคิดเห็นรองรับภาพและอิโมจิแล้ว!";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "คำอธิบายข้อความในขณะนี้สามารถใส่อีโมจิได้แล้ว!";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "ผู้ใช้ระดับมาสเตอร์IDพิเศษ";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "ผู้ใช้ที่ผ่านการรับรองไฮไลท์!";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "การรับรองอย่างเป็นทางการ";
+
+/* pc_comment_success */
+"pc_comment_success" = "การแสดงความคิดเห็นสำเร็จ";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "ใส่ความคิดเห็น";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "ทำต่อไป";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "ลบเอฟเฟ็คปัจจุบันออกจากรายการโปรดหรือไม่?";
+
+/* 特效管理 */
+"特效管理" = "การจัดการเอฟเฟ็ค";
+
+/* 本地特效包 */
+"本地特效包" = "เอฟเฟ็คแพ็คภายใน";
+
+/* 商店 */
+"商店" = "ร้านค้า";
+
+/* setting_clearCache */
+"setting_clearCache" = "ล้างแคช";
+
+/* 立即下载 */
+"立即下载" = "ดาวน์โหลดเดี๋ยวนี้";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "ใส่ชื่อเล่นของผู้ใช้";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "เลือกวิดีโอมากสุด 1 คลิป";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "รายชื่อติดต่อล่าสุด";
+
+/* pc_my_follows */
+"pc_my_follows" = "เพื่อนของฉัน";
+
+/* pc_at_friends */
+"pc_at_friends" = "@เพื่อน";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "เมื่อใช้สติกเกอร์ รองรับเฉพาะเฟรม 4: 3";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "เมื่อใช้สติกเกอร์ ไม่รองรับขอบจาง";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "เมื่อใช้สติกเกอร์ มี่รองรับการเบลอ";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "เมื่อใช้สติกเกอร์ ไม่รองรับโหมดกลางคืน";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "ภาพแบบไดนามิก";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "ไม่สามารถบันทึกวิดีโอ ลองอีกครั้ง";
+
+/* 画质 */
+"画质" = "คุณภาพ";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "ลากภาพและครอบภาพลงในสี่เหลี่ยม";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "บันทึกวิดีโอไปยังอัลบั้มแล้ว";
+
+/* 照片动画 */
+"照片动画" = "ภาพเคลื่อนไหว";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "กล้องใหม่ที่มีสไตล์ ทำให้ภาพถ่ายของคุณมีชีวิต!";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "เพิ่มเนื้อหาในการสร้างวิดีโอ";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "ทำให้ภาพถ่ายของคุณมีชีวิต";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "ฉันใช้ Camera360 ในการถ่ายภาพ %@ มาชมกัน!";
+
+/* 一张照片 */
+"一张照片" = "รูปภาพ";
+
+/* 一段短视频 */
+"一段短视频" = "วิดีโอสั้น";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360 ให้โลกมองเห็นฉัน";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "ลองฟังก์ชั่นใหม่ของเรา ทำให้ภาพถ่ายของคุณมีชีวิต!";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "ภาพบันทึกไว้ในอัลบั้มแล้ว";
+
+/* 下一步 */
+"下一步" = "ต่อไป";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "แชร์โดยตรง; ความคมชัดมากขึ้น";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "ลบ %zd รายการ";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "ลบ %zd วิดีโอ";
+
+/* 导出视频 */
+"导出视频" = "ส่งออกวิดีโอ";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "ระบบที่แนะนำผู้ใช้";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "การจัดอันดับมาสเตอร์";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "สัญลักษณ์แห่งเกียรติยศ";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "ทั่วโลกแนะนำ";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "มีผู้ติดตามมากขึ้น";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "เลือกสถานที่ตั้ง";
+
+/* pc_location_fail */
+"pc_location_fail" = "ล้มเหลวที่จะได้รับสถานที่ตั้ง";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "ไม่สามารถรับสถานที่ตั้ง";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "เปิดบริการสถานที่สำหรับ Camera360";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "เปิด";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "ได้รับการเข้าถึงตำแหน่งที่ตั้ง";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "บน";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "แชร์รูปภาพจาก %@";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "แชร์คอลเล็คชั่นรูปภาพจาก %@";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "แชร์วีดีโอสั้นจาก %@";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "จัดอันดับจากจำนวนของภาพถ่ายและระดับการโต้ตอบใน 3 วันที่ผ่านมา";
+
+/* 删除视频 */
+"删除视频" = "ลบวิดีโอ";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "ผิวสดใส";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "ภาพยนตร์";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "ไม่สามารถข้ามไปได้ ต้องไปดำเนินการเองที่การตั้งค่า";
+
+/* hot_recommond */
+"hot_recommond" = "ยอดนิยม";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "ลงทะเบียนเลย";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "ส่วนสำคัญ";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "เลือก %d รูปภาพแล้ว";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "เลือก %d วีดีโอแล้ว";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "เลือก %d ไอเทมแล้ว";
+
+/* 制作动态照片 */
+"制作动态照片" = "ภาพแบบไดนามิก";
+

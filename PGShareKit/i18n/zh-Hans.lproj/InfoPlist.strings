@@ -1,0 +1,12 @@
+/* Localized versions of Info.plist keys */
+{
+    "CFBundleDisplayName" = "相机360";
+    "LSHasLocalizedDisplayName" = YES;
+    
+    "NSBluetoothPeripheralUsageDescription" = "允许后，可以连接蓝牙设备";
+    "NSCameraUsageDescription" = "允许后，可以进行拍照";
+    "NSLocationWhenInUseUsageDescription" = "允许后，可以为照片记录位置信息";
+    "NSMicrophoneUsageDescription" = "允许后，可以录制声音信息";
+    "NSPhotoLibraryUsageDescription" = "允许后，可以保存或编辑照片";
+    "NSContactsUsageDescription" = "允许后，可及时获取好友";
+}

@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6C234CEC5B35EC18CC07D275CFFF1F605B276533",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6C234CEC5B35EC18CC07D275CFFF1F605B276533" : 9223372036854775807,
+    "96D39EEA8EDB64F363516415C13E1793055792FF" : 9223372036854775807,
+    "9E482A71BD7D9FA1419EAA07C0E758DF118AD67F" : 9223372036854775807,
+    "C3855DE2D4F5110A8AAFA188F72F158A13B4E0D3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82913CD0-1AD7-4473-9D0B-8645A169E0B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6C234CEC5B35EC18CC07D275CFFF1F605B276533" : "pgl-sharekit\/",
+    "96D39EEA8EDB64F363516415C13E1793055792FF" : "..\/..\/Document\/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB\/code\/MVCOfReadableCode",
+    "9E482A71BD7D9FA1419EAA07C0E758DF118AD67F" : "PGShareKit\/",
+    "C3855DE2D4F5110A8AAFA188F72F158A13B4E0D3" : "ios-newcamera360\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PGShareKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PGShareKit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/mobiledev.camera360.com:7999\/pglib\/pgl-sharekit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C234CEC5B35EC18CC07D275CFFF1F605B276533"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pinguo-linjinxing\/MVCOfReadableCode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96D39EEA8EDB64F363516415C13E1793055792FF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pinguo-linjinxing\/PGShareKit",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E482A71BD7D9FA1419EAA07C0E758DF118AD67F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/mobiledev.camera360.com:7990\/scm\/git\/ios-newcamera360.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3855DE2D4F5110A8AAFA188F72F158A13B4E0D3"
+    }
+  ]
+}

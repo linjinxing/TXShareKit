@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "抱歉，登录信息失效，请重新登录";
+
+/* 408 */
+"408" = "网络情况不佳，请稍候再试";
+
+/* 500 */
+"500" = "数据加载出错，请稍后重试";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "美肤自拍拍照自动保存";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "微信朋友圈";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "秒拍";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "微信朋友圈";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "微信好友";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "我们已将验证码短信发送到你的手机号码%@";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "我们已经启动账号升级，后续将仅支持邮箱/手机登录，为了你能正常使用我们的会员服务，请尽快关联你的邮箱/手机。";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "我们已经启动账号升级，后续将仅支持邮箱登录，为了你能正常使用我们的会员服务，请尽快关联你的邮箱。";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "立即唤醒";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "正在等待备份";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "取景界面";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "验证码已发送，请注意查收";
+
+/* setting_password_footer */
+"setting_password_footer" = "可作为Touch ID的辅助，也可独立使用。";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "开始用Camera360云相册备份照片吧";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "仅在充电时上传";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "仅在WIFI下上传";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "3G和WIFI下上传";
+
+/* common_migration_alert */
+"common_migration_alert" = "数据库升级中，请稍等";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "%ld分钟更新";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "%ld分钟更新";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "%ld小时前更新";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "%ld小时前更新";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "%ld天前更新";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "%ld天前更新";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "最多只能选择9张照片。";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "是否确认卸载\"%@\"？";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "无法卸载, 需要保留至少一个特效包哟!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "你还未设置手势密码，可到高级设置中设置。";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "请先开启相册权限";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "系统Touch ID已关闭";
+
+/* setting_touch_id */
+"setting_touch_id" = "Touch ID";
+
+/* gallery_today */
+"gallery_today" = "今天";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "为保证你及时收到回复，请你在系统设置中开启Camera360的消息推送权限。";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "Tips:按下音量键就可以直接保存照片哟！";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "曝时";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "本周";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "该邮箱已有Camera360会员账户，不能进行绑定";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "密码有误，请重新输入";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "密码需由6~20位字符组成";
+
+/* common_check_network */
+"common_check_network" = "当前网络不可用，请检查你的网络设置";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "该用户不存在";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "意见反馈";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "自动保存到相机胶卷";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "确定要放弃当前拼图吗？";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "是否要删除%d张照片？";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "强度";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "立即开启";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "开始拼图";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "是否取消收藏当前的特效?";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "使用中的特效不能被卸载";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "我们将发送短信验证码到这个\n号码 %@";
+
+/* password_skip */
+"password_skip" = "跳过";
+
+/* imageshow_size */
+"imageshow_size" = "照片大小:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "新浪微博";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "使用第三方登录";
+
+/* common_share */
+"common_share" = "分享";
+
+/* settings */
+"settings" = "设置";
+
+/* password_set_questions */
+"password_set_questions" = "设置密码保护问题";
+
+/* newuser_set_password */
+"newuser_set_password" = "设置密码";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "请设置Camera360账户密码";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "服务协议及版权声明";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "已选择%zd张照片";
+
+/* selectPhoto */
+"selectPhoto" = "从手机相册中选择";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "全选";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "选择";
+
+/* scene_template */
+"scene_template" = "情景模板";
+
+/* saving_photo */
+"saving_photo" = "照片保存中...";
+
+/* common_save */
+"common_save" = "保存";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "旋转";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "使用邮箱找回密码";
+
+/* product_restore */
+"product_restore" = "恢复";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "重新发送";
+
+/* reloading */
+"reloading" = "重新加载";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "注册即代表同意";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "立即注册";
+
+/* newuser_register */
+"newuser_register" = "注册";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "刷新失败，请检查网络设置。";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "最近备份时间: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "赏你好评";
+
+/* setting_rateus */
+"setting_rateus" = "鼓励一下我们";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "QQ空间";
+
+/* password_question_title */
+"password_question_title" = "问题：";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "模板";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "下拉可以刷新";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "头像";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "加载预览图失败!";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "请验证你的指纹";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "请选择图片";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "请确定系统Touch ID功能已开启，方可使用。";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "请到系统设置中开启Touch ID功能";
+
+/* newuser_input_email */
+"newuser_input_email" = "请输入你的注册邮箱，我们会为你发送一个随机登录密码。";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "请输入你的注册邮箱";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "请输入你的手机号码";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "请输入你的邮箱或者手机号码";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "请输入你的邮箱地址";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "验证码";
+
+/* password_answer_title */
+"password_answer_title" = "请输入问题答案";
+
+/* newuser_input_password */
+"newuser_input_password" = "请输入密码";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "请输入邮箱";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "请输入账号";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "照片导出完毕!";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "图片格式不正确，请重新上传";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "照片已经成功导入！";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "照片拍摄于:";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "选择照片";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "手机号无效";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "手机号";
+
+/* newuser_account */
+"newuser_account" = "个人信息";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "布局";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "手势密码已关闭，是否现在开启？";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "手势密码";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "密码需由6-20位字符组成";
+
+/* password_different */
+"password_different" = "两次密码不一致，请重新设置";
+
+/* password_wrong */
+"password_wrong" = "密码错误，请重试";
+
+/* setting_auto_save */
+"setting_auto_save" = "其他相机拍照自动保存";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "其他相册";
+
+/* gallery_high_org */
+"gallery_high_org" = "原图(无特效)";
+
+/* original */
+"original" = "原图";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "开启";
+
+/* common_ok */
+"common_ok" = "确定";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "关闭";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "该手机号已被注册，是否尝试立即登录？";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "该手机号已被注册，请重新输入";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "开始用Camera360纪录你的生活吧";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "未绑定";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "还不够美";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "不支持实时预览";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "还没有照片";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "文件不存在";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "昵称";
+
+/* newuser_next */
+"newuser_next" = "下一步";
+
+/* password_next_step */
+"password_next_step" = "下一步";
+
+/* common_network_error */
+"common_network_error" = "网络出现异常,请稍后再试!";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "网络请求失败";
+
+/* gallery_networkError */
+"gallery_networkError" = "无法连接网络";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "我的相册";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "个性签名修改失败，请重试";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "翻转";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "会员专享特效，请登录后下载。";
+
+/* setting_manual */
+"setting_manual" = "手动";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "鼓励一下";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "使用短信验证码登录";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "登录遇到问题？";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "第三方登录失败";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "登录帐号";
+
+/* common_login */
+"common_login" = "登录";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "退出登录将不能使用云相册、会员滤镜等会员服务，是否退出？";
+
+/* common_loading */
+"common_loading" = "加载中...";
+
+/* loading_message */
+"loading_message" = "努力加载中...";
+
+/* setting_live_preview */
+"setting_live_preview" = "实时预览";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "绑定成功";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "绑定手机号";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "绑定邮箱";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "WOW哇撒\n主人，你的照片又美了，鼓励下我好不好？";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "拼接";
+
+/* product_invalid */
+"product_invalid" = "无效";
+
+/* setting_intro */
+"setting_intro" = "欢迎页";
+
+/* store_installing */
+"store_installing" = "安装中";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "退出该界面将终止恢复，确认退出吗？";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "增加账号安全性";
+
+/* camera_in_use */
+"camera_in_use" = "使用中";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "等待下载";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "导入我的相册";
+
+/* gallery_import */
+"gallery_import" = "导入";
+
+/* password_question_tips */
+"password_question_tips" = "忘记密码后可通过安全问题重置";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "这里面全是我通过Camera360拍摄的照片";
+
+/* setting_home_ui */
+"setting_home_ui" = "首页";
+
+/* galley_high_definition */
+"galley_high_definition" = "高清特效图";
+
+/* setting_composition */
+"setting_composition" = "网格构图";
+
+/* common_got_it */
+"common_got_it" = "我知道了";
+
+/* product_free */
+"product_free" = "免费";
+
+/* product_unlock_title */
+"product_unlock_title" = "漫画天空";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "装逼必备，拍天空用它就对了！";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "自由";
+
+/* puzzle_frames */
+"puzzle_frames" = "边框";
+
+/* newuser_find_password */
+"newuser_find_password" = "找回密码";
+
+/* password_forget */
+"password_forget" = "忘记密码?";
+
+/* newuser_code_input */
+"newuser_code_input" = "填写验证码";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "保存照片到系统相册失败";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "删除失败";
+
+/* setting_face_auto */
+"setting_face_auto" = "人脸检测自动拍照";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "光圈";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "保存照片需在系统设置中打开隐私服务：设置->隐私->照片->Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "导出照片选项";
+
+/* gallery_export */
+"gallery_export" = "导出";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "曝光";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "帐号异常，请重新登录";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "请输入昵称";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "手机号";
+
+/* keys */
+"keys" = "zh-Hans";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "邮件已发送，请查收";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "该邮箱已被注册，请重新输入";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "邮箱格式错误";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "该邮箱已被注册，是否尝试立即登录？";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "关联邮箱";
+
+/* common_email */
+"common_email" = "邮箱";
+
+/* effects_include_count */
+"effects_include_count" = "个特效";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "使用特效:";
+
+/* effect_install_error */
+"effect_install_error" = "特效安装失败";
+
+/* imageshow_edit */
+"imageshow_edit" = "编辑";
+
+/* password_draw_new */
+"password_draw_new" = "请绘制新密码";
+
+/* password_draw_again */
+"password_draw_again" = "请再次绘制图形密码";
+
+/* password_draw */
+"password_draw" = "请绘制图形密码";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "照片下载中，暂时不能进行删除操作。";
+
+/* gallery_downloading */
+"gallery_downloading" = "正在下载";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "下载照片到系统相册";
+
+/* gallery_taskList */
+"gallery_taskList" = "照片下载";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "下载失败";
+
+/* common_download */
+"common_download" = "下载";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "照片导入完毕!";
+
+/* cloud_download_success */
+"cloud_download_success" = "下载已完成";
+
+/* done */
+"done" = "完成";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "密码保护问题设置成功";
+
+/* password_succeed */
+"password_succeed" = "相册密码设置成功";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "未启用";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "照片尺寸:";
+
+/* imageshow_device */
+"imageshow_device" = "拍照设备:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "取消选择";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "删除这张照片";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "删除%zd张照片";
+
+/* common_delete */
+"common_delete" = "删除";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "卸载";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "当前处于3G/2G，继续下载?";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "当前账号";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "裁剪图片";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "确认卸载该选项吗？";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "确认手机号码";
+
+/* gallery_collage */
+"gallery_collage" = "拼图";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "上传时网络环境";
+
+/* setting_cloud */
+"setting_cloud" = "云相册设置";
+
+/* gallery_cloud */
+"gallery_cloud" = "云相册";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "关闭";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "更换昵称";
+
+/* setting_password_change */
+"setting_password_change" = "修改手势密码";
+
+/* common_cancel */
+"common_cancel" = "取消";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "Camera360用户协议";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "查看系统胶卷照片需授权，请按以下操作进行设置：系统设置->隐私->照片->Camera360";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "检测到你的手机未开启相机服务，暂不可拍照。你可在手机设置中开启服务。\r\n(设置-隐私-相机-开启Camera360相机服务)";
+
+/* takingPictures */
+"takingPictures" = "拍照";
+
+/* newuser_bind */
+"newuser_bind" = "绑定";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "备份完成!";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "%zd张照片备份中";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "正在备份";
+
+/* common_back */
+"common_back" = "返回";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "自动上传";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "已关闭自动备份";
+
+/* setting_auto */
+"setting_auto" = "自动";
+
+/* password_verify */
+"password_verify" = "密码验证";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "拼图至少需要2张照片";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "是否确认卸载“%@”？";
+
+/* store_installed */
+"store_installed" = "使用";
+
+/* password_answer */
+"password_answer" = "答案:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "答案错误，请重新输入";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "相册加密";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "访问相册错误";
+
+/* gallery_album */
+"gallery_album" = "相册";
+
+/* gallery_photos */
+"gallery_photos" = "相簿";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "绑定成功后，你即可使用手机号和密码登录";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "绑定成功后，你即可使用邮箱和密码登录";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "输入账号不正确";
+
+/* setting_about */
+"setting_about" = "关于";
+
+/* password_too_short */
+"password_too_short" = "请至少连接3个点,请重新绘制";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "%zd 张照片正在下载中";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "%@特效暂不支持后期编辑";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "你还未安装%@客户端，请安装后再分享";
+
+/* effects_include */
+"effects_include" = "內含";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "你超过180秒未使用，休眠中···";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "特效商店";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "收藏特效";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "原片";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "夜景关闭";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "夜景打开";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "夜自拍关闭";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "夜自拍打开";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "触屏拍照关闭";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "触屏拍照开启";
+
+/* camera_scene */
+"camera_scene" = "情景相机";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "自 动 曝 光 / 自 动 对 焦 锁 定";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "请在设置中打开实时预览";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "智能";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "照片生成中";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "当前状态为静音拍照模式，照片尺寸及质量会有所改变";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "静音模式已关闭";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "已取消操作";
+
+/* homepage_camera */
+"homepage_camera" = "相机";
+
+/* homepage_setting */
+"homepage_setting" = "我的";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "请输入你的注册邮箱，我们会为你发送一个随机登录密码。";
+
+/* newuser_logout */
+"newuser_logout" = "退出登录";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "密码需由6-20位字符组成";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "可选择应用启动后进入首页或拍照界面。";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "实时预览开启可以在拍照界面直接看到特效效果，但在某些机型上会造成取景卡顿。";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "开启后会将前置摄像头拍照照片以镜像方式保存。";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "前置拍后自动镜像";
+
+/* setting_photo_save */
+"setting_photo_save" = "照片保存设置";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "可以选择拍照完成后照片是否自动保存。";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "若关闭，你可以通过手动导出的方式将照片同步到系统胶卷。";
+
+/* setting_start_ui */
+"setting_start_ui" = "启动界面";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "人 像";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "低 光";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "夜 景";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "逆 光";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "风 景";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "多 人";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "请至少保留一个特效包";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "应用中心";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "照片已保存成功";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "自 动 曝 光 锁 定";
+
+/* settingView_FQ */
+"settingView_FQ" = "常见问题";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "画幅比例";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "多格";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "双重曝光";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "账号已过期，请重新登录，马上恢复照片自动备份功能";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "照片已保存到相册";
+
+/* loadPage_skip */
+"loadPage_skip" = "跳过";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "智能相机";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "美肤自拍";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "我的相册";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "自动塑颜打开";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "自动塑颜关闭";
+
+/* skin */
+"skin" = "美肤";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "获取";
+
+/* Edit template */
+"Edit template" = "模板编辑";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "请检查您的网络, 下载失败!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "请对准脸部";
+
+/* video_preview_title */
+"video_preview_title" = "预览";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "相机360动感贴纸";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "好魔性的动感贴纸，我已经入魔，要不要试一下？";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "保存失败,请重试";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "保存视频需在系统设置中打开隐私服务：设置->隐私->照片->Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "保存本地";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "正在上传...";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "长按录制视频";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "检测到你的手机未开启麦克风服务，暂不可录制声音。你可在手机设置中开启服务。\r\n(设置-隐私-麦克风-开启Camera360麦克风服务)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "保存成功";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "多格或双重曝光启用时无法使用录制视频功能";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "由于性能和兼容性问题，你的手机暂不支持\"动感贴纸\"功能";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "会说话的动感贴纸";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "看了这些妹纸的自拍，我选择狗带";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "微信";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "上次登录";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "开启来自相机360的通知";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "不错过每一次点赞❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "开启";
+
+/* c_mall */
+"c_mall" = "C币商城";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "隐私条款";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "请张开嘴巴";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "请抬下眉毛";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "分享至";
+
+/* Ccoin */
+"Ccoin" = "C币";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "立即体验";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "包含共%zd套%@全新贴纸，绝对不容易错过！";
+
+/* store_buy_now */
+"store_buy_now" = "立刻购买";
+
+/* store_restore_all */
+"store_restore_all" = "恢复全部";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "确定在非wifi环境下恢复所有已购贴纸吗？";
+
+/* sticker_manage */
+"sticker_manage" = "贴纸管理";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "暂无下载";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "暂无可恢复的贴纸";
+
+/* store_feedback */
+"store_feedback" = "意见反馈";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "处理中...";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "为了更方便的使用\n请您开启以下权限";
+
+/* auth_camera_title */
+"auth_camera_title" = "相机";
+
+/* auth_camera_des */
+"auth_camera_des" = "开启拍照";
+
+/* auth_mic_title */
+"auth_mic_title" = "麦克风";
+
+/* auth_mic_des */
+"auth_mic_des" = "录制声音";
+
+/* auth_location_title */
+"auth_location_title" = "地理位置";
+
+/* auth_location_des */
+"auth_location_des" = "记录位置信息";
+
+/* auth_notification_title */
+"auth_notification_title" = "通知";
+
+/* auth_notification_des */
+"auth_notification_des" = "接收重要提醒";
+
+/* auth_got */
+"auth_got" = "知道了";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "分享解锁";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "立即拍摄";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "视频时长不能超过%zd秒";
+
+/* video_import_not_support */
+"video_import_not_support" = "不支持视频导入";
+
+/* video_import_fail */
+"video_import_fail" = "导出失败";
+
+/* poker_error_tips */
+"poker_error_tips" = "抱歉，请重试";
+
+/* poker_making_tips */
+"poker_making_tips" = "网络作图，请耐心等待";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "该滤镜不支持双重曝光和多格拍摄";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "你最多只能选择%tu张照片";
+
+/* album_select_one_video */
+"album_select_one_video" = "只能选择一个视频";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "当前模式只能选择照片";
+
+/* effect_store_vip */
+"effect_store_vip" = "会员专享";
+
+/* pc_challenge */
+"pc_challenge" = "挑战";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "剩 %d 天";
+
+/* pc_over */
+"pc_over" = "已结束";
+
+/* pc_my_works */
+"pc_my_works" = "我的作品";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "优秀作品";
+
+/* pc_join */
+"pc_join" = "去参与";
+
+/* pc_vote */
+"pc_vote" = "投票";
+
+/* pc_task_vote */
+"pc_task_vote" = "投票";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "正在等待投票";
+
+/* pc_prepare */
+"pc_prepare" = "准备中...";
+
+/* pc_interest_people */
+"pc_interest_people" = "感兴趣的人";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "为你推荐";
+
+/* pc_publish */
+"pc_publish" = "发布";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "没有任何关注";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "一个人太孤独了吧~";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "无法获取地理位置";
+
+/* pc_c_coins */
+"pc_c_coins" = "C币";
+
+/* pc_experience */
+"pc_experience" = "经验";
+
+/* pc_delete */
+"pc_delete" = "删除";
+
+/* pc_report */
+"pc_report" = "举报";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "浏览数";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "穿越城市数";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "支持数";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "在《%@》中打败了%d%%的挑战者";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "获得奖励";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%%的用户支持你的选择";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "前往挑战";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "请等待更多的参赛作品";
+
+/* pc_vote_end */
+"pc_vote_end" = "投票结束";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "获得投票越多的作品会获得更好的排名，你也会获得更多经验C币";
+
+/* pc_ok */
+"pc_ok" = "确定";
+
+/* pc_delete_success */
+"pc_delete_success" = "删除成功";
+
+/* pc_reported_success */
+"pc_reported_success" = "已成功举报";
+
+/* pc_just_now */
+"pc_just_now" = "刚刚";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d分钟前";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d小时前";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d天前";
+
+/* pc_months_ago */
+"pc_months_ago" = "%d月前";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d年前";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "恭喜你获得";
+
+/* pc_share */
+"pc_share" = "分享";
+
+/* pc_start_voting */
+"pc_start_voting" = "开始投票";
+
+/* pc_yesterday */
+"pc_yesterday" = "昨天";
+
+/* pc_pass */
+"pc_pass" = "淘汰";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "进入挑战";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "作品已被删除";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "获%d名";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "登录后发现更多内容";
+
+/* pc_login */
+"pc_login" = "登录";
+
+/* pc_collection */
+"pc_collection" = "收藏";
+
+/* pc_saved */
+"pc_saved" = "收藏成功";
+
+/* pc_removed */
+"pc_removed" = "取消收藏";
+
+/* pc_download_template */
+"pc_download_template" = "下载情景模板";
+
+/* pc_use_template */
+"pc_use_template" = "使用情景模板";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "C币商城即将上线";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "参与挑战";
+
+/* pc_participants_num */
+"pc_participants_num" = "%@人已参与";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd人正在参与挑战";
+
+/* pc_hot_task */
+"pc_hot_task" = "热门挑战";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "人参与挑战";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "立刻参与赢取挑战奖励";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》等你挑战！";
+
+/* pc_challenger */
+"pc_challenger" = "挑战者";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "关闭";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "最新照片";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "已选 %li/%li 张照片";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "数据文件已损坏";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "移除";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "发布失败";
+
+/* pc_follow */
+"pc_follow" = "关注";
+
+/* pc_fans */
+"pc_fans" = "粉丝";
+
+/* pc_followed */
+"pc_followed" = "已关注";
+
+/* pc_mutual */
+"pc_mutual" = "相互关注";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "参赛规则";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "什么都没搜到，换个关键词试一试？";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "Ta还没有关注任何人";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "还没有关注任何人";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "还没有粉丝，多多参与互动吧~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "Ta还没有粉丝，成为Ta第一个粉丝吧~";
+
+/* pc_contacts */
+"pc_contacts" = "通讯录";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "通讯录授权失败";
+
+/* pc_current_account */
+"pc_current_account" = "当前账号";
+
+/* pc_account_setting */
+"pc_account_setting" = "账号设置";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "内测反馈";
+
+/* pc_super_camera */
+"pc_super_camera" = "相机";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "超级相机";
+
+/* pc_selfie */
+"pc_selfie" = "自拍";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "自拍相机";
+
+/* pc_enhance */
+"pc_enhance" = "相册";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "AR相机";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "绑定手机号后，即可查找通讯录好友";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "已绑定手机号";
+
+/* pc_reply */
+"pc_reply" = "回复";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "通讯录好友 - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "绑定失败";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "拍照挑战";
+
+/* pc_comment */
+"pc_comment" = "评论";
+
+/* pc_message_comment */
+"pc_message_comment" = "评论";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "说点什么吧…";
+
+/* pc_send */
+"pc_send" = "发送";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "该评论已删除";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "该内容已删除";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld个赞";
+
+/* pc_long_photo */
+"pc_long_photo" = "长图";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "点赞";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "查看%ld条评论";
+
+/* pc_check_detail */
+"pc_check_detail" = "查看详情";
+
+/* pc_create_relay */
+"pc_create_relay" = "创建接力";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "删除该条评论";
+
+/* pc_all_comments */
+"pc_all_comments" = "全部评论";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "TA的评论";
+
+/* pc_details */
+"pc_details" = "详情";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "评论过长，最多140字";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "回复 %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "网络异常，稍后再试";
+
+/* pc_more */
+"pc_more" = "更多";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "好友新动态";
+
+/* pc_relay */
+"pc_relay" = "接力";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "关注了";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "喜欢了 %ld 个瞬间";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "好友动态";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "推荐用户";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "手机号绑定";
+
+/* pc_bound_success */
+"pc_bound_success" = "·";
+
+/* pc_recommend */
+"pc_recommend" = "推荐";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "你的好友在这里";
+
+/* pc_tag */
+"pc_tag" = "标签";
+
+/* pc_user */
+"pc_user" = "用户";
+
+/* pc_load_more */
+"pc_load_more" = "加载更多";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "点击屏幕重新加载";
+
+/* pc_join_relay */
+"pc_join_relay" = "参与接力";
+
+/* pc_like */
+"pc_like" = "喜欢";
+
+/* pc_say_something */
+"pc_say_something" = "说点什么吧（140字以内）";
+
+/* pc_post_preview */
+"pc_post_preview" = "发布预览";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "提醒谁看";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "请打开地理位置服务";
+
+/* pc_shoot */
+"pc_shoot" = "拍照";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "拍照";
+
+/* pc_short_video */
+"pc_short_video" = "视频";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "不能超过140个字";
+
+/* pc_my_messages */
+"pc_my_messages" = "我的消息";
+
+/* pc_mine */
+"pc_mine" = "我的";
+
+/* pc_message_mine */
+"pc_message_mine" = "@我的";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "我的";
+
+/* pc_zan */
+"pc_zan" = "赞";
+
+/* pc_message_zan */
+"pc_message_zan" = "赞";
+
+/* pc_new_fans */
+"pc_new_fans" = "新增粉丝";
+
+/* pc_message_fans */
+"pc_message_fans" = "新增粉丝";
+
+/* pc_notification */
+"pc_notification" = "通知";
+
+/* pc_message_notification */
+"pc_message_notification" = "消息通知";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "设置头像,个人资料";
+
+/* pc_add_friend */
+"pc_add_friend" = "添加好友";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ 条新动态";
+
+/* pc_me */
+"pc_me" = "我";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "获奖消息";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "若关闭则不会收到对应的通知消息";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "通知设置";
+
+/* pc_creator */
+"pc_creator" = "创建者";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "人正在接力";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "人正在问答";
+
+/* pc_newest */
+"pc_newest" = "最新";
+
+/* pc_hottest */
+"pc_hottest" = "最热";
+
+/* pc_searching */
+"pc_searching" = "搜索...";
+
+/* pc_get_reward */
+"pc_get_reward" = "获奖";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "账号信息";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "关于Camera360";
+
+/* pc_settings */
+"pc_settings" = "设置";
+
+/* pc_plaza */
+"pc_plaza" = "广场";
+
+/* pc_featured_video */
+"pc_featured_video" = "精选视频";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "附近的人";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "推荐内容";
+
+/* pc_hot_works */
+"pc_hot_works" = "热门作品";
+
+/* pc_ad */
+"pc_ad" = "推广";
+
+/* pc_hot */
+"pc_hot" = "热门";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "编辑精选";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "点击登录 / 注册";
+
+/* pc_user_center */
+"pc_user_center" = "个人中心";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "我的C币";
+
+/* pc_local_album */
+"pc_local_album" = "本地相册";
+
+/* pc_moments */
+"pc_moments" = "瞬 间";
+
+/* pc_like_home */
+"pc_like_home" = "喜 欢";
+
+/* pc_follow_home */
+"pc_follow_home" = "关 注";
+
+/* pc_fans_home */
+"pc_fans_home" = "粉 丝";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "编辑资料";
+
+/* pc_come_from */
+"pc_come_from" = "来自 %@";
+
+/* pc_friends */
+"pc_friends" = "好友";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "好友";
+
+/* pc_homepage */
+"pc_homepage" = "首页";
+
+/* pc_message */
+"pc_message" = "消息";
+
+/* pc_share_moments */
+"pc_share_moments" = "分享精彩瞬间☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "分享精彩瞬间";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "不显示地理位置";
+
+/* pc_take_video */
+"pc_take_video" = "视频";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "展开";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "收起";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "非常抱歉，因手机兼容问题当前设备不能参与该挑战";
+
+/* pc_more_video */
+"pc_more_video" = "更多";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "让你看到世界";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "滑动探索更多";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "让更多人看到你的瞬间";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "%@等人，有了新动态";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "%zd个瞬间";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "%zd个喜欢";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "给喜欢的瞬间双击点赞";
+
+/* intro_title1 */
+"intro_title1" = "开启精彩瞬间";
+
+/* intro_title2 */
+"intro_title2" = "不错过每次喝彩";
+
+/* intro_title3 */
+"intro_title3" = "让更多人找到你";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "达人申请";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "达人介绍";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "申请成为达人";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "专属勋章";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "更多关注";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "首页推荐";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "达人身份象征";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "你会被推荐给全球用户";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "让更多人看到你的作品";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "如果你满足以下条件，将更容易通过审核！";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "热爱手机摄影，并乐于分享。";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "有独特的兴趣或视角，如记录旅行，拍摄美食等。";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "已经是受欢迎的明星或者网络红人。";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "联系方式";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "输入你的邮箱";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "自我简介";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "特长 / 兴趣 / 爱好等";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "提交申请";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "申请已提交，请耐心等待申请结果";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "你的申请正在审核中，请耐心等待噢~";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "你已经是达人啦";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "达人";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "让世界看见我";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "我推荐了%@的分享";
+
+/* pc_task_more */
+"pc_task_more" = "更多挑战";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "精选专题";
+
+/* common_black_title */
+"common_black_title" = "咦，什么都没有";
+
+/* common_loading_title */
+"common_loading_title" = "加载中…";
+
+/* common_noMore_data */
+"common_noMore_data" = "没有更多内容了…";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "第 %d 名";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "正在获取地理位置";
+
+/* pc_task_award */
+"pc_task_award" = "规则与奖品";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "最多选择 %zd 张照片";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "去发布(%zd张)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "去发布";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "通讯录已拒绝授权";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "通讯录授权";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "现在立即前往开启>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "点击系统【设置】- 【隐私】-【通讯录】,在【通讯录】中开启Camera360。";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "照片电影";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "添加更多";
+
+/* intro_enterButton */
+"intro_enterButton" = "立即体验";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "显示地理位置";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "参与";
+
+/* intro_sologan */
+"intro_sologan" = "让世界看见我";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "账户已被锁定，若有疑问请联系客服";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "错误次数过多，设备已被锁定，请稍后再试或重新找回密码";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "密码太简单，请重新输入";
+
+/* puser_OK */
+"puser_OK" = "确定";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "网络异常，请重试";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "网络异常，请重试";
+
+/* puser_ServerError */
+"puser_ServerError" = "网络异常，请重试";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "网络异常，请重试";
+
+/* puser_SystemError */
+"puser_SystemError" = "网络异常，请重试";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "账号或密码不正确，请重新输入";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "账号或密码不正确，请重新输入";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "图片格式不正确，请重新上传";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "头像上传失败";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "账号异常，请重新登录";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "账号异常，请重新登录";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "该邮箱已被注册过，是否尝试立即登录？";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "网络异常，请重试";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "你的请求过于频繁，请稍后再试";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "该手机号已被注册过，是否尝试立即登录？";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "该手机号已被注册过，是否尝试立即登录？";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "你的请求过于频繁，请稍后再试";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "验证码已失效，请重新获取";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "手机号无效";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "验证码不正确，请重新输入";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "手机号不存在，请重新输入";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "该邮箱已被注册过，是否尝试立即登录？";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "邮件发送失败，请重试";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "邮件发送失败，请重试";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "账号异常，请重新登录";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "账号异常，请重新登录";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "短信认证失败";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "第三方账号已被绑定";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "简介含有违禁词汇";
+
+/* puser_PwdError */
+"puser_PwdError" = "密码错误";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "邮箱不存在，请重新输入";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "该邮箱已被注册过，是否尝试立即登录？";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "邮箱格式不正确";
+
+/* newuser_gender */
+"newuser_gender" = "性別";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "Facebook登录";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "Twitter登录";
+
+/* newuser_area */
+"newuser_area" = "地区";
+
+/* newuser_introduction */
+"newuser_introduction" = "简介";
+
+/* newuser_male */
+"newuser_male" = "男";
+
+/* newuser_female */
+"newuser_female" = "女";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "编辑地址";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "定位到的位置";
+
+/* newuser_no_location */
+"newuser_no_location" = "无法获取你的位置信息";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "请在系统设置中，打开\"隐私－定位服务\"，并允许相机360使用定位服务。";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "一个作品里不能同时有图片和视频哦";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "点击更换背景图";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "完善你的个人资料，让更多的人关注你。";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "看看通讯录有哪些好友也在这里。";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "修改成功";
+
+/* newuser_password */
+"newuser_password" = "密码";
+
+/* newuser_editintro */
+"newuser_editintro" = "编辑简介";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "填写简介(40字以内)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "替换头像";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "拖拽图片，调整显示范围";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "替换封面";
+
+/* cancle */
+"cancle" = "取消";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "编辑城市地址";
+
+/* newuser_all_city */
+"newuser_all_city" = "全部";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "编辑省份地址";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "发送验证码成功";
+
+/* newuser_sended */
+"newuser_sended" = "已发送(%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "微信登录";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "微博登录";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "登录 / 注册";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "填写昵称(20字以内)";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "编辑昵称";
+
+/* pc_new_photo */
+"pc_new_photo" = "最新照片";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@人点赞";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "没有评论，快来抢沙发吧";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "网络异常，请检查网络";
+
+/* pgba_select */
+"pgba_select" = "选择";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "本周";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "上周";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "两周以前";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "已选%tu张照片";
+
+/* pgba_today */
+"pgba_today" = "今天";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "昨天";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "中国";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "重新发送";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "完成绑定";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "国家代码";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "当前电话";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "发现更多有趣的内容";
+
+/* newuser_login_title */
+"newuser_login_title" = "立即登录";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "昵称不能为空";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "你还没选择性别";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "昵称重复，请重新修改";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "昵称中包含非法字符";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "搜索用户昵称";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "授权失败";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "该手机号已被占用";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "登录下载";
+
+/* 免费 */
+"免费" = "免费";
+
+/* 下载中 */
+"下载中" = "下载中";
+
+/* 立即使用 */
+"立即使用" = "立即使用";
+
+/* 素材管理 */
+"素材管理" = "素材管理";
+
+/* 移到最前 */
+"移到最前" = "移到最前";
+
+/* 恢复已购 */
+"恢复已购" = "恢复已购";
+
+/* 管理 */
+"管理" = "管理";
+
+/* 我喜欢 */
+"我喜欢" = "我喜欢";
+
+/* 夜景关闭 */
+"夜景关闭" = "夜景关闭";
+
+/* 夜景打开 */
+"夜景打开" = "夜景打开";
+
+/* 画幅 */
+"画幅" = "画幅";
+
+/* 定时 */
+"定时" = "定时";
+
+/* 夜景 */
+"夜景" = "夜景";
+
+/* 网格 */
+"网格" = "网格";
+
+/* 触屏拍照 */
+"触屏拍照" = "触屏拍照";
+
+/* 暗角 */
+"暗角" = "暗角";
+
+/* 虚化 */
+"虚化" = "虚化";
+
+/* 静音相机 */
+"静音相机" = "静音相机";
+
+/* 设置 */
+"设置" = "设置";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "暂无可恢复素材";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "暂无可用素材";
+
+/* 分享下载 */
+"分享下载" = "分享解锁";
+
+/* 解锁 */
+"解锁" = "解锁";
+
+/* 补光 */
+"补光" = "补光";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "网络数据异常，请稍后再试";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "发生异常，请稍后再试";
+
+/* 恢复 */
+"恢复" = "恢复";
+
+/* 照片自动保存 */
+"照片自动保存" = "照片自动保存";
+
+/* 全部照片 */
+"全部照片" = "全部照片";
+
+/* 下载 */
+"下载" = "下载";
+
+/* 使用 */
+"使用" = "使用";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "该素材不可用于编辑";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "点击花瓣继续";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "精彩世界 等你开启";
+
+/* 进入 */
+"进入" = "进入";
+
+/* 静音 */
+"静音" = "静音";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "您的系统版本过低，暂不支持该功能";
+
+/* 大小 */
+"大小" = "大小";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "您当前在非WIFI环境下，是否继续下载？";
+
+/* 内含X个素材 */
+"内含X个素材" = "内含%ld个素材";
+
+/* 已下载 */
+"已下载" = "已下载";
+
+/* 共%ld款 */
+"共%ld款" = "共%ld款";
+
+/* 下载失败 */
+"下载失败" = "下载失败";
+
+/* 该内容不存在 */
+"该内容不存在" = "该内容不存在";
+
+/* 置顶 */
+"置顶" = "置顶";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "分享到社区";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "开始用Camera360记录你的生活吧";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "小贴士";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "左右滑动查看更多精彩";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "查看翻译";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "翻译中…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "隐藏翻译";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "翻译失败，请重试";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "更换头像";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "查看更多";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "精选作品";
+
+/* pc_common_copy */
+"pc_common_copy" = "复制";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "分享你的心情";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "发送中";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "点击重发";
+
+/* pc_download */
+"pc_download" = "下载";
+
+/* pc_downloading */
+"pc_downloading" = "下载中…";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "评论支持图片和表情回复啦~";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "文字描述中可以添加表情啦~";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "达人用户，专属身份标识";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "认证用户，彰显身份权威～";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "官方认证";
+
+/* pc_comment_success */
+"pc_comment_success" = "评论成功";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "请输入评论内容";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "继续";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "是否取消收藏当前特效";
+
+/* 特效管理 */
+"特效管理" = "特效管理";
+
+/* 本地特效包 */
+"本地特效包" = "本地特效包";
+
+/* 商店 */
+"商店" = "商店";
+
+/* setting_clearCache */
+"setting_clearCache" = "清除缓存";
+
+/* 立即下载 */
+"立即下载" = "立即下载";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "使用贴纸时，画幅等设置项将被屏蔽";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "请输入用户昵称";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "最多选择1个视频";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "最近联系人";
+
+/* pc_my_follows */
+"pc_my_follows" = "我关注的人";
+
+/* pc_at_friends */
+"pc_at_friends" = "@好友";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "使用贴纸时，仅支持4:3画幅";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "使用贴纸时，不支持暗角";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "使用贴纸时，不支持虚化";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "使用贴纸时，不支持夜景";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "使用贴纸时，不支持定时功能";
+
+/* 动态照片 */
+"动态照片" = "动态照片";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "视频保存失败，请重试";
+
+/* 画质 */
+"画质" = "画质";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "请拖动图片，裁剪为正方形";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "视频已保存到相册";
+
+/* 照片动画 */
+"照片动画" = "照片动画";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "相机新玩法，让你的照片动起来";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "先添加内容才能生成视频哦";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "让你的照片动起来";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "我用 Camera360 拍摄了%@，快来围观！";
+
+/* 一张照片 */
+"一张照片" = "一张照片";
+
+/* 一段短视频 */
+"一段短视频" = "一段短视频";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360，让世界看见我";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "试试新功能，让照片动起来";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "照片已保存到相册";
+
+/* 下一步 */
+"下一步" = "下一步";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "直接分享，画质更清晰";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "删除%zd个项目";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "删除%zd个视频";
+
+/* 导出视频 */
+"导出视频" = "导出视频";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "系统推荐用户";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "达人榜";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "-荣 誉 身 份 象 征-";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "全球推荐";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "-更 多 用 户 关 注-";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "选择位置";
+
+/* pc_location_fail */
+"pc_location_fail" = "位置获取失败";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "无法获取地理位置";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "请开启Camera360定位服务权限";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "开启服务";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "分享到朋友圈";
+
+/* 打开微信 */
+"打开微信" = "打开微信";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "获取地理位置权限";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "开";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "分享 %@ 的一张照片";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "分享 %@ 的一组照片";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "分享 %@ 的一段短视频";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "按近3天作品数和互动量排名";
+
+/* 删除视频 */
+"删除视频" = "删除视频";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "魔法美肤";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "风景HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "漫画天空";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "电影色";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "无法进行跳转，请手动前往设置";
+
+/* hot_recommond */
+"hot_recommond" = "热门推荐";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "立即申请";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "推荐";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "已选择%d张照片";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "已选择%d个视频";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "已选择%d个项目";
+
+/* 制作动态照片 */
+"制作动态照片" = "制作动态照片";
+

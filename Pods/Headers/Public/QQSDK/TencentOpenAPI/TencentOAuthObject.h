@@ -1,0 +1,1 @@
+../../../../QQSDK/SDK/TencentOpenAPI.framework/Headers/TencentOAuthObject.h

@@ -1,0 +1,47 @@
+PODS:
+  - BoltsFramework (1.8.4.7)
+  - HDevice/Header (0.3.38)
+  - HDevice/HSystem (0.3.38):
+    - HDevice/Header
+  - MiniFBCore (4.16.0.32)
+  - MiniFBLogin (4.16.0.11)
+  - MiniFBShare (4.16.0.5)
+  - PGL-LocalizationHelper (0.0.88)
+  - QQSDK (3.1.0.8)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - WeiboSDK (3.1.1.2)
+  - WeixinSDK (1.7.5)
+
+DEPENDENCIES:
+  - BoltsFramework (= 1.8.4.7)
+  - HDevice/HSystem (= 0.3.38)
+  - MiniFBCore (= 4.16.0.32)
+  - MiniFBLogin (= 4.16.0.11)
+  - MiniFBShare (= 4.16.0.5)
+  - PGL-LocalizationHelper (= 0.0.88)
+  - QQSDK (= 3.1.0.8)
+  - ReactiveCocoa (= 2.5)
+  - WeiboSDK (= 3.1.1.2)
+  - WeixinSDK (= 1.7.5)
+
+SPEC CHECKSUMS:
+  BoltsFramework: e645901dc0aac211c595e079a78bb4a3f7f6bc0f
+  HDevice: 8424afad3504c8679a274de90fd844abd6a1d5c7
+  MiniFBCore: 7af69b2c4d87ba86702e461a318e777a06650b68
+  MiniFBLogin: e2670f6d49efb9559bea1ae5ebdd99bd37e60347
+  MiniFBShare: 8d277125c86de39426cbb87189800e0ccc828848
+  PGL-LocalizationHelper: 261c6c3613c8efdba5e474c7cc4e17e4c66caec4
+  QQSDK: 74544d3bd3476d711a9ec1451cdeb3e072a7f4b7
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  WeiboSDK: 632c122812e6ede0232be3402246bb5ff9207630
+  WeixinSDK: c3f52b4a365f96a142809b33d7f1f0280c73d9ec
+
+PODFILE CHECKSUM: d39dd60573190d05a5ffdbb239f6e71f98be4d04
+
+COCOAPODS: 1.1.1

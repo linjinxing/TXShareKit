@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "Desculpe,o dado não estácorreto, por favor tente novamente";
+
+/* 408 */
+"408" = "Tentativa de conexão falhou. Tente novamente.";
+
+/* 500 */
+"500" = "Erro ao carregar dados, por favor tente mais tarde";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "Salve selfies automaticamente";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "Momentos";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "Captura";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "Momentos WeChat";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "WeChat";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "Enviamos um código de verificação SMS para o seu número de telefone %@";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "Começamos uma atualização de conta, e só daremos suporte a login por e-mail/telefone a partir de agora. Para garantir o uso normal dos nossos serviços de membro, vincule o seu e-mail/telefone assim que possível.";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "Já começamos a atualização da conta, e só daremos suporte a logins de e-mail a partir de agora. Vincule o seu e-mail o mais rápido possível para garantir o uso normal dos nossos serviços de membro.";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "Acorde-me";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "Esperando pelo backup";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "Tela do visor";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "O código de verificação foi enviado, verifique";
+
+/* setting_password_footer */
+"setting_password_footer" = "Use como independente ou acessório para ID de toque.";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "Carregue as suas fotos na Nuvem da Camera360";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "Carregar apenas quando estiver carregando";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "Carregar apenas no WIFI";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "Carregar no 3G e WIFI";
+
+/* common_migration_alert */
+"common_migration_alert" = "Atualizando banco de dados";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "Atualizou há %ld minutos";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "Atualizou há %ld minuto";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "Atualizou há %ld horas";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "Atualizou há %ld hora";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "Atualizou há %ld dias";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "Atualizou há %ld dia";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "Até 9 fotos por vez";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "Desinstalar \"%@\"?";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "Não é possível excluir filtro, você precisa pelo menos de um!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "Ative o Bloqueio de Padrão em Configurações Avançadas.";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "Ativar permissão do álbum";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "ID de toque está desativado.";
+
+/* setting_touch_id */
+"setting_touch_id" = "ID de toque";
+
+/* gallery_today */
+"gallery_today" = "Hoje";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "Para garantir um pronto recebimento da sua resposta, abra as permissões de envio de mensagem.";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "Dicas: Pressione as teclas de volume para salvar fotos!";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "HORA";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "Esta semana";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "Este e-mail foi registrado por outro membro da Camera360.";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "A senha que você inseriu está incorreta.";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "A senha deve ter de 6 a 20 caracteres.";
+
+/* common_check_network */
+"common_check_network" = "A rede não está disponível. Verifique as suas configurações de rede.";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "A rede não está disponível. Por favor verifique as configurações da rede";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "Feedback";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "Sincronizar com rolo da câmera";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "Tem certeza que deseja desistir deste quebra-cabeça?";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "Tem certeza que deseja excluir %d foto?";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "Força";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "Iniciar";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "Iniciar";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "Remover filtro dos favoritos?";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "Efeitos especiais não podem ser desinstalados enquanto estiverem em uso";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "Código de verificação SMS será enviado para %@";
+
+/* password_skip */
+"password_skip" = "Pular";
+
+/* imageshow_size */
+"imageshow_size" = "Tamanho:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "Weibo";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "Entrar de outra forma";
+
+/* common_share */
+"common_share" = "Compartilhar";
+
+/* settings */
+"settings" = "Configurações";
+
+/* password_set_questions */
+"password_set_questions" = "Definir perguntas";
+
+/* newuser_set_password */
+"newuser_set_password" = "Definir senha";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "Definir senha da conta da Camera360";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "Termos de Serviço";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "Escolheu %zd fotos";
+
+/* selectPhoto */
+"selectPhoto" = "Selecionar foto";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "Selec. tudo";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "Escolher";
+
+/* scene_template */
+"scene_template" = "Modelos de cena";
+
+/* saving_photo */
+"saving_photo" = "Salvando foto...";
+
+/* common_save */
+"common_save" = "Salvar";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "Girar";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "Recuperar sua senha por e-mail";
+
+/* product_restore */
+"product_restore" = "Restaurar";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "Enviar novamente";
+
+/* reloading */
+"reloading" = "Recarregar";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "Meios de registro que você concorda";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "Registrar";
+
+/* newuser_register */
+"newuser_register" = "Registrar";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "Atualização falhou, verifique as configurações de rede.";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "Backup recente: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "Classifique-nos";
+
+/* setting_rateus */
+"setting_rateus" = "Classificar e Revisar";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "Qzone";
+
+/* password_question_title */
+"password_question_title" = "Pergunta:";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "Charada";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "Empurre para baixo para atualizar";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "Foto do perfil";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "Visualização de carregamento falhou";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "Verifique a sua impressão digital";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "Selecione fotos.";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "Certifique-se de que o ID de toque está ativo.";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "Vá para Configurações para ativar o ID de toque.";
+
+/* newuser_input_email */
+"newuser_input_email" = "Insira o seu endereço de e-mail registrado e nós lhe enviaremos uma senha aleatória.";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "Insira o seu e-mail registrado";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "Insira o seu número de telefone";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "Insira o seu e-mail";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "Insira o seu endereço de e-mail";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "Código de verificação";
+
+/* password_answer_title */
+"password_answer_title" = "Insira a resposta";
+
+/* newuser_input_password */
+"newuser_input_password" = "Insira a senha";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "Insira o e-mail";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "Insira a conta";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "As fotos foram exportadas para o rolo da câmera";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "O formato da foto está incorreto, carregue novamente";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "Fotos importadas!";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "Endereço da foto:";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "Foto";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "O número do telefone é inválido";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "Número do telefone";
+
+/* newuser_account */
+"newuser_account" = "Informações pessoais";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "Padrões";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "Bloqueio de padrão está desativado. Ativá-lo agora?";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "Bloqueio de padrão";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "A senha precisa de 6 a 20 caracteres";
+
+/* password_different */
+"password_different" = "Senha errada. Tente novamente.";
+
+/* password_wrong */
+"password_wrong" = "A senha está incorreta. Tente novamente.";
+
+/* setting_auto_save */
+"setting_auto_save" = "Outro modo de salvamento de câmera";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "Outros álbuns";
+
+/* gallery_high_org */
+"gallery_high_org" = "Original (sem efeitos)";
+
+/* original */
+"original" = "Original";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "Ativo";
+
+/* common_ok */
+"common_ok" = "Ok";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "Inativo";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "O número já está registrado,\nfazer login?";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "O número já está registrado";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "Agora registre a sua vida com a Camera360!";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "Não vinculado";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "Não, obrigado!";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "Sem visualização em tempo real";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "Nenhuma foto ainda";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "Nenhuma foto";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "Apelido";
+
+/* newuser_next */
+"newuser_next" = "Próximo";
+
+/* password_next_step */
+"password_next_step" = "Próximo";
+
+/* common_network_error */
+"common_network_error" = "Erro de rede. Tente novamente depois.";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "Erro de rede";
+
+/* gallery_networkError */
+"gallery_networkError" = "Erro de rede";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "Meu álbum";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "Modificação falhou. Tente novamente.";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "Espelhar";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "Membros desfrutam de efeitos especiais, faça login para baixar.";
+
+/* setting_manual */
+"setting_manual" = "Manual";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "Aguardo a sua classificação";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "Fazer login usando verificação SMS";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "Problemas de login?";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "Falha no login de terceiros";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "Contas de login";
+
+/* common_login */
+"common_login" = "Login";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "Sair desabilitará o álbum da nuvem, os filtros e outros serviços de membro, tem certeza?";
+
+/* common_loading */
+"common_loading" = "Carregando...";
+
+/* loading_message */
+"loading_message" = "Carregando...";
+
+/* setting_live_preview */
+"setting_live_preview" = "Visualização ao vivo";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "Vínculo bem-sucedido";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "Número de telefone do vínculo";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "E-mail do vínculo";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "Você nos curte? Classifique-nos!";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "Juntar-se";
+
+/* product_invalid */
+"product_invalid" = "Inválido";
+
+/* setting_intro */
+"setting_intro" = "Vídeo de introdução";
+
+/* store_installing */
+"store_installing" = "Ocupado";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "Sair desta página terminará a recuperação, tem certeza?";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "Aumentar segurança da conta";
+
+/* camera_in_use */
+"camera_in_use" = "Em uso";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "Em fila";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "Importar para meu álbum";
+
+/* gallery_import */
+"gallery_import" = "Importar";
+
+/* password_question_tips */
+"password_question_tips" = "Se você esquecer a senha, pode redefini-la com perguntas de segurança.";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "Eu compartilhei fotos pela Camera360";
+
+/* setting_home_ui */
+"setting_home_ui" = "Início";
+
+/* galley_high_definition */
+"galley_high_definition" = "Foto de efeito HD";
+
+/* setting_composition */
+"setting_composition" = "Grade";
+
+/* common_got_it */
+"common_got_it" = "Eu sei";
+
+/* product_free */
+"product_free" = "Grátis";
+
+/* product_unlock_title */
+"product_unlock_title" = "Céu animado";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "Jornada através das fantasias da sua infância";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "Grátis";
+
+/* puzzle_frames */
+"puzzle_frames" = "Quadros";
+
+/* newuser_find_password */
+"newuser_find_password" = "Esqueci a senha";
+
+/* password_forget */
+"password_forget" = "Esqueceu a senha?";
+
+/* newuser_code_input */
+"newuser_code_input" = "Preencha o código de verificação";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "Falhou ao salvar foto no álbum do sistema";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "Falhou ao excluir";
+
+/* setting_face_auto */
+"setting_face_auto" = "Reconhecimento facial";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "F";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "Exportar foto para rolo da câmera: Configurações > Privacidade > Fotos > Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "Opções de Exportar Fotos";
+
+/* gallery_export */
+"gallery_export" = "Exportar";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "EV";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "Erro. Faça o login novamente.";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "Insira o nome de usuário";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "Número de telefone";
+
+/* keys */
+"keys" = "en";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "E-mail enviado, verifique";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "O e-mail já está registrado";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "Erro do formato do e-mail";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "E-mail já registrado,\nfazer login?";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "E-mail";
+
+/* common_email */
+"common_email" = "E-mail";
+
+/* effects_include_count */
+"effects_include_count" = "efeitos incluídos";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "Efeito:";
+
+/* effect_install_error */
+"effect_install_error" = "Instalação do efeito falhou";
+
+/* imageshow_edit */
+"imageshow_edit" = "Editar";
+
+/* password_draw_new */
+"password_draw_new" = "Sortear a nova senha gráfica";
+
+/* password_draw_again */
+"password_draw_again" = "Sortear a senha gráfica novamente";
+
+/* password_draw */
+"password_draw" = "Sortear uma senha gráfica";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "Baixando, não é possível excluir.";
+
+/* gallery_downloading */
+"gallery_downloading" = "Baixando";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "Baixar fotos para álbum";
+
+/* gallery_taskList */
+"gallery_taskList" = "Baixar foto";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "Download falhou";
+
+/* common_download */
+"common_download" = "Baixar";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "Pronto!";
+
+/* cloud_download_success */
+"cloud_download_success" = "Pronto";
+
+/* done */
+"done" = "Pronto";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "Pronto";
+
+/* password_succeed */
+"password_succeed" = "Pronto";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "Desabilitado";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "Dimensões:";
+
+/* imageshow_device */
+"imageshow_device" = "Dispositivo:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "Desmarcar";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "Excluir a foto";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "Excluir %zd fotos";
+
+/* common_delete */
+"common_delete" = "Excluir";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "Excluir";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "Cobranças de dados do seu provedor de serviço podem se aplicar para baixar a foto.";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "Conta atual";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "Recortar";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "Confirmar desinstalação?";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "Confirmar número do telefone";
+
+/* gallery_collage */
+"gallery_collage" = "Coagem";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "Carregar rede";
+
+/* setting_cloud */
+"setting_cloud" = "Conf. álbum da nuvem";
+
+/* gallery_cloud */
+"gallery_cloud" = "Álbum da nuvem";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "fechar";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "Alterar nome";
+
+/* setting_password_change */
+"setting_password_change" = "Alterar senha do álbum";
+
+/* common_cancel */
+"common_cancel" = "Cancelar";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "Acordo do usuário da Camera360";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "A Camera360 não tem acesso ao seu rolo da câmera. Vá para Configurações -> Privacidade -> Fotos e ative a Camera360.";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "O serviço da câmera não está ativo. Então não é possível tirar fotos. Você pode ativar o serviço da câmera em Configurações.\r\n(Vá para Configurações->Privacidade->Câmera->Ativar Camera360)";
+
+/* takingPictures */
+"takingPictures" = "Câmera";
+
+/* newuser_bind */
+"newuser_bind" = "Vinculando";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "O backu está completo!";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "Fazendo backup de %zd fotos";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "Fazendo backup";
+
+/* common_back */
+"common_back" = "Voltar";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "Carregar automaticamente";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "Desativar backup automaticamente";
+
+/* setting_auto */
+"setting_auto" = "Automático";
+
+/* password_verify */
+"password_verify" = "Autenticação";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "Pelo menos 2 fotos";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "Tem certeza que deseja excluir %@?";
+
+/* store_installed */
+"store_installed" = "Aplicar";
+
+/* password_answer */
+"password_answer" = "Resposta:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "A resposta está incorreta. Tente novamente.";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "Criptografia do álbum";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "Erro de acesso do álbum";
+
+/* gallery_album */
+"gallery_album" = "Álbum";
+
+/* gallery_photos */
+"gallery_photos" = "Álbum";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "Após uma vinculação bem-sucedida, você pode fazer login usando o seu número de telefone e senha.";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "Após uma vinculação bem-sucedida, você pode fazer login usando o seu e-mail e senha.";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "O número da conta está incorreto";
+
+/* setting_about */
+"setting_about" = "Sobre";
+
+/* password_too_short */
+"password_too_short" = "3 pontos deveriam estar vinculados.\nTente novamente.";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "%zd fotos sendo baixadas";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "%@ edição não é suportada";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "%@ cliente não está instalado, tem certeza que deseja instalar imediatamente?";
+
+/* effects_include */
+"effects_include" = "conter";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "Inativo por mais de 180s, hibernando…";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "loja";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "Adicionar efeito aos favoritos";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "Original";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "Modo noturno inativo";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "Modo noturno ativo";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "Selfie noturno inativo";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "Selfie noturno ativo";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "Captura de toque inativa";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "Captura de toque ativa";
+
+/* camera_scene */
+"camera_scene" = "Câmera de pôster";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "Bloqueio automático de EV/foco";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "Ativar visualização ao vivo";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "Easy Cam";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "Gerando foto";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "Modo de captura silenciosa ativo, tamanho da foto e qualidade serão afetados";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "Modo de captura silenciosa inativo";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "Cancelado";
+
+/* homepage_camera */
+"homepage_camera" = "Câmera";
+
+/* homepage_setting */
+"homepage_setting" = "Eu";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "Insira o seu endereço de e-mail registrado e lhe enviaremos uma senha aleatória.";
+
+/* newuser_logout */
+"newuser_logout" = "Sair";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "A senha precisa de 6 a 20 caracteres";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "Você pode escolher entrar na interface inicial ou da câmera após iniciar o aplicativo.";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "Ative a visualização ao vivo para ver os efeitos na interface de captura, mas pode causar atraso.";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "Ativar salvará fotos como imagens espelhadas usando a lente frontal.";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "Modo de espelhamento";
+
+/* setting_photo_save */
+"setting_photo_save" = "Conf. salvamento de foto";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "Você pode escolher salvar fotos automaticamente após capturar.";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "Se estiver inativo, você pode exportar manualmente as fotos para o seu álbum do sistema.";
+
+/* setting_start_ui */
+"setting_start_ui" = "Interface de inicialização";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "Retrato";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "Escuro";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "Noite";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "Luz de fundo";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "Cênico";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "Grupo";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "Manter pelo menos um pacote de efeitos";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "Lista de aplicativos";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "Salvo com sucesso";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "Bloqueio de exposição automática";
+
+/* settingView_FQ */
+"settingView_FQ" = "Perguntas e respostas";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "Proporção";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "Multi-grade";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "Double Ex";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "A conta do usuário expirou, para recuperar o backup de foto automaticamente, insira a sua senha e faça o login";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "Salvo no álbum";
+
+/* loadPage_skip */
+"loadPage_skip" = "Pular";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "Easy Camera";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "Câmera de Selfie";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "Meu álbum";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "Contorno automático ativo";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "Contorno automático inativo";
+
+/* skin */
+"skin" = "Pele";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "Obter";
+
+/* Edit template */
+"Edit template" = "Editar modelo";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "Download falhou, verifique a conexão!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "Alinhar o seu rosto";
+
+/* video_preview_title */
+"video_preview_title" = "Visualização";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Stickers Engraçados da Camera360";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "Que sticker mágico, estou hipnotizado, quer tentar？";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "Salvamento falhou, tente novamente";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "Para salvar vídeo, vá para: Configurações -> Privacidade -> Fotos -> Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "Salvar";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "Carregando...";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "Segure para gravar";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "O serviço do microfone está inativo, não é possível gravar som. Você pode ir para Configurações para ativar isso. \r\n(Configurações-Privacidade-Microfone-Ativar microfone da Camera360)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "Salvo";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "Não é possível gravar enquanto multigrade ou  Double EX estiver ativo";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "Sinto muito em perceber que o seu celular não suporta \"Sticker Engraçado\" por problema de desempenho e compatibilidade";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Stickers engraçados da Camera360";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "Que sticker mágico, estou hipnotizado, quer tentar？";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "WeChat";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "Último login";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "Ativar notificações da Camera360";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "Nunca perca \"Curtidas\" de usuários de todo o mundo❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "Ativar";
+
+/* c_mall */
+"c_mall" = "Resgate de pontos";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "Política de Privacidade";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "Abra a sua boca";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "Levante a sua sobrancelha";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "compartilhar com";
+
+/* Ccoin */
+"Ccoin" = "Moedas C";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "Iniciar agora";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "Inclui um total de %zd conjuntos de %@ stickers novíssimos, não perca!";
+
+/* store_buy_now */
+"store_buy_now" = "Comprar agora";
+
+/* store_restore_all */
+"store_restore_all" = "Restaurar";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "Restaurar todos os stickers comprados no ambiente não wifi?";
+
+/* sticker_manage */
+"sticker_manage" = "gestão";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "Nenhum download";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "Nenhum sticker para restaurar";
+
+/* store_feedback */
+"store_feedback" = "Feedback";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "Processando...";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "Para usar a Camera360 melhor ative o acesso abaixo";
+
+/* auth_camera_title */
+"auth_camera_title" = "Acesso da câmera";
+
+/* auth_camera_des */
+"auth_camera_des" = "Ative para disparar";
+
+/* auth_mic_title */
+"auth_mic_title" = "Acesso do microfone";
+
+/* auth_mic_des */
+"auth_mic_des" = "Gravar sons para vídeos";
+
+/* auth_location_title */
+"auth_location_title" = "Acesso do local";
+
+/* auth_location_des */
+"auth_location_des" = "Fotos com locais";
+
+/* auth_notification_title */
+"auth_notification_title" = "Acesso de notificaçãos";
+
+/* auth_notification_des */
+"auth_notification_des" = "Ative para receber lembretes";
+
+/* auth_got */
+"auth_got" = "Entendido";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "Compartilhar para desbloquear";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "Registrando agora";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "O vídeo não pode exceder %zd seg.";
+
+/* video_import_not_support */
+"video_import_not_support" = "Importação de vídeo não suportada";
+
+/* video_import_fail */
+"video_import_fail" = "Falhou na exportação";
+
+/* poker_error_tips */
+"poker_error_tips" = "Desculpe, tente novamente";
+
+/* poker_making_tips */
+"poker_making_tips" = "Este filtro requer mapeamento de rede, pode demorar algum tempo";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "Este filtro não suporta exposição dupla ou multi-grid";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "Pode selecionar %tu fotos no máximo";
+
+/* album_select_one_video */
+"album_select_one_video" = "Só pode selecionar 1 vídeo";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "Só pode selecionar fotos neste modo";
+
+/* effect_store_vip */
+"effect_store_vip" = "Apenas para membros";
+
+/* pc_challenge */
+"pc_challenge" = "Desafio";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "Mais %d dias";
+
+/* pc_over */
+"pc_over" = "Fim";
+
+/* pc_my_works */
+"pc_my_works" = "Meus trabalhos";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "Trabalhos pendentes";
+
+/* pc_join */
+"pc_join" = "Juntar-se";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "Votar";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "Votando";
+
+/* pc_prepare */
+"pc_prepare" = "Preparando";
+
+/* pc_interest_people */
+"pc_interest_people" = "Pessoas interessadas";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "Recomendado";
+
+/* pc_publish */
+"pc_publish" = "Enviar";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "Ninguém segue";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "Estar sozinho é uma droga~";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "Não é possível obter local";
+
+/* pc_c_coins */
+"pc_c_coins" = "Moedas C";
+
+/* pc_experience */
+"pc_experience" = "Experiência";
+
+/* pc_delete */
+"pc_delete" = "Excluir";
+
+/* pc_report */
+"pc_report" = "Relatar";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "N. de acertos";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "Acertos na cidade";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "N. de curtidas";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "Derrotou %d%% de desafiantes em 《%@》";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "Obter recompensa";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%% de usuários suportam a sua seleção";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "Ir para desafio";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "aguarde por mais trabalhos";
+
+/* pc_vote_end */
+"pc_vote_end" = "Voto terminado";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "Quanto mais votos um trabalho receber, maior é a sua classificação, e mais moedas C você receberá";
+
+/* pc_ok */
+"pc_ok" = "OK";
+
+/* pc_delete_success */
+"pc_delete_success" = "Excluído";
+
+/* pc_reported_success */
+"pc_reported_success" = "Relatado com sucesso";
+
+/* pc_just_now */
+"pc_just_now" = "Agora mesmo";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d minuto(s) atrás";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d hora(s) atrás";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d dia(s) atrás";
+
+/* pc_months_ago */
+"pc_months_ago" = "%d mês(es) atrás";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d ano(s) atrás";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "Parabéns por obter";
+
+/* pc_share */
+"pc_share" = "Compartilhar";
+
+/* pc_start_voting */
+"pc_start_voting" = "Iniciar votação";
+
+/* pc_yesterday */
+"pc_yesterday" = "Ontem";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "Juntar-se ao Desafio";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "O trabalho foi excluído";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "Classificação %d";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "Faça login para descobrir mais conteúdo";
+
+/* pc_login */
+"pc_login" = "Login";
+
+/* pc_collection */
+"pc_collection" = "Coleção";
+
+/* pc_saved */
+"pc_saved" = "Salvo";
+
+/* pc_removed */
+"pc_removed" = "Remover";
+
+/* pc_download_template */
+"pc_download_template" = "Baixar modelo";
+
+/* pc_use_template */
+"pc_use_template" = "Usar modelo";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "Loja C em breve";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "Junte-se";
+
+/* pc_participants_num */
+"pc_participants_num" = "%@ participantes";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd desafiadores";
+
+/* pc_hot_task */
+"pc_hot_task" = "Desafios quentes";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "Desafiantes";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "Junte-se agora e reivindique recompensas";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》Está pronto?";
+
+/* pc_challenger */
+"pc_challenger" = "Desafiante";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "Fechar";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "Foto mais nova";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "Selecionou %li/%li fotos";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "O arquivo de dados está corrompido";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "Remover";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "Publicação falhou";
+
+/* pc_follow */
+"pc_follow" = "Seguir";
+
+/* pc_fans */
+"pc_fans" = "Fãs";
+
+/* pc_followed */
+"pc_followed" = "Seguido";
+
+/* pc_mutual */
+"pc_mutual" = "Mútuo";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "Regras de entrada";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "Nada encontrado, mude a palavra-chave e tente novamente?";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "Ainda não seguiram ninguém";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "Ainda não seguiram ninguém";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "Ainda sem fãs, interaja mais~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "Eles ainda não têm fãs, torne-se o primeiro fã deles~";
+
+/* pc_contacts */
+"pc_contacts" = "Contatos";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "Falhou ao acessar os Contatos";
+
+/* pc_current_account */
+"pc_current_account" = "Conta atual";
+
+/* pc_account_setting */
+"pc_account_setting" = "Configurações da conta";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "Feedback beta";
+
+/* pc_super_camera */
+"pc_super_camera" = "Câmera";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "Câmera";
+
+/* pc_selfie */
+"pc_selfie" = "Selfie";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "Selfie";
+
+/* pc_enhance */
+"pc_enhance" = "Álbum";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "Câmera AR";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "Procurar por amigos após vincular";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "Número de telefone vinculado";
+
+/* pc_reply */
+"pc_reply" = "Responder";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "Entra em contato com o amigo - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "Falhou ao vincular";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "Fotografar";
+
+/* pc_comment */
+"pc_comment" = "Comentário";
+
+/* pc_message_comment */
+"pc_message_comment" = "Comentário";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "Diga algo...";
+
+/* pc_send */
+"pc_send" = "Send";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "O comentário foi excluído";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "O conteúdo foi excluído";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld curtidas";
+
+/* pc_long_photo */
+"pc_long_photo" = "Longo";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "Curtir";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "Verificar todos os %ld comentários";
+
+/* pc_check_detail */
+"pc_check_detail" = "Verificar detalhes";
+
+/* pc_create_relay */
+"pc_create_relay" = "Criar transmissão";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "Excluir este comentário";
+
+/* pc_all_comments */
+"pc_all_comments" = "Todos os comentários";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "Comentário dele/dela";
+
+/* pc_details */
+"pc_details" = "Detalhes";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "Comentário longo demais, 140 palavras ou menos";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "Responder %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "Erro de rede, tente novamente depois";
+
+/* pc_more */
+"pc_more" = "Mais";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "Atualização amigo";
+
+/* pc_relay */
+"pc_relay" = "Transmissão";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "Seguido";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "Curtiu %ld fotos";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "Momentos do amigo";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "Usuário recomendado";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "Vincular número de telefone";
+
+/* pc_bound_success */
+"pc_bound_success" = "Vincular";
+
+/* pc_recommend */
+"pc_recommend" = "Recomendado";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "Seus amigos";
+
+/* pc_tag */
+"pc_tag" = "Marcar";
+
+/* pc_user */
+"pc_user" = "Usuário";
+
+/* pc_load_more */
+"pc_load_more" = "Saiba mais";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "Toque na tela para recarregar";
+
+/* pc_join_relay */
+"pc_join_relay" = "Juntar-se à transmissão";
+
+/* pc_like */
+"pc_like" = "Curtir";
+
+/* pc_say_something */
+"pc_say_something" = "Diga algo (até 140 palavras)";
+
+/* pc_post_preview */
+"pc_post_preview" = "Publicar visualização";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "Lembrar quem viu";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "Ativar serviços de local";
+
+/* pc_shoot */
+"pc_shoot" = "Registrar";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "Registrar";
+
+/* pc_short_video */
+"pc_short_video" = "Vídeo";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "Não pode exceder 140 palavras";
+
+/* pc_my_messages */
+"pc_my_messages" = "Minhas mensagens";
+
+/* pc_mine */
+"pc_mine" = "Meu";
+
+/* pc_message_mine */
+"pc_message_mine" = "Meu";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "Meu";
+
+/* pc_zan */
+"pc_zan" = "Curtir";
+
+/* pc_message_zan */
+"pc_message_zan" = "Curtir";
+
+/* pc_new_fans */
+"pc_new_fans" = "Novo fã";
+
+/* pc_message_fans */
+"pc_message_fans" = "Novo fã";
+
+/* pc_notification */
+"pc_notification" = "Notificação";
+
+/* pc_message_notification */
+"pc_message_notification" = "Notificações";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "Definir informações do retrato e pessoais";
+
+/* pc_add_friend */
+"pc_add_friend" = "Adicionar amigo";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ momentos";
+
+/* pc_me */
+"pc_me" = "Eu";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "Obter mensagem";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "Você não receberá mais notificações após desativar";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "Configurações de notificação";
+
+/* pc_creator */
+"pc_creator" = "Criador";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X pessoas estão transmitindo";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X pessoas estão respondendo";
+
+/* pc_newest */
+"pc_newest" = "Mais novo";
+
+/* pc_hottest */
+"pc_hottest" = "Mais quente";
+
+/* pc_searching */
+"pc_searching" = "Procurando...";
+
+/* pc_get_reward */
+"pc_get_reward" = "Obter recompensa";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "Informações da conta";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "Sobre a Camera360";
+
+/* pc_settings */
+"pc_settings" = "Configurações";
+
+/* pc_plaza */
+"pc_plaza" = "Plaza";
+
+/* pc_featured_video */
+"pc_featured_video" = "Vídeo em destaque";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "Pessoas próximas";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "Conteúdo recomendado";
+
+/* pc_hot_works */
+"pc_hot_works" = "Trabalhos quentes";
+
+/* pc_ad */
+"pc_ad" = "Anúncio";
+
+/* pc_hot */
+"pc_hot" = "Quente";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "Editar destacado";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "Entrar / Cadastrar-se";
+
+/* pc_user_center */
+"pc_user_center" = "Eu";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "Meus pontos C";
+
+/* pc_local_album */
+"pc_local_album" = "Álbum local";
+
+/* pc_moments */
+"pc_moments" = "Momentos";
+
+/* pc_like_home */
+"pc_like_home" = "Curtir";
+
+/* pc_follow_home */
+"pc_follow_home" = "Seguir";
+
+/* pc_fans_home */
+"pc_fans_home" = "Fãs";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "Editar informações";
+
+/* pc_come_from */
+"pc_come_from" = "De %@";
+
+/* pc_friends */
+"pc_friends" = "Amigo";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "Amigo";
+
+/* pc_homepage */
+"pc_homepage" = "Página inicial";
+
+/* pc_message */
+"pc_message" = "Mensagem";
+
+/* pc_share_moments */
+"pc_share_moments" = "Compartilhar momentos☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "Compartilhar momentos";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "Não exibir local";
+
+/* pc_take_video */
+"pc_take_video" = "Vídeo";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "Expandir";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "Dobrar";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "Desculpe, o seu dispositivo não pode se juntar ao desafio, pois não é compatível";
+
+/* pc_more_video */
+"pc_more_video" = "Mais";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "Permita-se ver o mundo";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "Deslize para buscar mais";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "Permita que mais pessoas vejam os seus momentos";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "Pessoas de %@, têm novas atualizações";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "%zd posts";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "%zd curtidas";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "Toque duas vezes para curtir os seus posts favoritos";
+
+/* intro_title1 */
+"intro_title1" = "Abrir momentos";
+
+/* intro_title2 */
+"intro_title2" = "Perder cada torcida";
+
+/* intro_title3 */
+"intro_title3" = "Permita-me encontrar";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "Candidatar-se para mestre";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "Introdução ao mestre";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "Torne-se um mestre";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "Medalha exclusiva";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "Mais";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "Recomendado";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "Símbolo de um mestre";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "Você será recomendado para usuários em todo o mundo";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "Permita que mais pessoas vejam as suas fotos";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "Se você atender às condições, você será aprovado mais facilmente!";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "Adora usar câmeras móveis para fotografar e adora compartilhar";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "Interesses e ângulos exclusivos, gosta de registrar as viagens ou fotografar comidas";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "Já é uma estrela ou sensação online";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "Contato";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "Insira o seu e-mail";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "Introdução pessoal";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "Especialidade / interesses / hobbies, etc.";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "Enviar solicitação";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "Enviado, aguarde aprovação";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "Sua solicitação está sendo revisada, aguarde!";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "Você já é um mestre";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "Mestre";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "Deixe o mundo me ver";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "Eu recomendo um compartilhamento de %@";
+
+/* pc_task_more */
+"pc_task_more" = "Mais";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "Tópicos em destaque";
+
+/* common_black_title */
+"common_black_title" = "Hum, nada aqui";
+
+/* common_loading_title */
+"common_loading_title" = "Carregando...";
+
+/* common_noMore_data */
+"common_noMore_data" = "Não tem mais conteúdo...";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "Classificado %d";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "Obtendo local";
+
+/* pc_task_award */
+"pc_task_award" = "Regras e recompensas";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "Só pode selecionar %zd fotos";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "Publicar (%zd)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "Publicar";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "Acesso negado aos contatos";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "Acessar contatos";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "Ativar agora>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "Toque no sistema [Configurações]-[Privacidade]-[Contato], ativar para a Camera360.";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "Filme de fotos";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "Adicionar mais";
+
+/* intro_enterButton */
+"intro_enterButton" = "Iniciar agora";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "Exibir local";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "Junte-se";
+
+/* intro_sologan */
+"intro_sologan" = "Deixe o mundo me ver";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "A conta está bloqueada, entre em contato com o atendimento ao cliente se tiver quaisquer problemas";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "Muitas entradas incorretas, a conta será bloqueada, tente novamente depois ou recupere a senha";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "A senha é simples demais, insira novamente";
+
+/* puser_OK */
+"puser_OK" = "OK";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "Erro de rede, tente novamente";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "Erro de rede, tente novamente";
+
+/* puser_ServerError */
+"puser_ServerError" = "Erro de rede, tente novamente";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "Erro de rede, tente novamente";
+
+/* puser_SystemError */
+"puser_SystemError" = "Erro de rede, tente novamente";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "A conta ou a senha está incorreta, insira novamente";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "A conta ou a senha está incorreta, insira novamente";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "O formato da imagem está incorreto, carregue novamente";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "Carga de avatar falhou.";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "Erro na conta, faça login novamente";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "Erro na conta, faça login novamente";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "E-mail já registrado,\nfazer login? ";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "Erro de rede, tente novamente";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "Solicitações frequentes demais, tente novamente depois";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "O número já está registrado, fazer login?";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "O número já está registrado, fazer login?";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "Solicitações frequentes demais, tente novamente depois";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "O código de verificação expirou, adquira-o novamente";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "O número está inválido";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "O código é incorreto, insira-o novamente";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "O número não existe, insira-o novamente";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "O e-mail já está registrado, fazer login?";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "Email de verificação não foi enviado";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "Email de verificação não foi enviado";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "Erro da conta, faça login novamente";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "Erro da conta, faça login novamente";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "Falhou ao verificar a mensagem de erro";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "Conta de terceiros já está vinculada";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "Contém palavras ilegais";
+
+/* puser_PwdError */
+"puser_PwdError" = "Erro de senha";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "O e-mail não existe, insira-o novamente";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "O e-mail já está registrado, fazer login?";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "O formato do e-mail está incorreto";
+
+/* newuser_gender */
+"newuser_gender" = "Sexo";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "Login no Facebook";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "Login no Twitter";
+
+/* newuser_area */
+"newuser_area" = "Região";
+
+/* newuser_introduction */
+"newuser_introduction" = "Introdução";
+
+/* newuser_male */
+"newuser_male" = "Masculino";
+
+/* newuser_female */
+"newuser_female" = "Feminino";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "Editar endereço";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "Navegue para o local";
+
+/* newuser_no_location */
+"newuser_no_location" = "Não é possível obter o seu local";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "Nas configurações do sistema, abra a \"privacidade - Serviços de Localização\"e permita os serviços de localização da câmera 360.";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "Você não pode ter trabalhos em figuras e vídeos";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "Altere o seu fundo";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "Complete o seu perfil para que mais pessoas se interessem por você.";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "Contatos, veja quais dos seus amigos estão aqui.";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "Modificado com sucesso";
+
+/* newuser_password */
+"newuser_password" = "Senha";
+
+/* newuser_editintro */
+"newuser_editintro" = "Editar introdução";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "Insira a introdução (40 palavras ou menos)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "Substituir Avatar";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "Arraste a imagem, ajuste a faixa de exibição";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "Substituir capa";
+
+/* cancle */
+"cancle" = "Cancelar";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "Editar endereço da cidade";
+
+/* newuser_all_city */
+"newuser_all_city" = "Tudo";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "Editar endereço do estado";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "Código de verificação enviado";
+
+/* newuser_sended */
+"newuser_sended" = "Enviado (%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "Login no WeChat";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "Login no Weibo";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "Entrar / Cadastrar-se";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "Preencha o apelido (20 palavras ou menos)";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "Editar apelido";
+
+/* pc_new_photo */
+"pc_new_photo" = "Foto mais nova";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@ curtidas";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "Nenhum comentário, obtenha alguns!";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "Exceção de rede, verifique a rede";
+
+/* pgba_select */
+"pgba_select" = "Selecionar";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "Esta semana";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "Semana passada";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "Há duas semanas";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "%tu selecionado";
+
+/* pgba_today */
+"pgba_today" = "Hoje";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "Ontem";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "China";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "Enviar novamente";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "Vincular";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "Código do país";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "Telefone atual";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "Mais conteúdo";
+
+/* newuser_login_title */
+"newuser_login_title" = "Cadastrar-se";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "O apelido não pode ser em branco";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "Sexo não selecionado";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "O apelido já está sendo usado, escolha outro";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "O apelido é inválido";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "Pesquisar de utilizador";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "Falhou em autorizar";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "Este número já está sendo usado";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "Login para download";
+
+/* 免费 */
+"免费" = "Grátis";
+
+/* 下载中 */
+"下载中" = "Baixando";
+
+/* 立即使用 */
+"立即使用" = "Usar agora";
+
+/* 素材管理 */
+"素材管理" = "Gerenciar materiais";
+
+/* 移到最前 */
+"移到最前" = "Mover para o topo";
+
+/* 恢复已购 */
+"恢复已购" = "Recuperar compra";
+
+/* 管理 */
+"管理" = "Gerenciar";
+
+/* 我喜欢 */
+"我喜欢" = "Favoritos";
+
+/* 夜景关闭 */
+"夜景关闭" = "Modo noturno desligado";
+
+/* 夜景打开 */
+"夜景打开" = "Modo noturno ligado";
+
+/* 画幅 */
+"画幅" = "Quadro";
+
+/* 定时 */
+"定时" = "Cronometrado";
+
+/* 夜景 */
+"夜景" = "Modo noturno";
+
+/* 网格 */
+"网格" = "Grade";
+
+/* 触屏拍照 */
+"触屏拍照" = "Captura de toque";
+
+/* 暗角 */
+"暗角" = "Vinheta";
+
+/* 虚化 */
+"虚化" = "Desfoque";
+
+/* 静音相机 */
+"静音相机" = "Colocar obturador no mudo";
+
+/* 设置 */
+"设置" = "Configurações";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "Nenhum material recuperado disponível";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "Nenhum material disponível";
+
+/* 分享下载 */
+"分享下载" = "Compartilhar download";
+
+/* 解锁 */
+"解锁" = "Desbloquear";
+
+/* 补光 */
+"补光" = "Preencher";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "Erro de dados da rede, tente novamente depois";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "Erro, tente novamente depois";
+
+/* 恢复 */
+"恢复" = "Recuperar";
+
+/* 照片自动保存 */
+"照片自动保存" = "Salvar fotos automaticamente";
+
+/* 全部照片 */
+"全部照片" = "Todas as fotos";
+
+/* 下载 */
+"下载" = "Download";
+
+/* 使用 */
+"使用" = "Usar";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "Este material não pode ser usado para edição";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "Toque na pétala para continuar";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "Um novo mundo empolgante esperando para ser aberto";
+
+/* 进入 */
+"进入" = "Entrar";
+
+/* 静音 */
+"静音" = "Mudo";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "A versão do seu sistema está desatuaizada e não suporta esta função";
+
+/* 大小 */
+"大小" = "Tamanhp";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "No momento, você não está no WIFI, continuar baixando?";
+
+/* 内含X个素材 */
+"内含X个素材" = "Contém %ld materiais";
+
+/* 已下载 */
+"已下载" = "Baixado";
+
+/* 共%ld款 */
+"共%ld款" = "%ld total";
+
+/* 下载失败 */
+"下载失败" = "Download falhou";
+
+/* 该内容不存在 */
+"该内容不存在" = "O conteúdo não existe";
+
+/* 置顶 */
+"置顶" = "Topo";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "Compartilhar";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "Agora registre a sua vida com a Camera360!";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "Dicas";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "Deslize para mais informações";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "Ver tradução";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "Traduzindo…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "Esconder tradução";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "Tente novamente";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "अपनी प्रोफाइल तसवीर बदलें";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "Ver mais informações";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "Trabalhos selecionados";
+
+/* pc_common_copy */
+"pc_common_copy" = "Copiar";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "Compartilhe o que você está sentindo";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "Enviando";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "Re-enviar";
+
+/* pc_download */
+"pc_download" = "Baixar";
+
+/* pc_downloading */
+"pc_downloading" = "Baixando...";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "Comentários agora suportam imagens e emojis!";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "Descrições de texto agora podem incluir emojis!";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "Usuário mestre, ID exclusivo";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "Usuário certificado, destaca a autoridade!";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "Certificação Oficial";
+
+/* pc_comment_success */
+"pc_comment_success" = "Comentário bem-sucedido";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "Inserir comentário";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "Continuar";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "Remover efeito atual dos Favoritos?";
+
+/* 特效管理 */
+"特效管理" = "Gerenciamento de efeitos";
+
+/* 本地特效包 */
+"本地特效包" = "Pacote de efeitos locais";
+
+/* 商店 */
+"商店" = "Loja";
+
+/* setting_clearCache */
+"setting_clearCache" = "Limpar cache";
+
+/* 立即下载 */
+"立即下载" = "Baixe agora";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "Insira o apelido do usuário";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "Selecione, no máximo, 1 vídeo";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "Contatos recentes";
+
+/* pc_my_follows */
+"pc_my_follows" = "Meus amigos";
+
+/* pc_at_friends */
+"pc_at_friends" = "@amigo";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "Ao usar stickers, só suporta quadro 4:3";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "Ao usar stickers, vinheta não é suportada";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "Ao usar stickers, desfoque não é suportado";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "Ao usar stickers, modo noturno não é suportado";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "Foto dinâmica";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "Foto dinâmica";
+
+/* 画质 */
+"画质" = "Qualidade";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "Arraste a imagem e recorte no quadrado";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "Vídeo guardado a partir do álbum";
+
+/* 照片动画 */
+"照片动画" = "Animação da foto";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "Um novo estilo de usar a câmera, traga suas fotos à vida!";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "Adicione conteúdo para criar vídeos";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "Traga suas fotos à vida";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "Eu usei a Camera360 para fotografar %@, venha ver!";
+
+/* 一张照片 */
+"一张照片" = "uma foto";
+
+/* 一段短视频 */
+"一段短视频" = "um vídeo curto";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360, deixe o mundo me ver";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "Experimente a nossa nova função, traga suas fotos à vida!";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "Foto salva no álbum";
+
+/* 下一步 */
+"下一步" = "Próximo";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "Partilhar diretamente; qualidade mais nítida";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "Eliminar %zd artigos";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "Eliminar %zd vídeos";
+
+/* 导出视频 */
+"导出视频" = "Exportar vídeo";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "Usuário recomendado pelo sistema";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "Classificação de mestre";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "Símbolo de honra";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "Global recomendado";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "Mais seguidores";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "Selecionar local";
+
+/* pc_location_fail */
+"pc_location_fail" = "Falhou em obter local";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "Não é possível obter local";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "Ativar serviços de local para a Camera360";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "Ativar";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "Obter acesso local";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "Ativar";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "Compartilhe uma foto de %@";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "Compartilhe uma coleção de fotos de %@";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "Compartilhe um vídeo curto de %@";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "Classificar pelo número de fotos e nível interativo para os últimos 3 dias";
+
+/* 删除视频 */
+"删除视频" = "Eliminar vídeos";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "Magic Skin";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "Movie";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "Não pode pular, precisa ir manualmente para configurações";
+
+/* hot_recommond */
+"hot_recommond" = "Quente";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "Aplique agora";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "Exibido";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "Selecionado %d fotos";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "Selecionado %d vídeos";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "Selecionado %d itens";
+
+/* 制作动态照片 */
+"制作动态照片" = "Texturas dinâmicas";
+

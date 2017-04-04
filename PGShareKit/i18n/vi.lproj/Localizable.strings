@@ -1,0 +1,2619 @@
+/* 420 */
+"420" = "Mạng không sẵn có. Vui lòng kiểm tra Cài đặt mạng của bạn.";
+
+/* 408 */
+"408" = "Thử kết nối đã thất bại. Vui lòng thử lại.";
+
+/* 500 */
+"500" = "Dữ liệu tải không thành công, vui lòng thử lại sau";
+
+/* setting_face_auto_save */
+"setting_face_auto_save" = "Tự động lưu ảnh Selfie";
+
+/* common_share_weixinMonent */
+"common_share_weixinMonent" = "Khoảnh khắc";
+
+/* common_share_miaopai */
+"common_share_miaopai" = "Chụp";
+
+/* share_sharemenu_sendtoWeChat_moment */
+"share_sharemenu_sendtoWeChat_moment" = "Kh.khắc WeChat";
+
+/* common_share_weixinFriend */
+"common_share_weixinFriend" = "WeChat";
+
+/* newuser_code_we_send_code_to_your_number */
+"newuser_code_we_send_code_to_your_number" = "Chúng tôi đã gửi một mã xác thực SMS tới số điện thoại của bạn %@";
+
+/* newuser_account_notice_for_upgrade */
+"newuser_account_notice_for_upgrade" = "Chúng tôi đã bắt đầu nâng cấp tài khoản và sẽ chỉ hỗ trợ đăng nhập bằng email/điện thoại kể từ bây giờ. Để đảm bảo sử dụng bình thường các dịch vụ thành viên của chúng tôi, vui lòng liên kết email/điện thoại của bạn ngay khi có thể.";
+
+/* newuser_account_notice_for_upgrade_foreign */
+"newuser_account_notice_for_upgrade_foreign" = "Chúng tôi đã bắt đầu nâng cấp tài khoản và sẽ chỉ hỗ trợ đăng nhập bằng email từ giờ trở đi. Vui lòng gắn kết email của bạn ngay khi có thể để đảm bảo sử dụng bình thường các dịch vụ thành viên của chúng tôi.";
+
+/* camera360_camera_idle_do */
+"camera360_camera_idle_do" = "Tỉnh dậy";
+
+/* gallery_cloudWaitBackup */
+"gallery_cloudWaitBackup" = "Đang chờ sao lưu";
+
+/* setting_camera_ui */
+"setting_camera_ui" = "Màn hình Kính ngắm";
+
+/* newuser_code_input_send_code_succeed */
+"newuser_code_input_send_code_succeed" = "Mã xác thực đã được gửi, vui lòng kiểm tra";
+
+/* setting_password_footer */
+"setting_password_footer" = "Sử dụng độc lập hoặc bổ sung cho Touch ID.";
+
+/* cloud_no_photo_startUpload_tips */
+"cloud_no_photo_startUpload_tips" = "Tải ảnh của bạn lên Đám mây Camera360";
+
+/* setting_charge_upload */
+"setting_charge_upload" = "Chỉ tải lên khi đang sạc";
+
+/* setting_wifi_upload */
+"setting_wifi_upload" = "Chỉ tải lên trên WIFI";
+
+/* setting_3g_upload */
+"setting_3g_upload" = "Tải lên trên 3G và WIFI";
+
+/* common_migration_alert */
+"common_migration_alert" = "Đang nâng cấp cơ sở dữ liệu";
+
+/* common_uppdate_minutes_ago */
+"common_uppdate_minutes_ago" = "Đã cập nhật %ld phút trước";
+
+/* common_uppdate_minute_ago */
+"common_uppdate_minute_ago" = "Đã cập nhật %ld phút trước";
+
+/* common_uppdate_hours_ago */
+"common_uppdate_hours_ago" = "Đã cập nhật %ld giờ trước";
+
+/* common_uppdate_hour_ago */
+"common_uppdate_hour_ago" = "Đã cập nhật %ld giờ trước";
+
+/* common_uppdate_days_ago */
+"common_uppdate_days_ago" = "Đã cập nhật %ld ngày trước";
+
+/* common_uppdate_day_ago */
+"common_uppdate_day_ago" = "Đã cập nhật %ld ngày trước";
+
+/* gallery_puzzle_select_tips */
+"gallery_puzzle_select_tips" = "Tối đa 9 ảnh cùng lúc";
+
+/* effect_uninstall_confirm */
+"effect_uninstall_confirm" = "Dỡ cài đặt \"%@\"?";
+
+/* unable_to_delete_filter */
+"unable_to_delete_filter" = "Không thể xóa bộ lọc, bạn cần ít nhất một!";
+
+/* setting_password_not_set_alert */
+"setting_password_not_set_alert" = "Bật Khóa Mẫu hình trong Cài đặt Nâng cao.";
+
+/* gallery_albumDenyTip */
+"gallery_albumDenyTip" = "Bật quyền album";
+
+/* setting_touch_id_off_alert2 */
+"setting_touch_id_off_alert2" = "Tắt Touch ID.";
+
+/* setting_touch_id */
+"setting_touch_id" = "Touch ID";
+
+/* gallery_today */
+"gallery_today" = "Hôm nay";
+
+/* feedback_remoteNotification */
+"feedback_remoteNotification" = "Để đảm bảo kịp thời nhận được trả lời của bạn, vui lòng mở quyền push tin nhắn.";
+
+/* camera_preview_volume_tips */
+"camera_preview_volume_tips" = "Mẹo: Nhấn các phím âm lượng để lưu ảnh!";
+
+/* imageshow_exposure_time */
+"imageshow_exposure_time" = "TGIAN";
+
+/* gallery_currentweek */
+"gallery_currentweek" = "Tuần này";
+
+/* user_center_email_registed */
+"user_center_email_registed" = "Email này đã được đăng ký bởi một thành viên Camera360 khác.";
+
+/* user_center_passworderror */
+"user_center_passworderror" = "Mật khẩu bạn đã nhập không đúng.";
+
+/* user_center_passwordUnlawful_reinput */
+"user_center_passwordUnlawful_reinput" = "Mật khẩu phải có 6-20 ký tự.";
+
+/* common_check_network */
+"common_check_network" = "Mạng không sẵn có. Vui lòng kiểm tra Cài đặt mạng của bạn.";
+
+/* user_center_userNotExist */
+"user_center_userNotExist" = "Tải khoản không tồn tại";
+
+/* setting_xiao_c */
+"setting_xiao_c" = "Phản hồi";
+
+/* setting_synchronize_photos */
+"setting_synchronize_photos" = "Đồng bộ với Thư viện Ảnh";
+
+/* puzzle_cancel_tips */
+"puzzle_cancel_tips" = "Chắc chắn bỏ qua câu đố này?";
+
+/* cloud_album_delete_photos_tips */
+"cloud_album_delete_photos_tips" = "Chắc chắn xóa %d ảnh?";
+
+/* camera_preview_strength */
+"camera_preview_strength" = "Cường độ";
+
+/* gallery_activeAlbum */
+"gallery_activeAlbum" = "Bắt đầu";
+
+/* gallery_start_collage */
+"gallery_start_collage" = "Bắt đầu";
+
+/* caemra_effect_delete_tips */
+"caemra_effect_delete_tips" = "Loại bỏ bộ lọc khỏi yêu thích?";
+
+/* camera_effect_uninstall_error_inusing */
+"camera_effect_uninstall_error_inusing" = "Không thể gỡ cài đặt hiệu ứng đặc biệt khi đang sử dụng";
+
+/* newuser_register_mobile_send_code */
+"newuser_register_mobile_send_code" = "Mã xác thực SMS sẽ được gửi tới %@";
+
+/* password_skip */
+"password_skip" = "Bỏ qua";
+
+/* imageshow_size */
+"imageshow_size" = "Kích cỡ:";
+
+/* newuser_login_third_sina */
+"newuser_login_third_sina" = "Weibo";
+
+/* newuser_login_use_third_login */
+"newuser_login_use_third_login" = "Đăng nhập bằng cách khác";
+
+/* common_share */
+"common_share" = "Chia sẻ";
+
+/* settings */
+"settings" = "Cài đặt";
+
+/* password_set_questions */
+"password_set_questions" = "Đặt câu hỏi bảo mật";
+
+/* newuser_set_password */
+"newuser_set_password" = "Đặt Mật khẩu";
+
+/* newuser_set_password_camera360_password */
+"newuser_set_password_camera360_password" = "Đặt mật khẩu tài khoản Camera360";
+
+/* newuser_login_licences */
+"newuser_login_licences" = "Điều khoản Dịch vụ";
+
+/* share_sharemenu_sendtoQQ */
+"share_sharemenu_sendtoQQ" = "QQ";
+
+/* gallery_hasSelected */
+"gallery_hasSelected" = "%zd ảnh đã chọn";
+
+/* selectPhoto */
+"selectPhoto" = "Chọn Ảnh";
+
+/* gallery_selectAll */
+"gallery_selectAll" = "lựa chọn";
+
+/* gallery_collage_select */
+"gallery_collage_select" = "Lựa chọn";
+
+/* scene_template */
+"scene_template" = "Mẫu Cảnh";
+
+/* saving_photo */
+"saving_photo" = "Đang lưu ảnh...";
+
+/* common_save */
+"common_save" = "Lưu";
+
+/* puzzle_rotate */
+"puzzle_rotate" = "Xoay";
+
+/* newuser_login_use_email_to_get_password */
+"newuser_login_use_email_to_get_password" = "Truy xuất mật khẩu của bạn qua email";
+
+/* product_restore */
+"product_restore" = "Khôi phục";
+
+/* newuser_code_input_retry_send */
+"newuser_code_input_retry_send" = "Gửi lại";
+
+/* reloading */
+"reloading" = "Nạp lại";
+
+/* newuser_login_sign_up_for_agree */
+"newuser_login_sign_up_for_agree" = "ĐK nghĩa là đồng ý";
+
+/* newuser_guide_account_register */
+"newuser_guide_account_register" = "Đăng ký";
+
+/* newuser_register */
+"newuser_register" = "Đăng ký";
+
+/* pull_down_refresh_error */
+"pull_down_refresh_error" = "Làm mới thất bại, kiểm tra cài đặt mạng.";
+
+/* gallery_cloudBackupTime */
+"gallery_cloudBackupTime" = "Sao lưu gần đây: %@";
+
+/* gallery_appraise_appraiseNow */
+"gallery_appraise_appraiseNow" = "Xếp loại chúng tôi";
+
+/* setting_rateus */
+"setting_rateus" = "Xếp loại & Đánh giá";
+
+/* share_siteview_qzone */
+"share_siteview_qzone" = "Qzone";
+
+/* password_question_title */
+"password_question_title" = "Câu hỏi:";
+
+/* puzzle_template_puzzle */
+"puzzle_template_puzzle" = "Câu đố";
+
+/* common_pull_down_tips */
+"common_pull_down_tips" = "Kéo xuống để làm mới";
+
+/* newuser_account_head_avatar */
+"newuser_account_head_avatar" = "Ảnh hồ sơ";
+
+/* cloud_share_loadPreImage_failed */
+"cloud_share_loadPreImage_failed" = "Tải xem trước thất bại";
+
+/* setting_touch_id_reason */
+"setting_touch_id_reason" = "Vui lòng xác minh dấu vân tay của bạn";
+
+/* cloud_album_no_selected_photos */
+"cloud_album_no_selected_photos" = "Vui lòng chọn ảnh.";
+
+/* setting_touch_id_footer */
+"setting_touch_id_footer" = "Vui lòng đảm bảo Touch ID đã bật.";
+
+/* setting_touch_id_off_alert */
+"setting_touch_id_off_alert" = "Vui lòng đi tới Cài đặt để bật Touch ID.";
+
+/* newuser_input_email */
+"newuser_input_email" = "Vui lòng nhập địa chỉ email được đăng ký của bạn và chúng tôi sẽ gửi cho bạn một mật khẩu ngẫu nhiên.";
+
+/* newuser_find_password_input_your_email */
+"newuser_find_password_input_your_email" = "Vui lòng nhập email được đăng ký của bạn";
+
+/* newuser_input_mobile */
+"newuser_input_mobile" = "Vui lòng nhập số điện thoại của bạn";
+
+/* newuser_input_your_email_or_mobile */
+"newuser_input_your_email_or_mobile" = "Nhập email của bạn";
+
+/* newuser_input_your_email */
+"newuser_input_your_email" = "Vui lòng nhập địa chỉ email của bạn";
+
+/* newuser_code_input_your_code */
+"newuser_code_input_your_code" = "Mã số xác thực";
+
+/* password_answer_title */
+"password_answer_title" = "Vui lòng nhập câu trả lời";
+
+/* newuser_input_password */
+"newuser_input_password" = "Vui lòng nhập mật khẩu";
+
+/* newuser_empty_email */
+"newuser_empty_email" = "Vui lòng nhập email";
+
+/* newuser_empty_account */
+"newuser_empty_account" = "Vui lòng nhập tài khoản";
+
+/* gallery_photo_exported */
+"gallery_photo_exported" = "Ảnh đã được xuất vào thư viện ảnh";
+
+/* newuser_account_invalid_image */
+"newuser_account_invalid_image" = "Định dạng ảnh không đúng, vui lòng tải lên lại";
+
+/* gallery_importSuccessful */
+"gallery_importSuccessful" = "Ảnh đã nhập!";
+
+/* imageshow_photo_address */
+"imageshow_photo_address" = "Địa chỉ Ảnh:";
+
+/* gallery_select_photo */
+"gallery_select_photo" = "Ảnh";
+
+/* newuser_invalid_mobile */
+"newuser_invalid_mobile" = "Số điện thoại không hợp lệ";
+
+/* newuser_account_mobile */
+"newuser_account_mobile" = "Số điện thoại";
+
+/* newuser_account */
+"newuser_account" = "Thông tin cá nhân";
+
+/* puzzle_layouts */
+"puzzle_layouts" = "Mẫu hình";
+
+/* setting_password_off_alert */
+"setting_password_off_alert" = "Khóa Mẫu hình tắt. Bật ngay bây giờ?";
+
+/* setting_gesture_password */
+"setting_gesture_password" = "Khóa Mẫu hình";
+
+/* newuser_invalid_password */
+"newuser_invalid_password" = "Mật khẩu yêu cầu 6-20 ký tự";
+
+/* password_different */
+"password_different" = "Mật khẩu không khớp. Vui lòng thử lại.";
+
+/* password_wrong */
+"password_wrong" = "MK không đúng. Hãy thử lại.";
+
+/* setting_auto_save */
+"setting_auto_save" = "Chế độ lưu camera khác";
+
+/* gallery_otheralbum */
+"gallery_otheralbum" = "Album khác";
+
+/* gallery_high_org */
+"gallery_high_org" = "Gốc (không có hiệu ứng)";
+
+/* original */
+"original" = "Gốc";
+
+/* setting_password_turn_on */
+"setting_password_turn_on" = "BẬT";
+
+/* common_ok */
+"common_ok" = "Ok";
+
+/* setting_album_encryption_off */
+"setting_album_encryption_off" = "TẮT";
+
+/* newuser_register_mobile_already_registered */
+"newuser_register_mobile_already_registered" = "Số đã được đăng ký,\nđăng nhập?";
+
+/* newuser_bind_mobile_already_registered */
+"newuser_bind_mobile_already_registered" = "Số đã được đăng ký";
+
+/* gallery_start_tips */
+"gallery_start_tips" = "Bây giờ, hãy ghi lại cuộc sống của bạn bằng Camera360!";
+
+/* newuser_account_unbind */
+"newuser_account_unbind" = "Không gắn kết";
+
+/* gallery_appraise_cancel */
+"gallery_appraise_cancel" = "Không, cám ơn!";
+
+/* camera_tip_live_render_not_support */
+"camera_tip_live_render_not_support" = "Không xem trước thời gian thực";
+
+/* cloud_no_photo */
+"cloud_no_photo" = "Chưa có ảnh";
+
+/* gallery_fileNotExist */
+"gallery_fileNotExist" = "Không có ảnh";
+
+/* newuser_account_nickname */
+"newuser_account_nickname" = "Biệt danh";
+
+/* newuser_next */
+"newuser_next" = "Tiếp theo";
+
+/* password_next_step */
+"password_next_step" = "Tiếp theo";
+
+/* common_network_error */
+"common_network_error" = "Lỗi Mạng. Vui lòng thử lại sau.";
+
+/* cloud_request_fail */
+"cloud_request_fail" = "Lỗi Mạng";
+
+/* gallery_networkError */
+"gallery_networkError" = "Lỗi mạng";
+
+/* gallery_myalbum */
+"gallery_myalbum" = "Album của Tôi";
+
+/* update_center_your_moment_fail */
+"update_center_your_moment_fail" = "Sửa đổi thất bại. Vui lòng thử lại.";
+
+/* puzzle_mirror */
+"puzzle_mirror" = "Bản sao";
+
+/* download_effect_must_login */
+"download_effect_must_login" = "Thành viên được nhận hiệu ứng đặc biệt, đăng nhập để tải xuống.";
+
+/* setting_manual */
+"setting_manual" = "Thủ công";
+
+/* gallery_appraise_title */
+"gallery_appraise_title" = "Rất mong bạn xếp hạng";
+
+/* newuser_login_use_mobile_to_get_password */
+"newuser_login_use_mobile_to_get_password" = "Đăng nhập bằng xác thực qua SMS";
+
+/* newuser_login_run_into_problem */
+"newuser_login_run_into_problem" = "Đăng nhập có vấn đề?";
+
+/* user_center_login_third_fail */
+"user_center_login_third_fail" = "Bên thứ 3 đăng nhập không thành công";
+
+/* setting_cloud_login */
+"setting_cloud_login" = "Tài khoản Đăng nhập";
+
+/* common_login */
+"common_login" = "Đăgnhập";
+
+/* newuser_account_logout_confirm */
+"newuser_account_logout_confirm" = "Đăng thoát sẽ vô hiệu hoá album đám mây, bộ lọc và các dịch vụ thành viên khác, bạn có chắc không?";
+
+/* common_loading */
+"common_loading" = "Đang tải...";
+
+/* loading_message */
+"loading_message" = "Đang tải...";
+
+/* setting_live_preview */
+"setting_live_preview" = "Xem trước Trực tiếp";
+
+/* newuser_account_bind_succeed */
+"newuser_account_bind_succeed" = "Liên kết thành công";
+
+/* newuser_bind_mobile */
+"newuser_bind_mobile" = "Liên kết số điện thoại";
+
+/* newuser_bind_email */
+"newuser_bind_email" = "Liên kết email";
+
+/* gallery_appraise_message */
+"gallery_appraise_message" = "Thích chúng tôi? Xếp loại chúng tôi!";
+
+/* puzzle_montage_puzzle */
+"puzzle_montage_puzzle" = "Tham gia";
+
+/* product_invalid */
+"product_invalid" = "Không hợp lệ";
+
+/* setting_intro */
+"setting_intro" = "Video Giới thiệu";
+
+/* store_installing */
+"store_installing" = "Cài đặt";
+
+/* restore_quit_tip */
+"restore_quit_tip" = "Thoát trang này sẽ chấm dứt phục hồi, bạn có chắc không?";
+
+/* newuser_account_add_security */
+"newuser_account_add_security" = "Tăng bảo mật tài khoản";
+
+/* camera_in_use */
+"camera_in_use" = "Đang sử dụng";
+
+/* gallery_waitDownload */
+"gallery_waitDownload" = "Đang đợi";
+
+/* gallery_importToMyAlbum */
+"gallery_importToMyAlbum" = "Nhập vào album của tôi";
+
+/* gallery_import */
+"gallery_import" = "Nhập";
+
+/* password_question_tips */
+"password_question_tips" = "Nếu bạn quên mật khẩu, bạn có thể đặt lại bằng câu hỏi bảo mật.";
+
+/* cloud_share_default_txt */
+"cloud_share_default_txt" = "Tôi đã chia sẻ ảnh bằng Camera360";
+
+/* setting_home_ui */
+"setting_home_ui" = "Trang chủ";
+
+/* galley_high_definition */
+"galley_high_definition" = "Ảnh hiệu ứng HD";
+
+/* setting_composition */
+"setting_composition" = "Lưới";
+
+/* common_got_it */
+"common_got_it" = "Biết rồi";
+
+/* product_free */
+"product_free" = "Tự do";
+
+/* product_unlock_title */
+"product_unlock_title" = "Anime Sky";
+
+/* product_unlock_subtitle */
+"product_unlock_subtitle" = "Chuyển ảnh của bạn sang kiểu hoạt hình";
+
+/* puzzle_free_puzzle */
+"puzzle_free_puzzle" = "Tự do";
+
+/* puzzle_frames */
+"puzzle_frames" = "Khung hình";
+
+/* newuser_find_password */
+"newuser_find_password" = "Quên Mật khẩu";
+
+/* password_forget */
+"password_forget" = "Quên Mật khẩu?";
+
+/* newuser_code_input */
+"newuser_code_input" = "Điền vào mã xác thực";
+
+/* gallery_albumSaveFail */
+"gallery_albumSaveFail" = "Không thể lưu ảnh vào album hệ thống";
+
+/* cloud_delete_fail */
+"cloud_delete_fail" = "Không thể xóa";
+
+/* setting_face_auto */
+"setting_face_auto" = "Nhận diện Khuôn mặt";
+
+/* imageshow_aperture */
+"imageshow_aperture" = "F";
+
+/* gallery_exoprt_tips_ios6 */
+"gallery_exoprt_tips_ios6" = "Xuất ảnh ra Thư viện Ảnh: Cài đặt > Quyền riêng tư > Ảnh > Camera360";
+
+/* gallery_export_title */
+"gallery_export_title" = "Tùy chọn Xuất Ảnh";
+
+/* gallery_export */
+"gallery_export" = "Xuất";
+
+/* imageshow_exposure */
+"imageshow_exposure" = "EV";
+
+/* cloud_user_need_relogin */
+"cloud_user_need_relogin" = "Lỗi. Vui lòng đăng nhập lại sau.";
+
+/* cloud_nick_input_placeholder */
+"cloud_nick_input_placeholder" = "Nhập tên người dùng";
+
+/* newuser_mobile_input */
+"newuser_mobile_input" = "Số điện thoại";
+
+/* keys */
+"keys" = "vi";
+
+/* newuser_login_email_already_sended */
+"newuser_login_email_already_sended" = "Email đã gửi, vui lòng kiểm tra";
+
+/* newuser_bind_email_already_registered */
+"newuser_bind_email_already_registered" = "Email đã được đăng ký";
+
+/* newuser_invalid_email */
+"newuser_invalid_email" = "Lỗi định dạng email";
+
+/* newuser_register_email_already_registered */
+"newuser_register_email_already_registered" = "Email đã được đăng ký,\nđăng nhập?";
+
+/* newuser_account_bind_email */
+"newuser_account_bind_email" = "Email";
+
+/* common_email */
+"common_email" = "Email";
+
+/* effects_include_count */
+"effects_include_count" = "bao gồm hiệu ứng";
+
+/* imageshow_useeffect */
+"imageshow_useeffect" = "Hiệu ứng:";
+
+/* effect_install_error */
+"effect_install_error" = "Cài đặt hiệu ứng thất bại";
+
+/* imageshow_edit */
+"imageshow_edit" = "Chỉnh sửa";
+
+/* password_draw_new */
+"password_draw_new" = "Vẽ mật khẩu đồ họa mới";
+
+/* password_draw_again */
+"password_draw_again" = "Vẽ lại mật khẩu đồ họa";
+
+/* password_draw */
+"password_draw" = "Vẽ một mật khẩu đồ họa";
+
+/* gallery_cloudDeleteTip */
+"gallery_cloudDeleteTip" = "Đang tải xuống, không thể xóa.";
+
+/* gallery_downloading */
+"gallery_downloading" = "Đang tải xuống";
+
+/* gallery_downloadToSystem */
+"gallery_downloadToSystem" = "Tải xuống ảnh vào album";
+
+/* gallery_taskList */
+"gallery_taskList" = "Tải xuống ảnh";
+
+/* common_downloading_fail */
+"common_downloading_fail" = "Tải xuống thất bại";
+
+/* common_download */
+"common_download" = "Tải xuống";
+
+/* gallery_importedFinish */
+"gallery_importedFinish" = "Xong!";
+
+/* cloud_download_success */
+"cloud_download_success" = "Xong";
+
+/* done */
+"done" = "Xong";
+
+/* password_set_question_succeed */
+"password_set_question_succeed" = "Xong";
+
+/* password_succeed */
+"password_succeed" = "Xong";
+
+/* gallery_cloudDisabled */
+"gallery_cloudDisabled" = "Vô hiệu hóa";
+
+/* imageshow_photosize */
+"imageshow_photosize" = "Kích thước:";
+
+/* imageshow_device */
+"imageshow_device" = "Thiết bị:";
+
+/* gallery_collage_deselect */
+"gallery_collage_deselect" = "Bỏ chọn";
+
+/* imageshow_delete_photo */
+"imageshow_delete_photo" = "Xóa ảnh này";
+
+/* gallery_deletePhotoTip */
+"gallery_deletePhotoTip" = "Xóa %zd ảnh";
+
+/* common_delete */
+"common_delete" = "Xóa";
+
+/* storedetail_uninstall */
+"storedetail_uninstall" = "Xóa";
+
+/* cloud_download_isnot_wifi */
+"cloud_download_isnot_wifi" = "Phí dữ liệu từ nhà cung cấp dịch vụ của bạn có thể áp dụng với việc tải xuống ảnh.";
+
+/* newuser_account_current_accounts */
+"newuser_account_current_accounts" = "Tài khoản Hiện tại";
+
+/* cloud_personal_cut_image */
+"cloud_personal_cut_image" = "Cắt xén";
+
+/* uninstall_confirm */
+"uninstall_confirm" = "Xác nhận gỡ cài đặt?";
+
+/* newuser_register_mobile_confirm */
+"newuser_register_mobile_confirm" = "Xác nhận số điện thoại";
+
+/* gallery_collage */
+"gallery_collage" = "Cắt dán";
+
+/* cloud_network_condition */
+"cloud_network_condition" = "Tải lên mạng";
+
+/* setting_cloud */
+"setting_cloud" = "Cài đặt Album Đám mây";
+
+/* gallery_cloud */
+"gallery_cloud" = "Album Đám mây";
+
+/* appwall_nav_close_button_title */
+"appwall_nav_close_button_title" = "đóng";
+
+/* user_center_nickname_select */
+"user_center_nickname_select" = "Thay đổi Tên";
+
+/* setting_password_change */
+"setting_password_change" = "Thay đổi mật khẩu Album";
+
+/* common_cancel */
+"common_cancel" = "Hủy bỏ";
+
+/* newuser_login_camera360_protocal */
+"newuser_login_camera360_protocal" = "Thỏa thuận Người dùng Camera360";
+
+/* gallery_import_tipsios6 */
+"gallery_import_tipsios6" = "Camera360 không có quyền truy cập Thư viện Ảnh của bạn. Vui lòng đi tới Cài đặt -> Quyền riêng tư -> Ảnh và bật Camera360.";
+
+/* kCameraHaveNoAuthorized */
+"kCameraHaveNoAuthorized" = "Dịch vụ camera không bật. Vì vậy mà không thể chụp ảnh. Bạn có thể bật thiết đặt Camera trong Cài đặt.\r\n(Đi tới Cài đặt->Quyền riêng tư->Camera->Bật Camera360)";
+
+/* takingPictures */
+"takingPictures" = "Camera";
+
+/* newuser_bind */
+"newuser_bind" = "Đang gắn kết";
+
+/* gallery_cloudBackupCompleted */
+"gallery_cloudBackupCompleted" = "Sao lưu hoàn thành!";
+
+/* gallery_cloudBackupingTip */
+"gallery_cloudBackupingTip" = "Đang sao lưu %zd ảnh";
+
+/* gallery_cloudBackuping */
+"gallery_cloudBackuping" = "Đang sao lưu";
+
+/* common_back */
+"common_back" = "Quay lại";
+
+/* setting_auto_upload */
+"setting_auto_upload" = "Tự động tải lên";
+
+/* gallery_cloudBackupOff */
+"gallery_cloudBackupOff" = "Tự động tắt sao lưu";
+
+/* setting_auto */
+"setting_auto" = "Tự động";
+
+/* password_verify */
+"password_verify" = "Xác thực";
+
+/* gallery_puzzle_wornig */
+"gallery_puzzle_wornig" = "Ít nhất 2 ảnh";
+
+/* camera_uninstall_confirm */
+"camera_uninstall_confirm" = "Bạn có chắc mình muốn xóa %@ không?";
+
+/* store_installed */
+"store_installed" = "Áp dụng";
+
+/* password_answer */
+"password_answer" = "Trả lời:";
+
+/* password_answer_wrong */
+"password_answer_wrong" = "Trả lời không đúng. Vui lòng thử lại.";
+
+/* setting_album_encryption */
+"setting_album_encryption" = "Mã hóa Album";
+
+/* newuser_access_album_failed */
+"newuser_access_album_failed" = "Lỗi truy cập album";
+
+/* gallery_album */
+"gallery_album" = "Album";
+
+/* gallery_photos */
+"gallery_photos" = "Album";
+
+/* newuser_bind_mobile_benefit */
+"newuser_bind_mobile_benefit" = "Sau khi gắn kết thành công, bạn có thể đăng nhập bằng cách sử dụng số điện thoại và mật khẩu của mình.";
+
+/* newuser_bind_email_benefit */
+"newuser_bind_email_benefit" = "Sau khi gắn kết thành công, bạn có thể đăng nhập bằng cách sử dụng email và mật khẩu của mình.";
+
+/* newuser_invalid_account */
+"newuser_invalid_account" = "Số tài khoản không đúng";
+
+/* setting_about */
+"setting_about" = "Giới thiệu";
+
+/* password_too_short */
+"password_too_short" = "Ít nhất 3 điểm sẽ được liên kết.\nVui lòng thử lại.";
+
+/* gallery_downloadingTip */
+"gallery_downloadingTip" = "Đang tải xuống %zd ảnh";
+
+/* effect_cannot_apply */
+"effect_cannot_apply" = "Chỉnh sửa %@ không được hỗ trợ";
+
+/* common_InstallSoftware_missing */
+"common_InstallSoftware_missing" = "%@ máy khách chưa được cài đặt, nhớ cài đặt ngay lập tức?";
+
+/* effects_include */
+"effects_include" = "Nội dung";
+
+/* camera360_camera_idle_check */
+"camera360_camera_idle_check" = "Không hoạt động quá 180 giây, đang ngủ đông...";
+
+/* camera_effectSelectView_effectStore */
+"camera_effectSelectView_effectStore" = "CH Hiệu ứng";
+
+/* camera_effect_collect_favEffects */
+"camera_effect_collect_favEffects" = "Thêm hiệu ứng vào yêu thích";
+
+/* camera_effect_name_origin */
+"camera_effect_name_origin" = "Gốc";
+
+/* camera_menu_tip_nightMode_off */
+"camera_menu_tip_nightMode_off" = "Tắt Chế độ Ban đêm";
+
+/* camera_menu_tip_nightMode_on */
+"camera_menu_tip_nightMode_on" = "Bật Chế độ Ban đêm";
+
+/* camera_menu_tip_selfNightMode_off */
+"camera_menu_tip_selfNightMode_off" = "Tắt Selfie Ban đêm";
+
+/* camera_menu_tip_selfNightMode_on */
+"camera_menu_tip_selfNightMode_on" = "Bật Selfie Ban đêm";
+
+/* camera_menu_tip_touchCapture_off */
+"camera_menu_tip_touchCapture_off" = "Tắt chụp cảm ứng";
+
+/* camera_menu_tip_touchCapture_on */
+"camera_menu_tip_touchCapture_on" = "Bật chụp cảm ứng";
+
+/* camera_scene */
+"camera_scene" = "Camera Áp phích";
+
+/* camera_tip_AF_AE_lock */
+"camera_tip_AF_AE_lock" = "EV tự động/khóa lấy nét";
+
+/* camera_tip_ask_enable_live_preview */
+"camera_tip_ask_enable_live_preview" = "Bật xem trước trực tiếp ";
+
+/* camera_tip_autoEffect */
+"camera_tip_autoEffect" = "Easy Cam";
+
+/* camera_tip_capture_photoing */
+"camera_tip_capture_photoing" = "Đang khởi tạo ảnh";
+
+/* camera_tip_slient_capture_alert */
+"camera_tip_slient_capture_alert" = "Bật chế độ chụp im lặng, kích cỡ và chất lượng ảnh sẽ bị ảnh hưởng";
+
+/* camera_tip_slient_mode_off */
+"camera_tip_slient_mode_off" = "Tắt chế độ chụp im lặng";
+
+/* cloud_request_cancel */
+"cloud_request_cancel" = "Đã hủy bỏ";
+
+/* homepage_camera */
+"homepage_camera" = "Camera";
+
+/* homepage_setting */
+"homepage_setting" = "Tôi";
+
+/* newuser_find_password_tip */
+"newuser_find_password_tip" = "Vui lòng nhập địa chỉ email được đăng ký của bạn và chúng tôi sẽ gửi cho bạn một mật khẩu ngẫu nhiên.";
+
+/* newuser_logout */
+"newuser_logout" = "Đăng thoát";
+
+/* newuser_password_invalid */
+"newuser_password_invalid" = "MK yêu cầu 6-20 ký tự";
+
+/* setting_footer_hint1 */
+"setting_footer_hint1" = "Bạn có thể chọn về trang chủ hoặc vào giao diện camera sau khi khởi động ứng dụng.";
+
+/* setting_footer_hint2 */
+"setting_footer_hint2" = "Bật xem trước trực tiếp để xem các hiệu ứng trên giao diện chụp, nhưng có thể bị giật.";
+
+/* setting_footer_hint3 */
+"setting_footer_hint3" = "Bật sẽ lưu ảnh thành ảnh bản sao khi sử dụng ống kính trước.";
+
+/* setting_front_mirror */
+"setting_front_mirror" = "Chế độ Bản sao";
+
+/* setting_photo_save */
+"setting_photo_save" = "Cài đặt lưu ảnh";
+
+/* setting_photo_save_hint1 */
+"setting_photo_save_hint1" = "Bạn có thể chọn lưu ảnh tự động sau khi chụp.";
+
+/* setting_photo_save_hint2 */
+"setting_photo_save_hint2" = "Nếu tắt, bạn có thể xuất ảnh thủ công vào album hệ thống của bạn.";
+
+/* setting_start_ui */
+"setting_start_ui" = "GD khởi động";
+
+/* auto_camera_scene_portrait */
+"auto_camera_scene_portrait" = "Chân dung";
+
+/* auto_camera_scene_dark */
+"auto_camera_scene_dark" = "Tối";
+
+/* auto_camera_scene_night */
+"auto_camera_scene_night" = "Ban đêm";
+
+/* auto_camera_scene_backlight */
+"auto_camera_scene_backlight" = "Đèn nền";
+
+/* auto_camera_scene_view */
+"auto_camera_scene_view" = "Phong cảnh";
+
+/* auto_camera_tips_group */
+"auto_camera_tips_group" = "Nhóm";
+
+/* store_keep_last_one_effect_package */
+"store_keep_last_one_effect_package" = "Giữ ít nhất một gói hiệu ứng";
+
+/* homepage_appCenter */
+"homepage_appCenter" = "Danh sách ứng dụng";
+
+/* gallery_puzzle_savedPhoto */
+"gallery_puzzle_savedPhoto" = "Đã lưu thành công";
+
+/* camera_tip_AF_AE_lock_front */
+"camera_tip_AF_AE_lock_front" = "Khóa Tự động Phơi sáng";
+
+/* settingView_FQ */
+"settingView_FQ" = "FAQ";
+
+/* camera_select_ratio */
+"camera_select_ratio" = "Tỷ lệ";
+
+/* camera_select_multigrid */
+"camera_select_multigrid" = "Multigrid";
+
+/* camera_select_doubleEx */
+"camera_select_doubleEx" = "Double Ex";
+
+/* user_center_tokenExpire */
+"user_center_tokenExpire" = "Tài khoản người dùng đã hết hạn, để khôi phục sao lưu ảnh tự động, vui lòng nhập mật khẩu của bạn và đăng nhập";
+
+/* afterEditImage_savedToAlbum */
+"afterEditImage_savedToAlbum" = "Đã lưu vào album";
+
+/* loadPage_skip */
+"loadPage_skip" = "Bỏ qua";
+
+/* app_shortcut_camera */
+"app_shortcut_camera" = "Easy Camera";
+
+/* app_shortcut_selfie */
+"app_shortcut_selfie" = "Selfie Camera";
+
+/* app_shortcut_album */
+"app_shortcut_album" = "Album của Tôi";
+
+/* camera_menu_tip_oneKeyBeautyMode_on */
+"camera_menu_tip_oneKeyBeautyMode_on" = "Bật Tự động bao";
+
+/* camera_menu_tip_oneKeyBeautyMode_off */
+"camera_menu_tip_oneKeyBeautyMode_off" = "Tắt Tự động bao";
+
+/* skin */
+"skin" = "Làn da";
+
+/* newUser_inputcode_retry */
+"newUser_inputcode_retry" = "Nhận về";
+
+/* Edit template */
+"Edit template" = "Chỉnh sửa mẫu";
+
+/* dynamic_stickers_downloadFail_tips */
+"dynamic_stickers_downloadFail_tips" = "Tải xuống thất bại, kiểm tra kết nối!";
+
+/* dynamic_stickers_align_face */
+"dynamic_stickers_align_face" = "Căn khuôn mặt của bạn";
+
+/* video_preview_title */
+"video_preview_title" = "Xem trước";
+
+/* video_preview_share_stickerVideo_title */
+"video_preview_share_stickerVideo_title" = "Nhãn dán Vui Camera360";
+
+/* video_preview_share_stickerVideo_content */
+"video_preview_share_stickerVideo_content" = "Thật là một nhãn dán màu nhiệm, khiến tôi thấy mê ly, bạn có muốn thử không?";
+
+/* video_preview_savevideo_fail */
+"video_preview_savevideo_fail" = "Lưu thất bại, thử lại";
+
+/* video_preview_author_tips */
+"video_preview_author_tips" = "Để lưu video, đi tới: Cài đặt -> Quyền riêng tư -> Ảnh -> Camera360";
+
+/* video_preview_save */
+"video_preview_save" = "Lưu";
+
+/* video_preview_uploading */
+"video_preview_uploading" = "Đang tải lên...";
+
+/* video_longTap_take_video_tips */
+"video_longTap_take_video_tips" = "Giữ để ghi";
+
+/* video_preview_voice_author_tips */
+"video_preview_voice_author_tips" = "Dịch vụ micrô tắt, không thể ghi âm thanh. Bạn có thể đi tới Cài đặt để bật dịch vụ này. \r\n(Cài đặt-Quyền riêng tư-Micrô-Bật Mic cho Camera360)";
+
+/* video_preview_save_success */
+"video_preview_save_success" = "Đã lưu";
+
+/* grid_Ex_disable_recordVideo */
+"grid_Ex_disable_recordVideo" = "Không thể ghi trong khi MultiGrid hoặc Double EX được bật";
+
+/* dynamic_stickers_isnotSupport */
+"dynamic_stickers_isnotSupport" = "Rất tiếc khi phải thông báo rằng điện thoại di động của bạn không hỗ trợ \"Nhãn dán Vui\" do vấn đề với hiệu năng và tính tương thích";
+
+/* sticker_share_lock_title */
+"sticker_share_lock_title" = "Nhãn dán Vui Camera360";
+
+/* sticker_share_lock_content */
+"sticker_share_lock_content" = "Thật là một nhãn dán màu nhiệm, khiến tôi thấy mê ly, bạn có muốn thử không?";
+
+/* user_center_weixin_login */
+"user_center_weixin_login" = "WeChat";
+
+/* user_center_login_tips */
+"user_center_login_tips" = "Đăng nhập lần cuối";
+
+/* notification_camera360_title */
+"notification_camera360_title" = "Bật Thông báo Camera360";
+
+/* notification_camera360_tips */
+"notification_camera360_tips" = "Đừng bỏ lỡ \"Likes\" từ những người dùng khắp nơi trên thế giới❤️";
+
+/* notification_camera360_ok */
+"notification_camera360_ok" = "Kích hoạt";
+
+/* c_mall */
+"c_mall" = "Đổi Điểm";
+
+/* setting_privacypolicy */
+"setting_privacypolicy" = "Chính sách Quyền riêng tư";
+
+/* faceAction_openMouth_tips */
+"faceAction_openMouth_tips" = "Mở miệng";
+
+/* faceAction_raiseEyebrow_tips */
+"faceAction_raiseEyebrow_tips" = "Nhướn mày";
+
+/* resultPage_share_to */
+"resultPage_share_to" = "chia sẻ với";
+
+/* Ccoin */
+"Ccoin" = "C coin";
+
+/* welcome_start_now_btn_title */
+"welcome_start_now_btn_title" = "Bắt đầu Ngay bây giờ";
+
+/* store_buy_tip_content */
+"store_buy_tip_content" = "Bao gồm tổng cộng %zd bộ trong số %@ nhãn dán hoàn toàn mới, đừng bỏ lỡ!";
+
+/* store_buy_now */
+"store_buy_now" = "Mua ngay bây giờ";
+
+/* store_restore_all */
+"store_restore_all" = "Khôi phục";
+
+/* sticker_restore_all_tip */
+"sticker_restore_all_tip" = "Khôi phục tất cả nhãn dán đã mua trong môi trường không có wifi?";
+
+/* sticker_manage */
+"sticker_manage" = "Quản lý nhãn dán";
+
+/* sticker_no_downloads */
+"sticker_no_downloads" = "Không tải xuống";
+
+/* store_restore_nostickers */
+"store_restore_nostickers" = "Không có dán nhãn nào để khôi phục";
+
+/* store_feedback */
+"store_feedback" = "Phản hồi";
+
+/* afterEditView_Processing */
+"afterEditView_Processing" = "Đang xử lý";
+
+/* auth_tips_titles */
+"auth_tips_titles" = "Để dùng Camera360 tốt nhất \n cần bật truy cập bên dưới";
+
+/* auth_camera_title */
+"auth_camera_title" = "TC camera";
+
+/* auth_camera_des */
+"auth_camera_des" = "Bật chụp";
+
+/* auth_mic_title */
+"auth_mic_title" = "Truy cập mic";
+
+/* auth_mic_des */
+"auth_mic_des" = "Ghi âm khi quay";
+
+/* auth_location_title */
+"auth_location_title" = "TC vị trí";
+
+/* auth_location_des */
+"auth_location_des" = "Ảnh cùng vị trí";
+
+/* auth_notification_title */
+"auth_notification_title" = "Truy cập thông báo";
+
+/* auth_notification_des */
+"auth_notification_des" = "Bật nhận nhắc nhở";
+
+/* auth_got */
+"auth_got" = "Hiểu";
+
+/* product_share_to_unlock */
+"product_share_to_unlock" = "Chia sẻ để mở khóa";
+
+/* newImagePicker_takePhoto_now */
+"newImagePicker_takePhoto_now" = "Hiện Đang chụp";
+
+/* video_duration_exceed_prompt */
+"video_duration_exceed_prompt" = "Video không được quá %zd giây";
+
+/* video_import_not_support */
+"video_import_not_support" = "Nhập video không được hỗ trợ";
+
+/* video_import_fail */
+"video_import_fail" = "Xuất không thành công";
+
+/* poker_error_tips */
+"poker_error_tips" = "Xin lỗi, vui lòng thử lại";
+
+/* poker_making_tips */
+"poker_making_tips" = "Bộ lọc này cần ánh xạ mạng, có thể mất một lúc";
+
+/* poker_notSupportGrid_tips */
+"poker_notSupportGrid_tips" = "Bộ lọc này không hỗ trợ phơi sáng kép hoặc đa lưới";
+
+/* album_select_more_tip */
+"album_select_more_tip" = "Có thể chọn nhiều nhất %tu ảnh";
+
+/* album_select_one_video */
+"album_select_one_video" = "Chỉ có thể chọn 1 video";
+
+/* album_select_only_photos */
+"album_select_only_photos" = "Chỉ có thể chọn ảnh ở chế độ này";
+
+/* effect_store_vip */
+"effect_store_vip" = "Chỉ thành viên";
+
+/* pc_challenge */
+"pc_challenge" = "Thách thức";
+
+/* pc_remaining_days */
+"pc_remaining_days" = "%d ngày còn lại";
+
+/* pc_over */
+"pc_over" = "Kết thúc";
+
+/* pc_my_works */
+"pc_my_works" = "Công việc của tôi";
+
+/* pc_outstanding_works */
+"pc_outstanding_works" = "Công việc chưa hoàn thành";
+
+/* pc_join */
+"pc_join" = "Tham gia";
+
+/* pc_vote */
+"pc_vote" = "Vote";
+
+/* pc_task_vote */
+"pc_task_vote" = "Bầu";
+
+/* pc_waiting_for_vote */
+"pc_waiting_for_vote" = "Đang bầu chọn";
+
+/* pc_prepare */
+"pc_prepare" = "Đang chuẩn bị";
+
+/* pc_interest_people */
+"pc_interest_people" = "Người quan tâm";
+
+/* pc_recommend_for_you */
+"pc_recommend_for_you" = "Được khuyến cáo";
+
+/* pc_publish */
+"pc_publish" = "Gửi";
+
+/* pc_feed_recommend_title */
+"pc_feed_recommend_title" = "Không có theo dõi";
+
+/* pc_feed_recommend_desc */
+"pc_feed_recommend_desc" = "Cô đơn chán lắm~";
+
+/* pc_unable_get_location */
+"pc_unable_get_location" = "Không thể lấy được địa điểm";
+
+/* pc_c_coins */
+"pc_c_coins" = "C coin";
+
+/* pc_experience */
+"pc_experience" = "Kinh nghiệm";
+
+/* pc_delete */
+"pc_delete" = "Xóa";
+
+/* pc_report */
+"pc_report" = "Báo cáo";
+
+/* pc_number_of_hits */
+"pc_number_of_hits" = "Số lần hit";
+
+/* pc_cross_city_hits */
+"pc_cross_city_hits" = "Số thành phố";
+
+/* pc_number_of_likes */
+"pc_number_of_likes" = "Số lần thích";
+
+/* pc_defeated_challengers */
+"pc_defeated_challengers" = "Đã đánh bại %d%% người thách thức ở 《%@》";
+
+/* pc_obtain_reward */
+"pc_obtain_reward" = "Nhận phần thưởng";
+
+/* pc_users_support_your_selection */
+"pc_users_support_your_selection" = "%d%% người dùng ủng hộ lựa chọn của bạn";
+
+/* pc_goto_challenge */
+"pc_goto_challenge" = "Đi tới thách thức";
+
+/* pc_wait_for_more_works */
+"pc_wait_for_more_works" = "vui lòng chờ xử lý thêm";
+
+/* pc_vote_end */
+"pc_vote_end" = "Bầu chọn kết thúc";
+
+/* pc_vote_work_and_get_coins */
+"pc_vote_work_and_get_coins" = "Tác phẩm càng nhận được nhiều bầu chọn, thứ hạng của tác phẩm sẽ càng cao và bạn sẽ nhận được càng nhiều C coin";
+
+/* pc_ok */
+"pc_ok" = "OK";
+
+/* pc_delete_success */
+"pc_delete_success" = "Đã xóa";
+
+/* pc_reported_success */
+"pc_reported_success" = "Đã báo cáo thành công";
+
+/* pc_just_now */
+"pc_just_now" = "Chỉ lúc này";
+
+/* pc_minutes_ago */
+"pc_minutes_ago" = "%d phút trước";
+
+/* pc_hours_ago */
+"pc_hours_ago" = "%d giờ trước";
+
+/* pc_days_ago */
+"pc_days_ago" = "%d ngày trước";
+
+/* pc_months_ago */
+"pc_months_ago" = "%d tháng trước";
+
+/* pc_years_ago */
+"pc_years_ago" = "%d năm trước";
+
+/* pc_congratulation_on_getting */
+"pc_congratulation_on_getting" = "Chúc mừng vì đã nhận được";
+
+/* pc_share */
+"pc_share" = "Chia sẻ";
+
+/* pc_start_voting */
+"pc_start_voting" = "Bắt đầu Bầu chọn";
+
+/* pc_yesterday */
+"pc_yesterday" = "Hôm qua";
+
+/* pc_pass */
+"pc_pass" = "Pass";
+
+/* pc_in_challenge */
+"pc_in_challenge" = "Tham gia Thách thức";
+
+/* pc_work_has_been_deleted */
+"pc_work_has_been_deleted" = "Công việc đã bị xóa";
+
+/* pc_get_num_of_ranking */
+"pc_get_num_of_ranking" = "Thứ hạng %d";
+
+/* pc_login_obtain_experience */
+"pc_login_obtain_experience" = "Đăng nhập để tìm hiểu thêm nội dung";
+
+/* pc_login */
+"pc_login" = "Đăng nhập";
+
+/* pc_collection */
+"pc_collection" = "Bộ sưu tập";
+
+/* pc_saved */
+"pc_saved" = "Đã lưu";
+
+/* pc_removed */
+"pc_removed" = "Loại bỏ";
+
+/* pc_download_template */
+"pc_download_template" = "Tải xuống mẫu";
+
+/* pc_use_template */
+"pc_use_template" = "Sử dụng mẫu";
+
+/* pc_c_store_coming_soon */
+"pc_c_store_coming_soon" = "Cửa hàng C sắp ra mắt";
+
+/* pc_join_challenge */
+"pc_join_challenge" = "Tham gia Thách thức";
+
+/* pc_participants_num */
+"pc_participants_num" = "%@ người tham gia";
+
+/* pc_participants_num2 */
+"pc_participants_num2" = "%zd đối thủ";
+
+/* pc_hot_task */
+"pc_hot_task" = "Thách thức phổ biển";
+
+/* pc_challenge_people */
+"pc_challenge_people" = "Người thách thức";
+
+/* pc_join_and_claim_rewards */
+"pc_join_and_claim_rewards" = "Tham gia ngay bây giờ và đòi phần thưởng";
+
+/* pc_ready_to_challenge */
+"pc_ready_to_challenge" = "《%@》Bạn sẵn sàng chưa?";
+
+/* pc_challenger */
+"pc_challenger" = "Người thách thức";
+
+/* pc_feed_lastImage_close */
+"pc_feed_lastImage_close" = "Đóng";
+
+/* pc_feed_lastImage_title */
+"pc_feed_lastImage_title" = "Ảnh mới nhất";
+
+/* pc_feed_lastImage_desc */
+"pc_feed_lastImage_desc" = "Đã chọn %li/%li ảnh";
+
+/* pc_feed_read_file_error */
+"pc_feed_read_file_error" = "Tệp dữ liệu bị hỏng";
+
+/* pc_feed_remove */
+"pc_feed_remove" = "Loại bỏ";
+
+/* pc_feed_upload_error */
+"pc_feed_upload_error" = "Phát hành thất bại";
+
+/* pc_follow */
+"pc_follow" = "Theo dõi";
+
+/* pc_fans */
+"pc_fans" = "Fan";
+
+/* pc_followed */
+"pc_followed" = "Followed";
+
+/* pc_mutual */
+"pc_mutual" = "Chung";
+
+/* pc_entry_rules */
+"pc_entry_rules" = "Quy tắc Nhập";
+
+/* pc_no_search_result_try_using_oher_keywords */
+"pc_no_search_result_try_using_oher_keywords" = "Không có kết quả tìm kiếm, thử lại với từ khóa khác!";
+
+/* pc_their_page_empty */
+"pc_their_page_empty" = "Ta vẫn chưa follow ai";
+
+/* pc_have_not_followed_and_add_friends */
+"pc_have_not_followed_and_add_friends" = "Chưa follow ai";
+
+/* pc_have_not_fans_and_add_friends */
+"pc_have_not_fans_and_add_friends" = "Vẫn chưa có fan, hãy tương tác nhiều hơn ~";
+
+/* pc_be_their_first_fan */
+"pc_be_their_first_fan" = "Ta vẫn chưa có fan, trở thành fan đầu tiên của Ta đi!";
+
+/* pc_contacts */
+"pc_contacts" = "Liên hệ";
+
+/* pc_failed_access_contacts */
+"pc_failed_access_contacts" = "Không thể truy cập Danh bạ";
+
+/* pc_current_account */
+"pc_current_account" = "Tài khoản hiện tại";
+
+/* pc_account_setting */
+"pc_account_setting" = "Cài đặt tài khoản";
+
+/* pc_beta_feedback */
+"pc_beta_feedback" = "Phản hồi beta";
+
+/* pc_super_camera */
+"pc_super_camera" = "Camera";
+
+/* pc_super_camera_2 */
+"pc_super_camera_2" = "Camera";
+
+/* pc_selfie */
+"pc_selfie" = "Selfie";
+
+/* pc_selfie_2 */
+"pc_selfie_2" = "Selfie";
+
+/* pc_enhance */
+"pc_enhance" = "Album";
+
+/* pc_ar_camera */
+"pc_ar_camera" = "AR camera";
+
+/* pc_bind_phone_and_search_contacts */
+"pc_bind_phone_and_search_contacts" = "Tìm bạn bè sau khi liên kết";
+
+/* pc_phone_number_bound */
+"pc_phone_number_bound" = "Số điện thoại đã liên kết";
+
+/* pc_reply */
+"pc_reply" = "Trả lời";
+
+/* pc_contacts_friend */
+"pc_contacts_friend" = "Bạn trong danh bạ - %@";
+
+/* pc_failed_to_bind */
+"pc_failed_to_bind" = "Không thể liên kết";
+
+/* pc_capture_challenge */
+"pc_capture_challenge" = "Thách thức Chụp";
+
+/* pc_comment */
+"pc_comment" = "Bình luận";
+
+/* pc_message_comment */
+"pc_message_comment" = "Bình luận";
+
+/* pc_enter_what_you_want_to_say */
+"pc_enter_what_you_want_to_say" = "Nói gì đi...";
+
+/* pc_send */
+"pc_send" = "Gửi";
+
+/* pc_comment_has_been_deleted */
+"pc_comment_has_been_deleted" = "Nhận xét đã bị xóa";
+
+/* pc_content_has_been_deleted */
+"pc_content_has_been_deleted" = "Nội dung đã bị xóa";
+
+/* pc_likes_num */
+"pc_likes_num" = "%ld Thích";
+
+/* pc_long_photo */
+"pc_long_photo" = "Dài";
+
+/* pc_tap_zan */
+"pc_tap_zan" = "Thích";
+
+/* pc_check_all_comments */
+"pc_check_all_comments" = "Kiểm tra tất cả %ld bình luận";
+
+/* pc_check_detail */
+"pc_check_detail" = "Kiểm tra chi tiết";
+
+/* pc_create_relay */
+"pc_create_relay" = "Tạo Chuyển tiếp";
+
+/* pc_delete_this_comment */
+"pc_delete_this_comment" = "Xóa bình luận này";
+
+/* pc_all_comments */
+"pc_all_comments" = "Tất cả bình luận";
+
+/* pc_his_her_comment */
+"pc_his_her_comment" = "Bình luận của cô/anh ấy";
+
+/* pc_details */
+"pc_details" = "Chi tiết";
+
+/* pc_comment_words_too_many */
+"pc_comment_words_too_many" = "Bình luận quá dài, tối đa 140 chữ";
+
+/* pc_reply_someone */
+"pc_reply_someone" = "Trả lời %@";
+
+/* pc_network_error_try_again */
+"pc_network_error_try_again" = "Lỗi mạng, thử lại sau";
+
+/* pc_more */
+"pc_more" = "Hơn";
+
+/* pc_friends_new_comment */
+"pc_friends_new_comment" = "Cập nhật bạn bè";
+
+/* pc_relay */
+"pc_relay" = "Chuyển tiếp";
+
+/* pc_follow_someone */
+"pc_follow_someone" = "Đã theo dõi";
+
+/* pc_like_photo_num */
+"pc_like_photo_num" = "Đã thích %ld ảnh";
+
+/* pc_friends_moments */
+"pc_friends_moments" = "Khoảnh khắc Bạn bè";
+
+/* pc_recommended_users */
+"pc_recommended_users" = "Người dùng đề xuất";
+
+/* pc_bind_phone_number */
+"pc_bind_phone_number" = "Liên kết số điện thoại";
+
+/* pc_bound_success */
+"pc_bound_success" = "Đã liên kết";
+
+/* pc_recommend */
+"pc_recommend" = "Đề xuất";
+
+/* pc_your_friends_from_contacts_and_facebook */
+"pc_your_friends_from_contacts_and_facebook" = "Bạn bè của bạn";
+
+/* pc_tag */
+"pc_tag" = "Tag";
+
+/* pc_user */
+"pc_user" = "Người dùng";
+
+/* pc_load_more */
+"pc_load_more" = "Tải thêm";
+
+/* pc_tap_screen_to_reload */
+"pc_tap_screen_to_reload" = "Nhấn màn hình để tải lại";
+
+/* pc_join_relay */
+"pc_join_relay" = "Tham gia chuyển tiếp";
+
+/* pc_like */
+"pc_like" = "Thích";
+
+/* pc_say_something */
+"pc_say_something" = "Nói gì đó (trong vòng 140 từ)";
+
+/* pc_post_preview */
+"pc_post_preview" = "Xem trước bài đăng";
+
+/* pc_remind_who_viewed */
+"pc_remind_who_viewed" = "Nhắc nhở ai đã xem";
+
+/* pc_turn_on_location_services */
+"pc_turn_on_location_services" = "Bật dịch vụ định vị";
+
+/* pc_shoot */
+"pc_shoot" = "Chụp";
+
+/* pc_shoot_camera */
+"pc_shoot_camera" = "Chụp";
+
+/* pc_short_video */
+"pc_short_video" = "Video";
+
+/* pc_can_not_exceed_words */
+"pc_can_not_exceed_words" = "Không được vượt quá 140 từ";
+
+/* pc_my_messages */
+"pc_my_messages" = "Tin nhắn của tôi";
+
+/* pc_mine */
+"pc_mine" = "Của tôi";
+
+/* pc_message_mine */
+"pc_message_mine" = "Của tôi";
+
+/* pc_toolbar_mine */
+"pc_toolbar_mine" = "Của tôi";
+
+/* pc_zan */
+"pc_zan" = "Thích";
+
+/* pc_message_zan */
+"pc_message_zan" = "Thích";
+
+/* pc_new_fans */
+"pc_new_fans" = "Fan mới";
+
+/* pc_message_fans */
+"pc_message_fans" = "Fan mới";
+
+/* pc_notification */
+"pc_notification" = "Thông báo";
+
+/* pc_message_notification */
+"pc_message_notification" = "Thông báo";
+
+/* pc_set_portrait_personal_info */
+"pc_set_portrait_personal_info" = "Đặt chân dung, thông tin cá nhân";
+
+/* pc_add_friend */
+"pc_add_friend" = "Thêm bạn bè";
+
+/* pc_moments_num */
+"pc_moments_num" = "%@ Khoảnh khắc";
+
+/* pc_me */
+"pc_me" = "Tôi";
+
+/* pc_obtain_message */
+"pc_obtain_message" = "Lấy tin nhắn";
+
+/* pc_no_longger_receive_notification_if_setting */
+"pc_no_longger_receive_notification_if_setting" = "Bạn sẽ không nhận được thông báo nữa sau khi tắt";
+
+/* pc_notification_setting */
+"pc_notification_setting" = "Cài đặt thông báo";
+
+/* pc_creator */
+"pc_creator" = "Người khởi tạo";
+
+/* pc_num_people_relaying */
+"pc_num_people_relaying" = "X người đang chuyển tiếp";
+
+/* pc_num_people_answering */
+"pc_num_people_answering" = "X người đang trả lời";
+
+/* pc_newest */
+"pc_newest" = "Mới nhất";
+
+/* pc_hottest */
+"pc_hottest" = "Phổ biến nhất";
+
+/* pc_searching */
+"pc_searching" = "Đang tìm kiếm...";
+
+/* pc_get_reward */
+"pc_get_reward" = "giải thưởng";
+
+/* pc_acctount_info */
+"pc_acctount_info" = "Thông tin tài khoản";
+
+/* pc_about_camera360 */
+"pc_about_camera360" = "Giới thiệu Camera360";
+
+/* pc_settings */
+"pc_settings" = "Cài đặt";
+
+/* pc_plaza */
+"pc_plaza" = "Plaza";
+
+/* pc_featured_video */
+"pc_featured_video" = "Video nổi bật";
+
+/* pc_people_nearby */
+"pc_people_nearby" = "Người gần đó";
+
+/* pc_recommended_content */
+"pc_recommended_content" = "Nội dung đề xuất";
+
+/* pc_hot_works */
+"pc_hot_works" = "Tác phẩm phổ biến";
+
+/* pc_ad */
+"pc_ad" = "Quảng cáo";
+
+/* pc_hot */
+"pc_hot" = "Phổ biến";
+
+/* pc_edit_featured */
+"pc_edit_featured" = "Chỉnh sửa nổi bật";
+
+/* pc_not_logged_in */
+"pc_not_logged_in" = "Đăng nhập / Đăng ký";
+
+/* pc_user_center */
+"pc_user_center" = "Tôi";
+
+/* pc_my_c_points */
+"pc_my_c_points" = "C point của Tôi";
+
+/* pc_local_album */
+"pc_local_album" = "Album cục bộ";
+
+/* pc_moments */
+"pc_moments" = "chốc lát";
+
+/* pc_like_home */
+"pc_like_home" = "Thích";
+
+/* pc_follow_home */
+"pc_follow_home" = "Theo dõi";
+
+/* pc_fans_home */
+"pc_fans_home" = "Fan";
+
+/* newuser_editinfo */
+"newuser_editinfo" = "Chỉnh sửa thông tin";
+
+/* pc_come_from */
+"pc_come_from" = "Từ %@";
+
+/* pc_friends */
+"pc_friends" = "Bạn bè";
+
+/* pc_publish_friends */
+"pc_publish_friends" = "Bạn bè";
+
+/* pc_homepage */
+"pc_homepage" = "Trang chủ";
+
+/* pc_message */
+"pc_message" = "Tin nhắn";
+
+/* pc_share_moments */
+"pc_share_moments" = "Chia sẻ khoảnh khắc☺";
+
+/* pc_share_title2 */
+"pc_share_title2" = "Chia sẻ khoảnh khắc";
+
+/* pc_not_show_location */
+"pc_not_show_location" = "Không hiện vị trí";
+
+/* pc_take_video */
+"pc_take_video" = "Video";
+
+/* pc_msglist_expand */
+"pc_msglist_expand" = "Bung rộng";
+
+/* pc_msglist_fold */
+"pc_msglist_fold" = "Gập lại";
+
+/* pc_task_unavailable */
+"pc_task_unavailable" = "Rất tiếc, thiết bị của bạn không thể tham gia thách thức bởi nó không tương thích";
+
+/* pc_more_video */
+"pc_more_video" = "Hơn";
+
+/* pc_square_slogan */
+"pc_square_slogan" = "Để bạn ngắm nhìn thế giới";
+
+/* pc_homepage_slidemore */
+"pc_homepage_slidemore" = "Trượt để tìm hiểu thêm";
+
+/* pc_homepage_seemore */
+"pc_homepage_seemore" = "Hãy để nhiều người hơn thấy khoảnh khắc của bạn";
+
+/* pc_people_follow_and_photo */
+"pc_people_follow_and_photo" = "Những người đến từ %@, có cập nhật mới";
+
+/* pc_posted_num_works */
+"pc_posted_num_works" = "%zd Bài đăng";
+
+/* pc_liked_num_works */
+"pc_liked_num_works" = "%zd Thích";
+
+/* pc_double_tap_your_favorite_works */
+"pc_double_tap_your_favorite_works" = "Nhấp đúp để Thích bài đăng yêu thích của bạn";
+
+/* intro_title1 */
+"intro_title1" = "Mở khoảnh khắc";
+
+/* intro_title2 */
+"intro_title2" = "Bỏ lỡ mọi lời chúc mừng";
+
+/* intro_title3 */
+"intro_title3" = "Cho phép tôi tìm";
+
+/* pc_dresser_apply */
+"pc_dresser_apply" = "Đăng ký chuyên gia";
+
+/* pc_dresser_apply_introduce */
+"pc_dresser_apply_introduce" = "Thông tin chuyên gia";
+
+/* pc_apply_tobe_dresser */
+"pc_apply_tobe_dresser" = "Trở thành chuyên gia";
+
+/* pc_dresser_owner_tag */
+"pc_dresser_owner_tag" = "Huân chương";
+
+/* pc_dresser_more_follow */
+"pc_dresser_more_follow" = "Thêm";
+
+/* pc_dresser_home_recommond */
+"pc_dresser_home_recommond" = "Được khuyến cáo";
+
+/* pc_dresser_idcard_show */
+"pc_dresser_idcard_show" = "Biểu tượng của chuyên gia";
+
+/* pc_dresser_will_recommond_global */
+"pc_dresser_will_recommond_global" = "Bạn sẽ được đề xuất với người dùng trên toàn cầu";
+
+/* pc_dresser_will_show_to_more_people */
+"pc_dresser_will_show_to_more_people" = "Hãy để nhiều người hơn thấy ảnh của bạn";
+
+/* pc_dresser_apply_condition_title */
+"pc_dresser_apply_condition_title" = "Nếu bạn đáp ứng điều kiện, bạn sẽ được phê chuẩn dễ dàng hơn!";
+
+/* pc_dresser_apply_condition_one */
+"pc_dresser_apply_condition_one" = "Thích sử dụng camera di động để chụp ảnh và thích chia sẻ";
+
+/* pc_dresser_apply_condition_two */
+"pc_dresser_apply_condition_two" = "Sở thích và góc độ độc đáo, như ghi hình khi đi du lịch hoặc chụp đồ ăn";
+
+/* pc_dresser_apply_condition_three */
+"pc_dresser_apply_condition_three" = "Đang là một ngôi sao trên mạng trực tuyến hoặc có xúc cảm";
+
+/* pc_dresser_apply_contact */
+"pc_dresser_apply_contact" = "Liên hệ";
+
+/* pc_dresser_apply_input_contact */
+"pc_dresser_apply_input_contact" = "Nhập email của bạn";
+
+/* pc_dresser_apply_self_introduce */
+"pc_dresser_apply_self_introduce" = "Thông tin bản thân";
+
+/* pc_dresser_apply_introduce_input */
+"pc_dresser_apply_introduce_input" = "Chuyên môn / sở thích / thói quen, v.v.";
+
+/* pc_dresser_apply_send */
+"pc_dresser_apply_send" = "Nộp yêu cầu";
+
+/* pc_apply_dresser_reviewed_tips */
+"pc_apply_dresser_reviewed_tips" = "Đã nộp, vui lòng đợi phê duyệt";
+
+/* pc_apply_dresser_reviewing */
+"pc_apply_dresser_reviewing" = "Đơn của bạn đang được xét duyệt, xin chờ";
+
+/* pc_apply_dresser_has_been_dresser */
+"pc_apply_dresser_has_been_dresser" = "Bạn đã là Talent rồi";
+
+/* pc_user_dresser */
+"pc_user_dresser" = "Chuyên gia";
+
+/* pc_feed_share_title */
+"pc_feed_share_title" = "Hãy để thế giới được thấy tối";
+
+/* pc_feed_share_sub_title */
+"pc_feed_share_sub_title" = "Tôi xin đề xuất một chia sẻ từ %@";
+
+/* pc_task_more */
+"pc_task_more" = "Thêm";
+
+/* pc_rec_topics */
+"pc_rec_topics" = "Chủ đề nổi bật";
+
+/* common_black_title */
+"common_black_title" = "Ô chẳng có gì cả!";
+
+/* common_loading_title */
+"common_loading_title" = "Đang tải...";
+
+/* common_noMore_data */
+"common_noMore_data" = "Không còn nội dung nữa...";
+
+/* pc_num_of_ranking */
+"pc_num_of_ranking" = "Thứ hạng %d";
+
+/* pc_obtaining_location */
+"pc_obtaining_location" = "Đang nhận địa điểm";
+
+/* pc_task_award */
+"pc_task_award" = "Quy tắc và giải thưởng";
+
+/* pc_feed_select_more */
+"pc_feed_select_more" = "Chỉ có thể chọn %zd ảnh";
+
+/* pc_feed_go_publishA */
+"pc_feed_go_publishA" = "Đăng (%zd)";
+
+/* pc_feed_go_publishB */
+"pc_feed_go_publishB" = "Đăng";
+
+/* pc_adrBook_access_prompt_title */
+"pc_adrBook_access_prompt_title" = "Từ chối quyền truy cập vào Danh bạ";
+
+/* pc_adrBook_access_title */
+"pc_adrBook_access_title" = "Truy cập vào Danh bạ";
+
+/* pc_adrBook_access_prompt_desc */
+"pc_adrBook_access_prompt_desc" = "Bật lên ngay>>";
+
+/* pc_adrBook_access_prompt_desc2 */
+"pc_adrBook_access_prompt_desc2" = "Bấm [Cài đặt]-[Quyền riêng tư]-[Danh bạ] của hệ thống, bật lên cho Camera360.";
+
+/* pc_photoMovie */
+"pc_photoMovie" = "Phim trình chiếu ảnh chụp";
+
+/* pc_publish_add_title */
+"pc_publish_add_title" = "Thêm nữa";
+
+/* intro_enterButton */
+"intro_enterButton" = "Bắt đầu Ngay bây giờ";
+
+/* pc_publish_show_location */
+"pc_publish_show_location" = "Hiển thị vị trí";
+
+/* pc_join_challenge_short */
+"pc_join_challenge_short" = "Tham gia";
+
+/* intro_sologan */
+"intro_sologan" = "Hãy để thế giới được thấy tối";
+
+/* puser_login_device_locked */
+"puser_login_device_locked" = "Tài khoản bị khóa, liên hệ dịch vụ khách hàng nếu có bất kỳ vấn đề nào";
+
+/* puser_login_to_much */
+"puser_login_to_much" = "Quá nhiều mục nhập không đúng, tài khoản sẽ bị khóa, thử lại sau hoặc khôi phục mật khẩu";
+
+/* puser_login_password_simple */
+"puser_login_password_simple" = "Mật khẩu quá đơn giản, hãy nhập lại";
+
+/* puser_OK */
+"puser_OK" = "OK";
+
+/* puser_BadRequest */
+"puser_BadRequest" = "Lỗi mạng, thử lại ";
+
+/* puser_InvalidParams */
+"puser_InvalidParams" = "Lỗi mạng, thử lại ";
+
+/* puser_ServerError */
+"puser_ServerError" = "Lỗi mạng, thử lại ";
+
+/* puser_InvalidSign */
+"puser_InvalidSign" = "Lỗi mạng, thử lại ";
+
+/* puser_SystemError */
+"puser_SystemError" = "Lỗi mạng, thử lại ";
+
+/* puser_EmailOrPwdError */
+"puser_EmailOrPwdError" = "Tài khoản hoặc mật khẩu không đúng, vui lòng nhập lại";
+
+/* puser_UserNotExistOrBeDeleted */
+"puser_UserNotExistOrBeDeleted" = "Tài khoản hoặc mật khẩu không đúng, vui lòng nhập lại";
+
+/* puser_UserAvatarFormatError */
+"puser_UserAvatarFormatError" = "Định dạng ảnh không đúng, vui lòng tải lên lại";
+
+/* puser_QiniuSaveAvatarFail */
+"puser_QiniuSaveAvatarFail" = "Tải lên ảnh đại diện thất bại.";
+
+/* puser_NeedLogin */
+"puser_NeedLogin" = "Lỗi tài khoản, vui lòng đăng nhập lại ";
+
+/* puser_UserTokenError */
+"puser_UserTokenError" = "Lỗi tài khoản, vui lòng đăng nhập lại ";
+
+/* puser_UserAlreadyReg */
+"puser_UserAlreadyReg" = "Email đã được đăng ký,\nđăng nhập? ";
+
+/* puser_VerifyCodeSentErrorBySMSProvider */
+"puser_VerifyCodeSentErrorBySMSProvider" = "Lỗi mạng, thử lại";
+
+/* puser_VerifyCodeSentTooFast */
+"puser_VerifyCodeSentTooFast" = "Yêu cầu quá thường xuyên, thử lại sau";
+
+/* puser_MobileNumberAlreadyRegWithoutPwd */
+"puser_MobileNumberAlreadyRegWithoutPwd" = "Số đã được đăng ký, đăng nhập? ";
+
+/* puser_MobileNumberAlreadyRegWithPwd */
+"puser_MobileNumberAlreadyRegWithPwd" = "Số đã được đăng ký, đăng nhập? ";
+
+/* puser_SendVerifyCodeExceedThreshold */
+"puser_SendVerifyCodeExceedThreshold" = "Yêu cầu quá thường xuyên, thử lại sau";
+
+/* puser_VerifyCodeInvalid */
+"puser_VerifyCodeInvalid" = "Mã số xác thực đã hết hạn, vui lòng lấy lại";
+
+/* puser_MobileNumberFormatError */
+"puser_MobileNumberFormatError" = "Số không hợp lệ";
+
+/* puser_VerifyCodeError */
+"puser_VerifyCodeError" = "Mã số không đúng, vui lòng nhập lại";
+
+/* puser_MobileNumberNotInUse */
+"puser_MobileNumberNotInUse" = "Số không tồn tại, nhập lại";
+
+/* puser_MobileNumberAlreadyInUse */
+"puser_MobileNumberAlreadyInUse" = "Email đã được đăng ký,đăng nhập?";
+
+/* puser_SendForgetPasswordEmailError */
+"puser_SendForgetPasswordEmailError" = "Email xác thực chưa gửi được";
+
+/* puser_SendConfirmationEmailError */
+"puser_SendConfirmationEmailError" = "Email xác thực chưa gửi được";
+
+/* puser_AccessTokenInvalid */
+"puser_AccessTokenInvalid" = "Lỗi tài khoản, vui lòng đăng nhập lại";
+
+/* puser_AccessTokenOrFetchThirdUserInfoError */
+"puser_AccessTokenOrFetchThirdUserInfoError" = "Lỗi tài khoản, vui lòng đăng nhập lại";
+
+/* puser_SNSAuthFailed */
+"puser_SNSAuthFailed" = "Không thể xác minh tin nhắn văn bản";
+
+/* puser_TheThirdUserAlreadyBinded */
+"puser_TheThirdUserAlreadyBinded" = "Tài khoản của bên thứ ba đã được liên kết";
+
+/* puser_InvalidDescription */
+"puser_InvalidDescription" = "Có từ ngữ bất hợp pháp";
+
+/* puser_PwdError */
+"puser_PwdError" = "Lỗi mật khẩu";
+
+/* puser_EmailNotInUse */
+"puser_EmailNotInUse" = "Emai không tồn tại, nhập lại";
+
+/* puser_EmailAlreadyInUsed */
+"puser_EmailAlreadyInUsed" = "Email đã được đăng ký,đăng nhập?";
+
+/* puser_EmailFormatError */
+"puser_EmailFormatError" = "Định dạng email không đúng";
+
+/* newuser_gender */
+"newuser_gender" = "Giới tính";
+
+/* puser_sign_facebook */
+"puser_sign_facebook" = "Đăng nhập bằng Facebook";
+
+/* puser_sign_twitter */
+"puser_sign_twitter" = "Đăng nhập bằng Twitter";
+
+/* newuser_area */
+"newuser_area" = "Khu vực";
+
+/* newuser_introduction */
+"newuser_introduction" = "Giới thiệu";
+
+/* newuser_male */
+"newuser_male" = "Nam";
+
+/* newuser_female */
+"newuser_female" = "Nữ";
+
+/* newuser_edit_address */
+"newuser_edit_address" = "Chỉnh sửa Địa chỉ";
+
+/* newuser_ready_location */
+"newuser_ready_location" = "Điều hướng tới vị trí";
+
+/* newuser_no_location */
+"newuser_no_location" = "Không thể tải vị trí của bạn";
+
+/* newuser_location_tips */
+"newuser_location_tips" = "Trong cài đặt hệ thống, mở \"quyền riêng tư - Dịch vụ Định vị\"và cho phép dịch vụ định vị Camera 360.";
+
+/* imagePicker_photo_video_mix_tips */
+"imagePicker_photo_video_mix_tips" = "Bạn không được có tác phẩm là ảnh và video";
+
+/* newuser_click_change_cover */
+"newuser_click_change_cover" = "Thay ảnh nền của bạn";
+
+/* pc_complete_you_profile_tobe_konw */
+"pc_complete_you_profile_tobe_konw" = "Hoàn tất hồ sơ của bạn sao cho nhiều người hơn quan tâm tới bạn.";
+
+/* pc_see_contacts_friends */
+"pc_see_contacts_friends" = "Danh bạ Xem các bạn của bạn là ai ở đây.";
+
+/* newuser_successfully_modified */
+"newuser_successfully_modified" = "Sửa thành công";
+
+/* newuser_password */
+"newuser_password" = "Mật khẩu";
+
+/* newuser_editintro */
+"newuser_editintro" = "Chỉnh sửa thông tin";
+
+/* newuser_fillintro */
+"newuser_fillintro" = "Nhập thông tin (40 từ hoặc ít hơn)";
+
+/* newuser_change_avatar */
+"newuser_change_avatar" = "Thay thế Avatar";
+
+/* newuser_avatar_drag_image */
+"newuser_avatar_drag_image" = "Kéo hình ảnh, điều chỉnh phạm vi hiển thị";
+
+/* newuser_change_cover */
+"newuser_change_cover" = "Thay thế ảnh bìa";
+
+/* cancle */
+"cancle" = "Hủy";
+
+/* newuser_edit_city_address */
+"newuser_edit_city_address" = "Chỉnh sửa địa chỉ thành phố";
+
+/* newuser_all_city */
+"newuser_all_city" = "Tất cả";
+
+/* newuser_eidt_province_address */
+"newuser_eidt_province_address" = "Chỉnh sửa địa chỉ tỉnh";
+
+/* newuser_send_code_success */
+"newuser_send_code_success" = "Mã xác thực đã gửi";
+
+/* newuser_sended */
+"newuser_sended" = "Đã gửi (%zds)";
+
+/* newuser_wechat_login */
+"newuser_wechat_login" = "Đăng nhập WeChat";
+
+/* newuser_sina_login */
+"newuser_sina_login" = "Đăng nhập Weibo";
+
+/* newuser_reginster_or_login */
+"newuser_reginster_or_login" = "Đăng nhập / Đăng ký";
+
+/* newuser_fillnickname */
+"newuser_fillnickname" = "Điền vào biệt danh (20 từ hoặc ít hơn)";
+
+/* newuser_editnickname */
+"newuser_editnickname" = "Chỉnh sửa biệt danh";
+
+/* pc_new_photo */
+"pc_new_photo" = "Ảnh mới nhất";
+
+/* pc_like_count_format */
+"pc_like_count_format" = "%@ Thích";
+
+/* pc_feed_detail_no_comment */
+"pc_feed_detail_no_comment" = "Không bình luận, hãy tải thêm!";
+
+/* common_network_error_refresh */
+"common_network_error_refresh" = "Lỗi mạng, vui lòng kiểm tra mạng";
+
+/* pgba_select */
+"pgba_select" = "Lựa chọn";
+
+/* pgba_thisWeek */
+"pgba_thisWeek" = "Tuần này";
+
+/* pgba_lastWeek */
+"pgba_lastWeek" = "Tuần trước";
+
+/* pgba_twoWeeksAgo */
+"pgba_twoWeeksAgo" = "Hai tuần trước";
+
+/* pgba_selected_n_photos */
+"pgba_selected_n_photos" = "%tu đã Chọn ";
+
+/* pgba_today */
+"pgba_today" = "Hôm nay";
+
+/* pgba_yesterday */
+"pgba_yesterday" = "Hôm qua";
+
+/* newuser_bind_china */
+"newuser_bind_china" = "Trung Quốc";
+
+/* newuser_inputcode_resend */
+"newuser_inputcode_resend" = "Gửi lại";
+
+/* newuser_complete_bind */
+"newuser_complete_bind" = "Đã liên kết";
+
+/* newuser_select_countrymobile_code */
+"newuser_select_countrymobile_code" = "Mã quốc gia";
+
+/* newuser_current_mobile_code */
+"newuser_current_mobile_code" = "Điện thoại hiện tại";
+
+/* pc_not_login_find_more_intresting */
+"pc_not_login_find_more_intresting" = "Nội dung thú vị";
+
+/* newuser_login_title */
+"newuser_login_title" = "Đăng ký";
+
+/* newuser_nickname_not_empty */
+"newuser_nickname_not_empty" = "Biệt danh không được để trống";
+
+/* newuser_gener_not_selected */
+"newuser_gener_not_selected" = "Giới tính chưa chọn";
+
+/* newuser_nickname_repeat */
+"newuser_nickname_repeat" = "Biệt danh đã sử dụng, chọn một cái khác";
+
+/* newuser_nickname_invalid */
+"newuser_nickname_invalid" = "Biệt danh không hợp lệ";
+
+/* pc_addFriends_search_userOrId */
+"pc_addFriends_search_userOrId" = "Tìm người dùng";
+
+/* pc_authorize_fail */
+"pc_authorize_fail" = "Không thể ủy quyền";
+
+/* newuser_bind_mobile_hasBeenBind */
+"newuser_bind_mobile_hasBeenBind" = "Số đã sử dụng";
+
+/* pc_task_over */
+"pc_task_over" = "挑战已结束";
+
+/* 登录下载 */
+"登录下载" = "Đăng nhập để tải xuống";
+
+/* 免费 */
+"免费" = "Miễn phí";
+
+/* 下载中 */
+"下载中" = "Đang tải";
+
+/* 立即使用 */
+"立即使用" = "Sử dụng ngay bây giờ";
+
+/* 素材管理 */
+"素材管理" = "Quản lý tài liệu";
+
+/* 移到最前 */
+"移到最前" = "Di chuyển lên đầu";
+
+/* 恢复已购 */
+"恢复已购" = "Khôi phục mua hàng";
+
+/* 管理 */
+"管理" = "Quản lý";
+
+/* 我喜欢 */
+"我喜欢" = "Mục ưa thích";
+
+/* 夜景关闭 */
+"夜景关闭" = "Chế độ ban đêm TẮT";
+
+/* 夜景打开 */
+"夜景打开" = "Chế độ ban đêm BẬT";
+
+/* 画幅 */
+"画幅" = "Khung";
+
+/* 定时 */
+"定时" = "Theo thời gian";
+
+/* 夜景 */
+"夜景" = "Chế độ ban đêm";
+
+/* 网格 */
+"网格" = "Lưới";
+
+/* 触屏拍照 */
+"触屏拍照" = "Chụp bằng cách chạm";
+
+/* 暗角 */
+"暗角" = "In màu";
+
+/* 虚化 */
+"虚化" = "Làm mờ";
+
+/* 静音相机 */
+"静音相机" = "Chụp ảnh im lặng";
+
+/* 设置 */
+"设置" = "Cài đặt";
+
+/* 暂无可用恢复素材 */
+"暂无可用恢复素材" = "Không tồn tại tài liệu được khôi phục nào";
+
+/* 暂无可用素材 */
+"暂无可用素材" = "Không tồn tại tài liệu nào";
+
+/* 分享下载 */
+"分享下载" = "Chia sẻ tải về";
+
+/* 解锁 */
+"解锁" = "Mở khóa";
+
+/* 补光 */
+"补光" = "Nạp thêm";
+
+/* 网络数据异常，请稍后再试 */
+"网络数据异常，请稍后再试" = "Lỗi dữ liệu mạng, vui lòng thử lại sau";
+
+/* 发生异常，请稍后再试 */
+"发生异常，请稍后再试" = "Có lỗi, vui lòng thử lại sau";
+
+/* 恢复 */
+"恢复" = "Phục hồi";
+
+/* 照片自动保存 */
+"照片自动保存" = "Ảnh lưu tự động";
+
+/* 全部照片 */
+"全部照片" = "Tất cả ảnh";
+
+/* 下载 */
+"下载" = "Tải xuống";
+
+/* 使用 */
+"使用" = "Sử dụng";
+
+/* 该素材不可用于编辑 */
+"该素材不可用于编辑" = "Tài liệu này không thể sử dụng để chỉnh sử";
+
+/* 点击花瓣继续 */
+"点击花瓣继续" = "Gõ nhẹ giao diện cánh hoa để tiếp tục";
+
+/* 精彩世界等你开启 */
+"精彩世界等你开启" = "Một thế giới thú vị đang chờ được mở ra";
+
+/* 进入 */
+"进入" = "Đi đến";
+
+/* 静音 */
+"静音" = "Câm";
+
+/* 您的系统版本过低，暂不支持该功能 */
+"您的系统版本过低，暂不支持该功能" = "Phiên bản hệ thống của bạn đã lỗi thời và không hỗ trợ chức năng này";
+
+/* 大小 */
+"大小" = "Kích cỡ";
+
+/* 您当前在非WIFI环境下，是否继续下载？ */
+"您当前在非WIFI环境下，是否继续下载？" = "Bạn hiện đang không có WIFI, tiếp tục tải xuống?";
+
+/* 内含X个素材 */
+"内含X个素材" = "Có chứa tài liệu %ld";
+
+/* 已下载 */
+"已下载" = "Đã tải xuống";
+
+/* 共%ld款 */
+"共%ld款" = "%ld tổng";
+
+/* 下载失败 */
+"下载失败" = "Tải xuống thất bại";
+
+/* 该内容不存在 */
+"该内容不存在" = "Nội dung không tồn tại";
+
+/* 置顶 */
+"置顶" = "Trên cùng";
+
+/* pc_share_to_sns */
+"pc_share_to_sns" = "Chia sẻ";
+
+/* pc_common_start_camera */
+"pc_common_start_camera" = "Bây giờ, hãy ghi lại cuộc sống của bạn bằng Camera360!";
+
+/* pc_feed_tips */
+"pc_feed_tips" = "Mẹo nhỏ";
+
+/* pc_feed_scrollTips */
+"pc_feed_scrollTips" = "Trượt màn hình để xem thêm chi tiết";
+
+/* pc_sns_translate_look */
+"pc_sns_translate_look" = "Xem bản dịch";
+
+/* pc_sns_translating */
+"pc_sns_translating" = "Đang dịch…";
+
+/* pc_sns_translate_hidden */
+"pc_sns_translate_hidden" = "Ẩn bản dịch";
+
+/* pc_sns_translate_translateError */
+"pc_sns_translate_translateError" = "Thử lại";
+
+/* pc_user_change_avatar */
+"pc_user_change_avatar" = "Đổi ảnh đại diện";
+
+/* pc_ad_seemore */
+"pc_ad_seemore" = "Xem thêm";
+
+/* pc_mesage_choiceWork */
+"pc_mesage_choiceWork" = "Bài viết được chọn lọc";
+
+/* pc_common_copy */
+"pc_common_copy" = "Copy";
+
+/* pc_media_share_title */
+"pc_media_share_title" = "Bạn đang nghĩ gì?";
+
+/* pc_comment_sending */
+"pc_comment_sending" = "Đang gửi";
+
+/* pc_comment_resend */
+"pc_comment_resend" = "Nhấn gửi lại";
+
+/* pc_download */
+"pc_download" = "Tải xuống";
+
+/* pc_downloading */
+"pc_downloading" = "Đang tải xuống...";
+
+/* pc_feed_detail_instruction */
+"pc_feed_detail_instruction" = "Hỗ trợ bình luận hình ảnh và trả lời bằng emotion~";
+
+/* pc_publish_instruction */
+"pc_publish_instruction" = "Có thể thêm emotion vào nội dung mô tả~";
+
+/* pc_normal_dresser_instruction */
+"pc_normal_dresser_instruction" = "Người dùng thiên tài, nhận dạng thân phận riêng";
+
+/* pc_vip_dresser_instruction */
+"pc_vip_dresser_instruction" = "Chứng nhận người dùng, hiển thị thân phận uy quyền";
+
+/* pc_offical_certification */
+"pc_offical_certification" = "Xác nhận chính thức";
+
+/* pc_comment_success */
+"pc_comment_success" = "Bình luận thành công";
+
+/* pc_no_comment_content_prompt */
+"pc_no_comment_content_prompt" = "Nhập bình luận";
+
+/* pc_edit_continue */
+"pc_edit_continue" = "Tiếp tục";
+
+/* 是否取消收藏当前特效 */
+"是否取消收藏当前特效" = "Gỡ bỏ hiệu ứng hiện tại khỏi mục Yêu thích?";
+
+/* 特效管理 */
+"特效管理" = "Quản lý hiệu ứng";
+
+/* 本地特效包 */
+"本地特效包" = "Gói hiệu ứng trong máy";
+
+/* 商店 */
+"商店" = "Lưu trữ";
+
+/* setting_clearCache */
+"setting_clearCache" = "Xóa cache";
+
+/* 立即下载 */
+"立即下载" = "Tải xuống ngay bây giờ";
+
+/* use_sticker_disable_tips_key */
+"use_sticker_disable_tips_key" = "When using stickers, frames and other settings will not be available";
+
+/* pc_search_empty_text */
+"pc_search_empty_text" = "Nhập nickname người dùng";
+
+/* pc_feed_select_video_more */
+"pc_feed_select_video_more" = "Chọn tối đa 1 video";
+
+/* pc_recent_contacts */
+"pc_recent_contacts" = "Liên hệ gần đây";
+
+/* pc_my_follows */
+"pc_my_follows" = "Bạn bè của Tôi";
+
+/* pc_at_friends */
+"pc_at_friends" = "@bạn";
+
+/* use_sticker_only_support_4_3 */
+"use_sticker_only_support_4_3" = "Khi sử dụng nhãn dán, chỉ hỗ trợ khung hình 4:3";
+
+/* use_sticker_not_support_vignette */
+"use_sticker_not_support_vignette" = "Khi sử dụng nhãn dán, không hỗ trợ mờ nét";
+
+/* use_sticker_not_support_blur */
+"use_sticker_not_support_blur" = "Khi sử dụng nhãn dán, không hỗ trợ làm mờ";
+
+/* use_sticker_not_support_night */
+"use_sticker_not_support_night" = "Khi sử dụng nhãn dán, không hỗ trợ chế độ ban đêm";
+
+/* use_sticker_not_support_timer */
+"use_sticker_not_support_timer" = "When using stickers, the timing function is not supported ";
+
+/* 动态照片 */
+"动态照片" = "Ảnh động";
+
+/* 视频保存失败，请重试 */
+"视频保存失败，请重试" = "Lưu video thất bại, thử lại";
+
+/* 画质 */
+"画质" = "Đồ họa";
+
+/* 请拖动图片，裁剪为正方形 */
+"请拖动图片，裁剪为正方形" = "Kéo và cắt thành ảnh vuông";
+
+/* 视频已保存到相册 */
+"视频已保存到相册" = "Video đã lưu trong bộ sưu tập";
+
+/* 照片动画 */
+"照片动画" = "Photomovie";
+
+/* 相机新玩法，让你的照片动起来 */
+"相机新玩法，让你的照片动起来" = "Chế độ làm bức ảnh chuyển động";
+
+/* 先添加内容才能生成视频哦 */
+"先添加内容才能生成视频哦" = "Thêm nội dung mới phát được video";
+
+/* 让你的照片动起来 */
+"让你的照片动起来" = "Làm ảnh của bạn chuyển động";
+
+/* 我用 Camera360 拍摄了%@，快来围观！ */
+"我用 Camera360 拍摄了%@，快来围观！" = "Tôi dùng Camera360 chụp %@, mau tới xem!";
+
+/* 一张照片 */
+"一张照片" = "1 bức ảnh";
+
+/* 一段短视频 */
+"一段短视频" = "1 đoạn video";
+
+/* Camera360，让世界看见我 */
+"Camera360，让世界看见我" = "Camera360, cho cả thế giới thấy tôi";
+
+/* 试试新功能，让照片动起来 */
+"试试新功能，让照片动起来" = "Thử tính năng mới, ảnh chuyển động";
+
+/* 照片已保存到相册 */
+"照片已保存到相册" = "Ảnh đã lưu vào album";
+
+/* 下一步 */
+"下一步" = "Bước sau";
+
+/* 直接分享，画质更清晰 */
+"直接分享，画质更清晰" = "Trực tiếp chia sẻ, chất lượng ảnh càng đẹp hơn";
+
+/* gallery_deletePhotoVideoTip */
+"gallery_deletePhotoVideoTip" = "Xoá %zd mục";
+
+/* gallery_deleteVideoTip */
+"gallery_deleteVideoTip" = "Xoá %zd video";
+
+/* 导出视频 */
+"导出视频" = "Tạo Video";
+
+/* pc_system_recommended_users */
+"pc_system_recommended_users" = "User hệ thống đề xuất";
+
+/* pc_topDresser_title */
+"pc_topDresser_title" = "Bảng Got Talent";
+
+/* pc_todDresser_banner_owner_desc */
+"pc_todDresser_banner_owner_desc" = "Biểu tượng vinh dự";
+
+/* pc_todDresser_banner_global_title */
+"pc_todDresser_banner_global_title" = "Toàn cầu đề xuất";
+
+/* pc_todDresser_banner_global_desc */
+"pc_todDresser_banner_global_desc" = "Nhiều người follow";
+
+/* pc_publsh_poi_title */
+"pc_publsh_poi_title" = "Chọn vị trí";
+
+/* pc_location_fail */
+"pc_location_fail" = "Định vị thất bại";
+
+/* pc_common_location_disable_title */
+"pc_common_location_disable_title" = "Không thể xác định vị trí";
+
+/* pc_common_location_disable_detail */
+"pc_common_location_disable_detail" = "Xin mở quyền định vị của Camera360";
+
+/* pc_common_start_service */
+"pc_common_start_service" = "Mở định vị";
+
+/* 微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享 */
+"微信最新版本，支持10秒以内视频，请打开微信后从相册选择视频分享" = "Available on WeChat 6.5.1 and above. You can select video and post it on WeChat moments directly";
+
+/* 分享到朋友圈 */
+"分享到朋友圈" = "Share to WeChat moments";
+
+/* 打开微信 */
+"打开微信" = "Open WeChat";
+
+/* pc_common_localation_guide */
+"pc_common_localation_guide" = "Thêm quyền định vị vị trí";
+
+/* pc_common_localation_start */
+"pc_common_localation_start" = "Kích hoạt";
+
+/* pc_share_a_photo */
+"pc_share_a_photo" = "Chia sẻ 1 bức hình của %@";
+
+/* pc_share_a_selection_of_images */
+"pc_share_a_selection_of_images" = "Chia sẻ 1 album của %@";
+
+/* pc_share_a_video */
+"pc_share_a_video" = "Chia sẻ 1 clip ngắn của %@";
+
+/* pc_topDresser_tip */
+"pc_topDresser_tip" = "BXH lượng tương tác và số tác phẩm 3 ngày gần đây";
+
+/* 删除视频 */
+"删除视频" = "Xoá video";
+
+/* camera_effect_magicSkin */
+"camera_effect_magicSkin" = "Magic Skin";
+
+/* camera_effect_hdr */
+"camera_effect_hdr" = "HDR";
+
+/* camera_effect_animeSkye */
+"camera_effect_animeSkye" = "Anime Sky";
+
+/* camera_effect_movie */
+"camera_effect_movie" = "Phim ảnh";
+
+/* publish_goto_setting */
+"publish_goto_setting" = "Không thể tiến hành, xin vào cài đặt bằng tay";
+
+/* hot_recommond */
+"hot_recommond" = "Hot";
+
+/* pc_applydresser_now */
+"pc_applydresser_now" = "Xin Ngay";
+
+/* pc_feed_boutique_recomment */
+"pc_feed_boutique_recomment" = "Tốt";
+
+/* 已选择%d张照片 */
+"已选择%d张照片" = "Chọn %d ảnh";
+
+/* 已选择%d个视频 */
+"已选择%d个视频" = "Chọn %d video";
+
+/* 已选择%d个项目 */
+"已选择%d个项目" = "Chọn %d file";
+
+/* 制作动态照片 */
+"制作动态照片" = "Ảnh động";
+
